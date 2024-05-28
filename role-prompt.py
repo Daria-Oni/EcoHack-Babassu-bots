@@ -43,7 +43,7 @@ def extract_information(text):
     data = {
         "model": "openchat/openchat-7b:free",
         "messages": [{"role": "user", "content": prompt}],
-        "temperature": 0.4
+        "temperature": 0.5
     }
 
     # Print the prompt to see what is being sent to the API
@@ -65,7 +65,7 @@ def extract_information(text):
 
 def main():
     # Filename is set here
-    filename = "text.txt"
+    filename = "Amazonian Brazilian medicinal plants described by C.F.P. von Martius in the 19th century.txt"
     try:
         with open(filename, 'r') as file:
             file_text = file.read()
