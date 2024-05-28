@@ -1,0 +1,8119 @@
+Hindawi Evidence-Based Complementary and Alternative Medicine Volume 2019, Article ID 6087509, 25 pages https://doi.org/10.1155/2019/6087509
+
+Research Article The Use of Medicinal Plants in the Riverside Community of the Mazagão River in the Brazilian Amazon, Amapá, Brazil: Ethnobotanical and Ethnopharmacological Studies
+
+Rosângela do Socorro Ferreira Rodrigues Sarquis,1,2 Ícaro Rodrigues Sarquis,2 ,4 Gabriel Araújo da Silva,5 Iann Rodrigues Sarquis,3 Caio Pinho Fernandes Raullyan Borja Lima e Silva,6 Mário Augusto Gonçalves Jardim,7 Brenda Lorena Sánchez-Ort-z
+
+,2 and José Carlos Tavares Carvalho 1,2
+
+1 Graduate Program in Biodiversity and Biotechnology, Federal University of Amap´a (UNIFAP), Brazil 2Laboratory of Pharmaceutical Research, Pharmacy Course, Department of Biological Sciences and Health, Federal University of Amap´a (UNIFAP), Rodovia Juscelino Kubitscheck, Km 02, 68902-290 Macap´a, AP, Brazil 3Biochemistry Laboratory, Nursing Course, Department of Health Sciences, Faculdade Est´acio de Macap´a, Brazil 4Phytopharmaceutical Nanobiotechnology Laboratory, Pharmacy Course, Department of Biological and Health Sciences, Federal University of Amap´a (UNIFAP), Brazil 5Laboratory of Organic Chemistry and Biochemistry, Collegiate Degree in Chemistry, State University of Amap´a (UEAP), Brazil 6Center of Biodiversity, Institute for Scientific and Technological Research of Amap´a (IEPA), Brazil 7Paraense Em´ılio Goeldi Museum (MPEG), Coordination of Botany, Brazil
+
+Correspondence should be addressed to Jos´e Carlos Tavares Carvalho; farmacos@unifap.br
+
+Received 5 November 2018; Revised 15 February 2019; Accepted 4 March 2019; Published 10 April 2019
+
+Academic Editor: Filippo Fratini
+
+Copyright © 2019 Rosˆangela do Socorro Ferreira Rodrigues Sarquis et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+The inhabitants of the floodplain of the Mazag˜ao River in the State of Amap´a in the Brazilian Amazon have inherited from indigenous African and Cabocla cultures indications for the use and forms of preparation of medicinal plants to cure diseases of the body and spirit. This study aimed to perform an ethnopharmacological survey of medicinal plants used by the riparian community of the floodplains of the Mazag˜ao River, in the State of Amap´a. In this study, we chose semistructured interviews with socioeconomic, ethnopharmacological, and ethnobotanical aims. The collection of medicinal plants occurred during guided tours. The Use Value (UV), Informant Consensus Factor (ICF), Correction Factor (CF), and Fidelity level (FL) were calculated. There were 130 species of medicinal plants, distributed in 116 genera and 57 families; Fabaceae (16), Lamiaceae (14), Euphorbiaceae (7), and Arecaceae (6) include 33.33% of the total species sampled. All 95 native species of floodplain forests were previously described, and 35 are exotic species. The species with the highest UV (≥ 0.5) at the mouth of the Mazag˜ao River were Carapa guianensis (0.91), Pentachlethra macroloba (0.83), Dalbergia subcymosa (0.77), Uncaria tomentosa (0.75), Otacanthus azureus (0.62), Virola surinamensis (0.62), Hura crepitans (0.58), Euterpe oleracea (0.56), and Arrabidaea chica (0.51). These species were also the ones that presented the highest ICF among the informants and 100% in FL for a specific therapeutic use. The study is comprised of 16 categories of therapeutic use, of which the majority of the plants used are related to diseases such as microbial infections (20.67%, 73 species), gastrointestinal disorders (13.31%), and inflammation (11.61%). The results showed that knowledge about the use of medicinal plants along the rivers and streams that form the mouth of the Mazag˜ao River is evenly distributed. Most of the interviewees present diversified knowledge about the medicinal resources because they have a close relationship with the floodplain forest. Native species of this forest predominate among the most commonly used medicinal plants as subsidies for future pharmacological studies.
+
+2
+
+1. Introduction
+
+The floodplain forest is characterized by flood-prone areas influenced by white water rivers with high nutrient-rich sediment loads of Andean or pre-Andean origin, which occupy approximately 2/3 of the flood-prone areas in the Amazon [1]. These forests are inhabited by riparian people, human populations who live on the flood-prone river banks and who produce their food through vegetable extractivism, logging, fishing, handicrafts, and shrimp trapping [2, 3]. The floodplain has always played a central role in the development of the Amazon region, playing different roles in the food and economic survival of riparian dwellers at each period of their history [4, 5].
+
+The riverside communities of the tropical floodplains coexist with a great diversity of natural resources, and they develop some exploration techniques for their own survival, aiming for the establishment of their own management systems that allows them to achieve their needs with low environmental damage, all of this based on their experiences [6–8].
+
+The use of medicinal plants for the treatment of diseases is related to human evolution itself; its use has been reported in all time periods, in all social strata, and for almost all of humanity. The use of medicinal plants for therapeutical purposes in developing countries such as Brazil can be used as an alternative treatment [9, 10]. Phytotherapy and the use of medicinal plants are traditionally part of popular medicine based on the knowledge of different populations, users, and practitioners. It is an effective form of primary health care for the lower income population. Medicinal plants have strongly contributed to the development of new therapeutic strategies through the isolation and identification of its secondary metabolites. These are known to act directly or indirectly through several molecular and cellular targets [11].
+
+The use of medicinal plant-based medicines and the popular knowledge itself implies the need to implement basic research to clarify and confirm information about the actions of the plants, minimizing side, and toxicological effects so that their use is reliable and safe [12].
+
+Historically, the city of Mazag˜ao was founded in the 16th century in North Africa, then it was transferred in the eighteenth century to Portuguese America. It is located on the banks of the Mutuac´a River in the State of Amap´a, at the Brazilian Amazon rainforest [13]. The New Village of Mazag˜ao, lost in the banks of the Amazon rainforest, was a point of overlapping of cultures, dualities, and conflicts. The memory of the city of the Moroccan coast was diluted and adapted to the new conditions of Portuguese America, building a new urbanity [14]. At that time, the African Mazagans had to live with the outbreak of malaria, a tropical disease endemic to the region; and in order to survive they used traditional knowledge of the use of medicinal plants of the riverside and indigenous communities [15].
+
+Though cultural aspects such as the religious festivals in praise of St. James were preserved and, to this day in July, the battle waged between the Moors and Christians on the coast of Africa is remembered, new practices also emerged from the cultural synthesis of the Mazans, with indigenous people,
+
+Evidence-Based Complementary and Alternative Medicine
+
+slaves, and riparians [16, 17]. In the floodplain forest regions of the Eastern Amazon, medicinal plants represent the main form of disease treatment for most of the riparian populations living in this ecosystem, as they live geographically isolated from the urban centers, which causes barriers between them and the public services, especially health service and basic sanitation [18, 19]. These riverside communities have a very peculiar way of interacting with the environment where they live; in most of the houses, septic tanks are still used, and they overflow periodically when the river floods. This water is collected for consumption, several domestic tasks and even for the preparation of the ac¸a´ı wine (Euterpe oleracea), which is the main food consumed in the locality, but it does not undergo adequate treatment to be considered potable, making parasites and stomach diseases a recurring problem in the community [18, 20].
+
+The human populations that settled in floodplain regions started to have a very strong connection with the forest, knowing and exploring it, which allowed a greater contact with the vectors of tropical diseases such as malaria, Chagas disease, and tegumentary leishmaniasis, which are endemic diseases of these regions. To treat and control these diseases, they started to use medicinal plants, a knowledge that is acquired through both experience and verbal cultural transmission, which refers to the past knowledge of one generation to another and plays an important historical role as it facilitates human survival through these generations [19]. Therefore, the riverside inhabitants of the floodplain forest possess important collections of plants that are used for therapeutic purposes as they inherited the use and forms of preparation of medicinal plants for the cure of their diseases of the body and spirit from the indigenous African and Cabocla cultures [19]. However, this knowledge is usually restricted and little studied. Undoubtedly, many plants native to floodplains with therapeutic potential remain unknown and will become extinct because logging is reducing forests and decharacterizing traditional communities in the region. Few ethnobotanical studies have been performed in the area; for instance, Silva [20] surveyed plants used in Carv˜ao District, Mazag˜ao, AP, where 218 different plant species dis- tributed over 69 families were reported. In the riverside com- munities of Mazag˜ao Velho, Marac´a, and Ajurixi Nascimento [21] it has been reported 73 different plant species distributed over 37 families and their medicinal uses. Overall, these ethnobotanical and ethnopharmacological studies indicate an excellent target to pharmacological researches in the north of Brazil [19, 22, 23].
+
+The State of Amap´a has rich plant biodiversity, in addition to a great ethnic and cultural diversity, favoring the accumu- lation of empirical knowledge about medicinal uses of these plants. Considering the importance to rescue this knowledge from traditional communities and systematize it, this study aimed to perform an ethnobotanical and ethnopharmacolog- ical survey of medicinal plants used by riverside communities at the mouth of Mazag˜ao River, in the State of Amap´a.
+
+2. Materials and Methods
+
+2.1. Study Area. The municipality of Mazag˜ao occupies an 2 , it has a population of 17,032 inhabitants area of 13,131 km
+
+Evidence-Based Complementary and Alternative Medicine
+
+00∘1322
+
+51∘25 22 
+
+51∘24 22 
+
+51∘23 22 
+
+51∘22 22 
+
+51∘21 22 
+
+51∘20 22 
+
+51∘19 22 
+
+51∘18 22 
+
+00∘1434
+
+00∘1512
+
+00∘1649
+
+Figure 1: Location map of the mouth of the Mazag˜ao River, Amap´a State, Brazilian Amazon.
+
+2
+
+[24], it is 36 km long and a population density of 1.30 hab/km from the capital Macap´a, and it is located at the right margin of the Vila Nova River, south of the State of Amap´a under ∘ the geographic coordinates 00 W (Figure 1). Data collection occurred at the eastern boundary of the municipality of Mazag˜ao in a riparian community that lives at the mouth of the Mazag˜ao River, which has the Mutuac´a Mirim, Espinhel, Grande and Ajudante rivers as tributaries. The community at the mouth lives along the Mazag˜ao River, which is situated to the east of the Amazon River and to the west of the Old Mazag˜ao Village, according to Carim et al. [25], the predominant climate type Ami, based on the K¨oppen classification, with a minimum temperature of 23 C (annual average of C and a maximum temperature of 33 27 C), with relative humidity above 80%, high rainfall from 2,000 mm/year to 2,500 mm/year, and the Haplic Gleisol soil with a very clayey texture.
+
+󸀠 06
+
+󸀠󸀠 54
+
+∘ S and -51
+
+󸀠
+
+17
+
+20
+
+∘
+
+∘
+
+∘
+
+2.2. Research Authorization. At the beginning of the study, a meeting was organized with the community to present the project and its objectives to obtain community consent for the development of the study. Subsequently, according to the Resolutions of the National Commission for Research Ethics involving Humans and the National Health Coun- cil/Ministry of Health, the project was submitted to the Ethics Research Committee of the Faculdade Est´acio de Macap´a. To do so, the project was registered in the Brazil Platform at http://aplicacao.saude.gov.br/plataformabrasil/login.jsf, in which the following was inserted: interview forms (socioe- conomic, ethnobotanical and ethnopharmacological), Com- munity Consent Statement, and the terms of Free and
+
+󸀠󸀠
+
+Informed Consent, according to Resolution 466/12 of the National Health Council. This study was approved on 04/13/2016 under opinion number 14.94.994.
+
+2.3. Area of Study’s Typical Vegetation. Floodplain forests have about 25,000 km in the area of the Amazonian estuary; it represents about 4.85% from the State of Amap´a area and about 15.46% of the coastal estuarine sector [26]. These forests are the flooded ecosystem with the highest biodiversity in the world and have more than 1,000 different species of trees [27, 28]. The local vegetation is cataloged as Alluvial Dense Ombrophilous Forest [29], and the most representative plant families are Fabaceae, Malvaceae, Meliaceae, and Rubiaceae [30]. There is a significant number of palm trees such as Astrocaryum murumuru Mart., Manicaria saccifera Gaertn., Mauritia flexuosa L. f., Attalea excelsa (Aubl.) Mart., and Euterpe oleracea Mart.; and emerging trees such as Carapa guianensis Alblet, Virola surinamensis (Rol. ex Rottb.) Warb., Mora paraensis (Ducke) Ducke, Calycophyllum spruceanum (Benth.) Hook. f. ex K. Schum., Hevea brasiliensis (Willd. ex A. Juss.) M¨ull. Arg., Cedrela odorata L., and Pentaclethra macroloba (Willd.) Kuntze [30, 31].
+
+2
+
+The soil under estuarine floodplain forests of Mazag˜ao, AP is, shallow and continuously subjected to flood. In this area, the soil is cataloged as typical Eutrophic Ta Melanic Gleysol [32].
+
+2.4. Selection of Informants. In the community, there are 128 houses, all of which were visited, but only the families living in the community for at least 10 years were considered in the interviews. In the selected family, the person who
+
+3
+
+4
+
+everyone agreed was knowledgeable about home remedies (healer) was the one who was always approached because he/she cultivates and holds knowledge about local plants that are medicinal. A total of 93 forms were applied, rep- resenting 72.65% of the total families living in the commu- nity.
+
+The study area was investigated to get information from local traditional healers having practical knowledge of medic- inal plants; they were interviewed in two villages during April 2016 to May 2018. During the course of the study, six field trips were carried out in the study, and a total 30 days were spent with their local traditional healers. Methods of selecting informants depended upon the distribution of local people having sound knowledge.
+
+All participants agreed to sign the terms of Informed Consent. The interviews were conducted with semistruc- tured forms with open and closed questions about the socioeconomic aspects and the identification of respondents (age, ethnicity, schooling, sex, length of time living in the community, religion, food consumption, family income, and participation in any social project of the government) and information about the medicinal plants used (popular name, part used, indications, and preparation) were recorded. In this work, we considered both plants that are used for diseases well known and treatable by traditional medicine and those indicated for cultural diseases such as “panemeira” (a condition in which the individual is unlucky or has bad luck), bewitching, evil eye, or jinx (the individual is haunted by evil spirits). Other conditions included “ferida brava” (Leishmaniosis ulcer), ringworm (individual with itching in the body), bubo (inflammation in the lymph nodes), “´ura” or “fly eye” (fly larvae that lodges in the dermis and causes inflammation in the skin), catarrh in the chest (secretion in the lungs), and “nascida” (a tumor that swells in the skin of any part of the body).
+
+2.5. Collection of Botanical Material. The collections were carried out using the guided tour technique [33], which consisted of exploratory walks conducted by the interviewees in the backyard of their residence and in the interior of the forest to identify and collect botanical material from the medicinal plants mentioned during the interview. The referenced species were collected and herborized according to the usual methodology of Fidalgo and Bononi [34]. The plant material was identified by comparison to the Embrapa Eastern Amazon Herbarium; IAN collection; and specialized bibliography [35] and when necessary, via consultations with specialists. Exsiccating of the collected species was included in the IAN of the Embrapa Amazˆonia Oriental and Herb´ario Amapaense (HAMAB) of the Institute for Scientific and Technological Research of the State of Amap´a. The species mentioned only with the vegetative part were identified, when possible, through specialized literature and using virtual herbarium images for comparison. The spelling and authors of the scientific names were verified in the Missouri Botan- ical Garden database at www.tropicos.org, and the families were determined according to the classification system pro- posed by the Angiosperm Phylogenetic Group III [36]. The
+
+Evidence-Based Complementary and Alternative Medicine
+
+geographical origin of the species was verified in a specialized bibliography [35, 37].
+
+2.6. Data Analysis. The medicinal plants listed by the infor- mants were organized according to the scientific name, pop- ular name, part used, method of preparation, and indications for medicinal use. The reported diseases and symptoms were grouped into 16 categories of therapeutic use according to the indicated body systems. Data were analyzed statistically and described in percentages using Graphpad Prism software (version 6.0). To analyze the relative importance of a species for its ethnomedicinal use, quantitative data (frequency of use and therapeutic indication) were calculated using the Index of Use Value (UV), Loyalty Level (LL), Informant Consensus Factor (ICF), and Correction Factor (CF), according to the mathematical formulas below.
+
+2.6.1. Use Value (UV). It is a quantitative index that expresses the therapeutic importance of each species. It is calculated by the following formula: UV = ΣUi /n [38], where UV is equivalent to the Use Value of a species, Ui is the number of therapeutic uses reported for each species of plant, and n is the total number of respondents interviewed [39]. The UV parameter helps determine which plant is most frequently used for specific purposes. UV is high when the plant is mentioned by a large number of informants and low when there are few cited uses [40].
+
+2.6.2. Informant Consensus Factor (ICF). The proposal by Troter and Logan [41] aims to identify the body systems or categories of diseases that have greater relative importance in the site of the study. The ICF is calculated by obtaining the number of citations of uses in each category (Nur) minus the number of species used (Nt), divided by the number of use citations in each category minus 1. The maximum value a category can achieve is 1, which would indicate that there is a well-defined criterion for selecting medicinal plants in the community and/or that use information is shared among the people.
+
+ICF =
+
+(Nur − Nt) (Nur − 1)
+
+2.6.3. Fidelity Level (FL). The FL measures the species most frequently used by informants in the study area for a specific therapeutic treatment [42]. FL was calculated using the following formula:
+
+FL (%) = NP N
+
+× 100
+
+where Np is the number of citations for therapeutic use given by an informant indicating a species for the highest therapeutic use and N is the total number of informants who cited the species for some use. FL = 100% means that all informants use the species for a therapeutic application, while values below this value mean that the species is used for different purposes [40].
+
+(1)
+
+(2)
+
+Evidence-Based Complementary and Alternative Medicine
+
+2.6.4. Correction Factor (CF). The CF determines the differ- ence in the number of informants who cited uses for each species. The CF is calculated by the following formula: CF = N/ICEMC [43], where N is the total number of informants who cited uses for the species and ICEMC is the number of citations of the most frequent species. To extract the importance values related to the species most cited by the interviewees, the following formula was used: Pcusp = LL x CF [44], where Pcusp is the corrected concordance use index, NF is the loyalty level of use, and CF is the correction factor for each species.
+
+3. Results and Discussion
+
+3.1. Sociocultural Characteristics of Informants. The riverside community at the mouth of the Mazag˜ao River lives on the banks of a floodplain forest; the family income is based on the extractive management of the ac¸a´ı fruit (Euterpe oleracea) and regional shrimp (Macrobrachium amazonicum) fishery. In this study, 93 residents were interviewed, ranging in age from 18 to 70 years. The oldest informants with ages ranging from 51 to 70 years were responsible for 51% of citations for use of the medicinal plants; informants ranging from 31 and 50 years old for 38.7% of citations; and informants ranging from 18 to 30 years for 10.3%. When comparing the number of plants cited with the age of the interviewees, it can be seen that the oldest female subjects between 55 and 70 years of age presented the highest number of citations for medicinal plant use. Other ethnobotanical studies also point to the fact of older women knowing more about the medicinal use of plant species [6, 45]. The prevalence is likely higher in older women due to the household duties of caring for the children, the house and the yard, and the place around the house where “girais” (wood artifact, a type of raised bed garden that reaches 3 meters from the ground) are built for the planting of medicinal and food plants. Additionally, the riverside inhabitants live on the edge of the forest, which is periodically flooded, and there is a practice of passing on traditional knowledge about the use of medicinal plants to future generations by word of mouth.
+
+With regard to schooling, 20.4% of the older people were never literate, and those with elementary school education until the 5th grade represent 41% of the community; ele- mentary school through the 8th grade, 20%; high school, 8.6%; incomplete high school, 9%; and higher education, 1%. According to Elisabetsky [46], what makes traditional knowledge of interest to science is the verbal communication of the systematic observation of biological phenomena, made by people who are often illiterate but are certainly insightful regarding the observations of the environment where they live. In this study, it is possible to verify that the older interviewees and those with less education in general are able to recognize a greater number of medicinal plants than are the younger interviewees. This pattern is also observed in other studies, such as those by Hanazaki et al. [47], Pinto [6], and Negrelle et al. [48].
+
+3.2. Diversity of Medicinal Plants. A total of 130 medici- nal species were identified, which were distributed in 116
+
+genera and 57 families. Fabaceae (16 species), Lamiaceae (14), Euphorbiaceae (7), Arecaceae (6), Asteraceae (4), Rubiaceae (4), Rutaceae (4), Amaranthaceae (4), and Anacardiaceae (4) accounted for the greatest number of species, totaling 48.83% of the sampled species, and 22.5% of the families were represented by only one species. In total, 95 native species of floodplain forest and 35 exotic or introduced species were mentioned (Table 1).
+
+Inventories in Amazonian floodplain forests have shown that Fabaceae has the greatest diversity of species [1, 5, 25, 49, 50]. This fact is demonstrated in this study and is corroborated by Guarado Neto and Moraes [51], who state that when human populations use the native forest for medicinal purposes, the family that has the largest number of species used is the most representative family of the forest.
+
+A study performed by V´asquez et al. [52] at riverside communities of Manacapuru, in the state of Amazonas, reported that 82.7% of the plants used were cultivated, and the family Lamiaceae was the most representative, while in our study the most representative plant family regarding the frequency of citations was Fabaceae. Of the plants cited, 73.07% of them were taken from the forest while 26.93% were cultivated, showing that the people from this community enter the forest to search for the plants.
+
+The “Use” criterion of a species is in the versatility of being mentioned for several therapeutic indications in the community [53, 54]. According to Alexiades [55], the most reliable medicinal uses are those already used by informants, relatives or acquaintances. The species with the highest levels of use agreement and frequency were Carapa guia- nensis, Pentaclethra macroloba, Dalbergia monetaria, Uncaria tomentosa, Otacanthus azureus, Virola surinamensis, Hura crepitans and Euterpe oleracea. In other studies, carried out in the Brazilian Amazon, the species Carapa guianensis, Pentaclethra macroloba, Uncaria tomentosa, and Virola suri- namensis were also the most cited in terms of therapeutic use, demonstrating their regional value and the certainty that these plants may become targets in pharmacological research in the region [56, 57].
+
+3.3. Used Plant Parts. A total of 170 therapeutic preparations were mentioned, and bark, aerial parts, latex, rhizome, leaf, seed, root, flower, inflorescence, and fruit were the parts of the plant used in the preparations. The most used parts were leaf (40%), bark (32.95%), fruits (7.64%), root (4.7%), and inflorescence (4.7%). In the community, parts of the same plant may be used for distinct indications, such as in Carapa guianensis, Pentaclethra macroloba, and Virola surinamensis, whose oil extracted from the seed is used topically in the case of inflammatory processes of the skin, as a repellent and for the healing of wounds, and the leaves and barks are used in oral preparations by decoction for inflammation of the digestive, urinary, and reproductive systems.
+
+The leaves are vegetative structures that stand out in the methods of ethnomedicinal preparations by decoction, maceration, and infusion in traditional communities in Brazil [50, 58, 59] and in other regions of the world [39, 60– 63]. One of the reasons is the ease of collection [64] and
+
+5
+
+6
+
+. e u l a v e s u e h t d n a
+
+, a i n o z a m A n a i l i z a r B
+
+, ´a p a m A
+
+f o e t a t S
+
+, r e v i R o ˜a g a z a
+
+M
+
+e h t
+
+f o h t u o m e h t
+
+t a
+
+s t n e d i s e r y b s t n a l p
+
+l a n i c i d e m
+
+s a d e s u s e i c e p s
+
+l a t e g e V
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+9 0 0
+
+,
+
+7 r o f y a d a x 3 p u c
+
+s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+,
+
+n o i t a m m a fl n
+
+i
+
+,
+
+n i a P
+
+. a i r a l a m d n a a i m e n A
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+e v i t a N
+
+´u b m a J
+
+n e s n a J
+
+.
+
+K R ) . L ( a e c a r e l o a l l e m c A ) 1 (
+
+.
+
+8 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r e t s A (
+
+2 0 0
+
+,
+
+r o f
+
+y a d a
+
+x 4 n o o p s
+
+. s y a d 7
+
+1
+
+;
+
+n o i t c o c e D
+
+t s e h c
+
+d n a
+
+) g n u
+
+e h t n
+
+i h r r a t a C
+
+l
+
+e h t n
+
+i
+
+n o i t e r c e s (
+
+.
+
+h g u o c
+
+s e v a e l
+
+d n a
+
+t o o R
+
+e v i t a N
+
+´a j a c u M
+
+x e .
+
+d d o L ) . q c a J ( a t a e l u c a a i m o c o r c A ) 2 (
+
+3 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c e r A (
+
+. t r a M
+
+7 1 , 0
+
+d n a
+
+y l i a d x 2 p o o c s
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d 7 r o f
+
+m a e t s x 2 e l a h n
+
+i
+
+e h t
+
+f o n o i t a m m a fl n
+
+i
+
+. r e v e f d n a t a o r h t
+
+,
+
+d o C
+
+l
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+o h l a ’ d ´o p i C
+
+s r e i
+
+M m u e c a i l l a a n m y l a c o n e d A ) 3 (
+
+9 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i n o n g i B (
+
+6 4 0
+
+,
+
+e h t
+
+e h t a b
+
+;
+
+n o i s u f n
+
+i d n a
+
+g n i e y D
+
+. s y a d 0 1
+
+r o f y a d e h t n
+
+i
+
+x 2
+
+y d o b
+
+d n a s e v r e n e h t
+
+f o n o i t a t i r r I
+
+. e h c a d a e h g n o r t s
+
+s e v a e L
+
+d e c u d o r t n I
+
+e d a g n i t a a C
+
+a t a l u m
+
+x e
+
+. t t a M
+
+s n e l o e v a u s
+
+s u h t n a l l o e A ) 4 (
+
+. g n e r p S
+
+9 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+1 0 0
+
+,
+
+7 r o f y a d a x 2 n o o p s
+
+1
+
+;
+
+n o i t c o c e D
+
+0 1
+
+r o f y a d a x 1
+
+r i a h k a o s d n a
+
+s y a d
+
+. s y a d 3
+
+r o f
+
+s e t u n m
+
+i
+
+d n a e c i l
+
+f o n o i t a n m
+
+i
+
+. s c i t n m e h i t n a
+
+i
+
+i l
+
+E
+
+s e v a e l
+
+d n a
+
+e t a d u s x E
+
+e v i t a N
+
+´u c¸ u i u B
+
+.
+
+L a c i t r a h t a c a d n a m a l l
+
+A ) 5 (
+
+0 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a n y c o p A (
+
+3 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+h c a m o t s
+
+e h t n
+
+i
+
+n i a p
+
+s c i t n m e h i t n a d n a
+
+i
+
+,
+
+u F
+
+l
+
+s e v a e L
+
+d e c u d o r t n I
+
+o h A
+
+l
+
+.
+
+L m u v i t a s
+
+8 3 9 8 B A M A H
+
+m u i l l
+
+A ) 6 (
+
+, ) e a e c a i l i
+
+L (
+
+0 1 , 0
+
+l i t n u y a d a x 3 d n e p s
+
+;
+
+m s a l p a t a C
+
+.
+
+y r d s i d n u o w e h t
+
+.
+
+g n
+
+i l a e H
+
+s e v a e L
+
+e v i t a N
+
+a s o b a B
+
+.
+
+m r u B ) . L ( a r e v e o l A ) 7 (
+
+0 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a l e d o h p s A (
+
+Evidence-Based Complementary and Alternative Medicine
+
+1 0 0
+
+,
+
+0 2 0
+
+,
+
+1 0 0
+
+,
+
+7 0 0
+
+,
+
+6 1 , 0
+
+7
+
+1
+
+1
+
+1
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+f o s e v a e l
+
+;
+
+n o i t c o c e D
+
+,
+
+a n a i l i s a r b a r e h t n a n r e t l
+
+A
+
+d n a a t a t n e d a r e h t n a n r e t l
+
+A
+
+t s e g n
+
+i
+
+,
+
+a e d i o c fi a r e h t n a n r e t l
+
+A
+
+. s y a d 0 2
+
+r o f y a d a x 4 p u c
+
+f o s e v a e l
+
+;
+
+n o i t c o c e D
+
+,
+
+a n a i l i s a r b a r e h t n a n r e t l
+
+A
+
+d n a a t a t n e d a r e h t n a n r e t l
+
+A
+
+t s e g n
+
+i
+
+,
+
+a e d i o c fi a r e h t n a n r e t l
+
+A
+
+. s y a d 0 2
+
+r o f y a d a x 4 p u c
+
+f o s e v a e l
+
+;
+
+n o i t c o c e D
+
+,
+
+a n a i l i s a r b a r e h t n a n r e t l
+
+A
+
+d n a a t a t n e d a r e h t n a n r e t l
+
+A
+
+t s e g n
+
+i
+
+,
+
+a e d i o c fi a r e h t n a n r e t l
+
+A
+
+. s y a d 0 2
+
+r o f y a d a x 4 p u c
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+. a i r a l a
+
+M
+
+y e n d i k f o n o i t a n m
+
+i
+
+i l
+
+E
+
+s n o i t c e f n
+
+i
+
+, r o m u t i t n a , e n o t s
+
+. r e d d a l b d n a
+
+r e v i l
+
+e h t
+
+f o
+
+y e n d i k f o n o i t a n m
+
+i
+
+i l
+
+E
+
+e h t
+
+f o s n o i t c e f n
+
+i
+
+, e n o t s
+
+. s n i a p h c a m o t s
+
+, r e v i l
+
+y e n d i k f o n o i t a n m
+
+i
+
+i l
+
+E
+
+e h t
+
+f o n o i t a m m a fl n
+
+i
+
+, e n o t s
+
+.
+
+y r a v o d n a s u r e t u
+
+. s p m a r c e n i r e t u
+
+, a e h r r a i D
+
+t o o r d n a k r a B
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+u r u j a c ,
+
+´u r u j a r a C
+
+o d a u t ´e p r e P
+
+,
+
+o t a m
+
+. a v i v - e r p m e s
+
+a n e l a b i C
+
+o h n i t i u q i r i P
+
+e d r e v
+
+u j a C
+
+. g n e r p S s i s n e i l i s a r b a i r e m e o r t s l A ) 8 (
+
+1 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i r e m e o r t s l A (
+
+e z t n u K ) . L ( a n a i l i s a r b a r e h t n a n r e t l
+
+A ) 9 (
+
+9 9 0 4 9 1
+
+N A
+
+I
+
+, ) e a e c a h t a r a m A (
+
+) h c n e o M
+
+( a t a t n e d a r e h t n a n r e t l
+
+A ) 0 1 (
+
+, ) e a e c a h t n a r a m A
+
+(
+
+. r F
+
+.
+
+E R x e k ´ı l h c u t S
+
+.
+
+4 3 9 5 9 1
+
+N A
+
+I
+
+.
+
+m S ) . L ( a e d i o c fi a r e h t n a n r e t l
+
+A ) 1 1 (
+
+2 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a h t n a r a m A (
+
+.
+
+L e l a t n e d i c c o m u i d r a c a n A ) 2 1 (
+
+7 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i d r a c a n A (
+
+Evidence-Based Complementary and Alternative Medicine
+
+V U
+
+3 0 0
+
+,
+
+1 5 , 0
+
+1 0 0
+
+,
+
+2 0 0
+
+,
+
+3 0 0
+
+,
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+x 3 p u c
+
+1
+
+;
+
+n o i t c o c e d d n a p u r y S
+
+s e s u
+
+l a n o i t i d a r T
+
+. e r o s n i k s d n a a e h r r a i D
+
+g n i h s a w
+
+, a e h r r a i d
+
+, a i m e n A
+
+d n a n i k s w o
+
+l l e y
+
+, s d n u o w
+
+f o
+
+t n a n g e r p f o y d o b n e l l
+
+o w s
+
+.
+
+n a m o w
+
+d n a n o i t a m m a fl n
+
+i
+
+e y e
+
+g o D
+
+. s e y e n a m u h n
+
+i
+
+n o i t a t i r r i
+
+f o n o i t a m m a fl n
+
+i
+
+, l a e h r r a i D
+
+. s u r e t u e h t
+
+d n a m
+
+s i t a m u e h r
+
+,
+
+n i a p t n i o J
+
+. s i l i h p y s
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+d e s u t r a p t n a l P
+
+s e v a e L
+
+s e v a e L
+
+t i u r F
+
+t o o R
+
+k r a B
+
+n o i t u b i r t s i
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+D
+
+e m a n
+
+l a c o L
+
+a l o i v a r G
+
+i r i r a P
+
+u r u m u r u M
+
+´a j a r a
+
+M
+
+i t u b a j
+
+e d a d a c s E
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+.
+
+L a t a c i r u m a n o n n A ) 3 1 (
+
+5 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a n o n n A (
+
+. l r e V
+
+.
+
+B ) . l p n o B ( a c i h c a e a d i b a r r A ) 4 1 (
+
+7 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a i n o n g i B (
+
+. t r a M u r u m u r u m m u y r a c o r t s A ) 5 1 (
+
+7 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a c e r A (
+
+. t r a M a j a r a m
+
+s i r t c a B ) 6 1 (
+
+6 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a c e r A (
+
+.
+
+h t n u K s n e d n e l p s a i n i h u a B ) 7 1 (
+
+5 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+8 0 0
+
+,
+
+a p a r a C h t i
+
+w x i M
+
+n o s s a p d n a
+
+l i o
+
+. l
+
+. s y a d 7 r o f
+
+y l i a d
+
+b u A
+
+s i s n e n a i u g
+
+a e h r r a i d
+
+,
+
+n r u b
+
+, t n e l l e p e R
+
+. a m h t s a d n a
+
+t i u r F
+
+e v i t a N
+
+m u c u r U
+
+.
+
+L a n a l l e r o a x i B ) 8 1 (
+
+1 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a x i B (
+
+.
+
+y a d a x 1
+
+y d o b e h t
+
+3 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. l
+
+o r e t s e l o h c d n a a i m e n A
+
+s e v a e L
+
+d e c u d o r t n I
+
+a g i e t n a m e v u o C
+
+.
+
+L a e c a r e l o a c i s s a r B ) 9 1 (
+
+2 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c i s s a r B (
+
+3 0 0
+
+,
+
+n
+
+i x 2 n i k s e h t n o s s a p
+
+;
+
+n o i t c o c e D
+
+. s y a d 7
+
+r o f y a d e h t
+
+.
+
+n i k s
+
+e h t
+
+f o n o i t a t i r r I
+
+s e v a e L
+
+d e c u d o r t n I
+
+u c u r a r i P
+
+) .
+
+m a L (
+
+m u t a n n i p m u l l y h p o y r B ) 0 2 (
+
+n e k O
+
+4 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a l u s s a r C (
+
+1 0 0
+
+,
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+,
+
+g n i d e e l B
+
+s d n u o w
+
+f o g n i h s a w
+
+, l a r e n e g
+
+. s g e l
+
+e h t
+
+f o g n
+
+i l l e w s d n a
+
+t i u r F
+
+e v i t a N
+
+´a c u J
+
+P. L ) . l i
+
+.
+
+T x e . t r a M
+
+0 4 9 5 9 1
+
+N A
+
+( a e r r e f a i b i d i b i L ) 1 2 (
+
+I
+
+, ) e a e c a b a F (
+
+z o r i e u Q
+
+7 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+s u r e t u e h t n
+
+i
+
+n i a p
+
+n
+
+i
+
+n o i t a m m a fl n
+
+. l a r e n e g
+
+, r e v e F
+
+i d n a
+
+s e v a e L
+
+e v i t a N
+
+o h n i r i e l i s a r B
+
+t t o h c S i i t d l o b m u h m u i d a l a C ) 2 2 (
+
+5 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a r A (
+
+1 0 0
+
+,
+
+a x 4 n i k s
+
+e h t n o s s a p
+
+; e t a d u x E
+
+. s y a d 7
+
+r o f y a d
+
+d n a m
+
+s i t a m u e h r
+
+,
+
+. e r o s n i k s
+
+n i a p t n i o J
+
+k r a B d n a
+
+e t a d u s x E
+
+e v i t a N
+
+a b ´u e r a c a J
+
+. s s e b m a C e s n e i l i s a r b m u l l y h p o l a C ) 3 2 (
+
+7 3 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i s u C (
+
+l
+
+m u n a e c u r p s
+
+m u l l y h p o c y l a C ) 4 2 (
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+,
+
+g n i h c t I
+
+. s g n i t s
+
+t c e s n
+
+i d n a l a r e n e g
+
+k r a B
+
+e v i t a N
+
+o t a l u m u a p
+
+.
+
+m u h c S .
+
+K x e . f
+
+.
+
+k o o H
+
+) . h t n e B (
+
+, ) e a e c a i b u R (
+
+0 8 9 5 9 1
+
+N A
+
+I
+
+1 9 0
+
+,
+
+y l i a d x 4 n o o p s a e t
+
+1
+
+t s e g n
+
+i
+
+; l i
+
+O
+
+y l i a d x 2 e s u
+
+l a c i p o t
+
+, s y a d 0 1
+
+r o f
+
+. s y a d 7
+
+r o f
+
+, l a r e n e g n
+
+i
+
+n o i t a m m a fl n I
+
+y l l e b t n a n g e r p e h t
+
+e g a s s a m
+
+. e c a l p n
+
+i
+
+y b a b e h t
+
+t u p o t
+
+d e e S
+
+e v i t a N
+
+a b o r i d n A
+
+. l b u A s i s n e n a i u g a p a r a C ) 5 2 (
+
+2 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a i l e
+
+M
+
+(
+
+7
+
+8
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+8 0 0
+
+,
+
+y a d a x 4 n o o p s a e t
+
+. s y a d 7
+
+1
+
+;
+
+r o f
+
+n o i t c o c e D
+
+d n a n o i t a t i r r i
+
+. s e s o n m r e v
+
+i
+
+n i k S
+
+s e v a e L
+
+e v i t a N
+
+a b ´u a b m E
+
+a h l e m r e v
+
+l u c ´e r T a y h c a t s y h c a p a i p o r c e C ) 6 2 (
+
+6 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c i t r U
+
+(
+
+8 0 0
+
+,
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+y l i a d x 4
+
+,
+
+n o i t a t i r r i
+
+n i k s
+
+. s n o i t c e f n
+
+i
+
+, e s o n m r e V
+
+i
+
+l a n i t s e t n
+
+i
+
+k r a B
+
+e v i t a N
+
+o r d e C
+
+.
+
+L a t a r o d o a l e r d e C ) 7 2 (
+
+1 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i l e
+
+M
+
+(
+
+1 0 0
+
+,
+
+y a d a x 4 n o o p s a e t
+
+. s y a d 0 1
+
+1
+
+;
+
+n o i t c o c e D
+
+r o f
+
+n i k s
+
+, s
+
+m e l b o r p y r a n o m u P
+
+l
+
+y e n d i k d n a
+
+s e r o s
+
+, s n o i t c e f n
+
+. s e n o t s
+
+i
+
+t o o r d n a s e h c n a r B
+
+e v i t a N
+
+.
+
+´u r a c a d n a M
+
+.
+
+C D u r a c a m a j
+
+6 7 9 5 9 1
+
+N A
+
+I
+
+s u e r e C ) 8 2 (
+
+, ) e a e c a t c a C (
+
+1 1 , 0
+
+y a d a x 4 n o o p s a e t
+
+. s y a d 7
+
+1
+
+;
+
+r o f
+
+n o i t c o c e D
+
+.
+
+n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+,
+
+n i a P
+
+m
+
+s i t a m u e h r d n a l a r e n e g
+
+s e v a e L
+
+d e c u d o r t n I
+
+z u r t s a
+
+M
+
+.
+
+L s e d i o i s o r b m a m u i d o p o n e h C ) 9 2 (
+
+8 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a h t n a r a m A (
+
+0 1 , 0
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+, l a r e n e g n
+
+i
+
+n o i t a m m a fl n I
+
+. r e v e f d n a n i a p
+
+t o o r d n a
+
+s e v a e L
+
+d e c u d o r t n I
+
+a i r ´o c i h C
+
+.
+
+L s u b y t n i
+
+m u i r o h c i C ) 0 3 (
+
+9 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r e t s A (
+
+2 0 0
+
+,
+
+x 2 p u c
+
+1
+
+;
+
+n o i s u f n
+
+. s y a d 7
+
+r o f
+
+i d n a p u r y S
+
+y l i a d
+
+n o i t a m m a fl n
+
+i
+
+, a e h r r a i d
+
+n
+
+i
+
+s d n u o w d n a s u r e t u e h t
+
+.
+
+h t u o m e h t
+
+,
+
+u F
+
+l
+
+f o
+
+k r a b d n a s e v a e L
+
+d e c u d o r t n I
+
+a l e n a C
+
+. e m u l B m u c i n a l y e z m u m o m a n n i C ) 1 3 (
+
+2 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r u a L (
+
+3 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+, e r u s s e r p d o o b h g i H
+
+l
+
+d n a s r o m e r t
+
+, a i m e n a , e k o r t s
+
+. s e r u z i e s
+
+c i t p e l i p e
+
+s e v a e L
+
+e v i t a N
+
+, ´a c u m u r u - ´o p i C
+
+´a c u p - ´o p i c
+
+& n o s l o c i N
+
+3 8 9 5 9 1
+
+) . L ( a t a l l i c i t r e v s u s s i C ) 2 3 (
+
+N A
+
+I
+
+, ) e a e c a t i
+
+V
+
+(
+
+s i v r a J
+
+.
+
+E C
+
+.
+
+Evidence-Based Complementary and Alternative Medicine
+
+7 0 0
+
+,
+
+2 0 0
+
+,
+
+9 2 0
+
+,
+
+2 0 0
+
+,
+
+2 0 0
+
+,
+
+3 0 0
+
+,
+
+t a y a d a x 2 p u c
+
+1
+
+;
+
+n o i t a r e c a
+
+M
+
+. s y a d 7 r o f k s u d d n a n w a d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 m a e t s
+
+e h t
+
+e l a h n
+
+i d n a
+
+y l i a d
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+a x 2 p u c
+
+1
+
+t o o r
+
+e h t
+
+f o n o i t c o c e D
+
+l l i
+
+w r e t a w
+
+t i u r f d n a
+
+s y a d 7 r o f y a d
+
+. s y a d 7 r o f
+
+y a d e h t
+
+g n i r u d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+t n a n g e r p a
+
+f o g n
+
+i l l e w S
+
+n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+,
+
+n a m o w
+
+e h t
+
+f o g n i h c t i d n a , l a r e n e g
+
+. t o o f
+
+d n a m
+
+s i t a m u e h R
+
+e h t
+
+f o n o i t a m m a fl n
+
+i
+
+. s y e n d i k
+
+d n a m
+
+s i t a m u e h R
+
+e h t
+
+f o n o i t a m m a fl n
+
+i
+
+. s y e n d i k
+
+d n a d l i h c
+
+f o n o i t a r d y H
+
+. s e s o n m r e v
+
+i
+
+s u r e t u e h t
+
+f o n o i t a m m a fl n I
+
+f o s e s a e s i d d n a ,
+
+y r a v o d n a
+
+.
+
+h c a m o t s
+
+e h t
+
+s u r e t u e h t
+
+f o n o i t a m m a fl n I
+
+l a n i g a v
+
+,
+
+y r a v o d n a
+
+. s i l i h p y s d n a
+
+e g r a h c s i d
+
+k r a B
+
+t i u r F
+
+t i u r F
+
+t o o r d n a t i u r F
+
+l i o d n a k r a B
+
+t r a p
+
+l a i r e A
+
+d e c u d o r t n I
+
+d e c u d o r t n I
+
+d e c u d o r t n I
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+a r r e t
+
+a d a j n a r a L
+
+o g e l a g o ˜a m L
+
+i
+
+o ˜a m L
+
+i
+
+o c ˆo C
+
+a b i a p o C
+
+, e h c fi a n a C
+
+a n a r a n a c
+
+.
+
+L m u i t n a r u a s u r t i
+
+C ) 3 3 (
+
+0 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t u R (
+
+.
+
+m r u B ) . L ( n o m
+
+i l
+
+s u r t i
+
+C ) 4 3 (
+
+8 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t u R (
+
+.
+
+L m u n o m
+
+i l
+
+s u r t i
+
+C ) 5 3 (
+
+9 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t u R (
+
+.
+
+L a r e f i c u n s o c o C ) 6 3 (
+
+0 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c e r A (
+
+.
+
+p s a r e f i a p o C ) 7 3 (
+
+1 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+.
+
+w S ) . q c a J (
+
+s u t a c i p s
+
+s u t s o C ) 8 3 (
+
+3 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t s o C (
+
+Evidence-Based Complementary and Alternative Medicine
+
+V U
+
+5 0 0
+
+,
+
+1 0 0
+
+,
+
+8 1 , 0
+
+1 0 0
+
+,
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+0 1
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+s e s u
+
+l a n o i t i d a r T
+
+d n a r e v e f
+
+, a i r a l a
+
+M
+
+.
+
+m
+
+s i t a m u e h r
+
+, s e t e b a i d
+
+, a e h r r a i D
+
+, r e v i l
+
+e h t
+
+f o n o i t a m m a fl n
+
+i
+
+. r e d d a l b d n a
+
+s y e n d i k
+
+d n a c i g a h r r o m e H
+
+. s u r e t u e h t
+
+f o n o i t a m m a fl n
+
+, s e n o t s y e n d i k e t a n m
+
+i
+
+i l
+
+E
+
+n o i t a m m a fl n
+
+i
+
+, s d i o h r r o m e h
+
+.
+
+g n i t i
+
+m o v
+
+, s y e n d i k e h t
+
+f o
+
+i
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+d e s u t r a p t n a l P
+
+k r a b d n a s e v a e L
+
+k r a b d n a s e v a e L
+
+k r a B
+
+t i u r F
+
+n o i t u b i r t s i
+
+D
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+d e c u d o r t n I
+
+e m a n
+
+l a c o L
+
+o r i e i u C
+
+a c a c a S
+
+e u g n a s r o F
+
+e x i x a M
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+a l u r e b u p . r a v e t e j u c a i t n e c s e r C ) 9 3 (
+
+, ) e a e c a i n o n g i B (
+
+.
+
+m u h c S .
+
+K & u a e r u B
+
+9 5 9 5 9 1
+
+N A
+
+.
+
+h t n e B a r a c u j a c n o t o r C ) 0 4 (
+
+4 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+. l l i a B a n a r u c u r u n o t o r C ) 1 4 (
+
+6 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+.
+
+L a i r u g n a s i
+
+m u c u C ) 2 4 (
+
+8 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t i b r u c u C (
+
+I
+
+0 1 , 0
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+s u r e t u e h t
+
+f o n o i t a m m a fl n I
+
+l a n m o d b a d n a y r a v o d n a
+
+i
+
+.
+
+n i a p
+
+s e v a e L
+
+d e c u d o r t n I
+
+o h n i r a m m i p a C
+
+f p a t S ) . C D
+
+(
+
+s u t a r t i c n o g o p o b m y C ) 3 4 (
+
+3 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a o P (
+
+7 7 0
+
+,
+
+t s e g n
+
+i
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+d n a
+
+a e h r r a i d
+
+.
+
+n o i t c e f n
+
+,
+
+i
+
+n o i t a m m a fl n I
+
+l a n i t s e t n
+
+i
+
+k r a B
+
+e v i t a N
+
+a c i n ˆo r e V
+
+. f
+
+.
+
+L a i r a t e n o m a i g r e b l a D
+
+) 4 4 (
+
+4 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+2 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. e r u s s e r p h g i H
+
+t i u r F
+
+e v i t a N
+
+a r i e v a F
+
+. l u T a n a i r e n d r a g a r d n a h p r o m D
+
+i
+
+) 5 4 (
+
+5 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+8 1 , 0
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+g n
+
+i l a e h d n u o w
+
+, s e s o n m r e V
+
+i
+
+.
+
+n i k s
+
+e h t n o
+
+e m o z i h R
+
+d e c u d o r t n I
+
+, ´a p u r a
+
+M
+
+o h n i z ´a p u r a
+
+M
+
+.
+
+b r U
+
+) . l l i
+
+M
+
+( a s o b l u b e n i r e h t u e l E ) 6 4 (
+
+7 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a d i r I (
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+,
+
+d a e h d n a
+
+y d o b n
+
+i
+
+d n a n o i t a m m a fl n
+
+. s e s o n m r e v
+
+i
+
+n i a P
+
+i
+
+k r a B
+
+e v i t a N
+
+a n a r u c a s s A
+
+. r u o L a c s u f a n i r h t y r E ) 7 4 (
+
+8 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+4 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. l a r e n e g n
+
+i
+
+n o i t a m m a fl n I
+
+s e v a e L
+
+d e c u d o r t n I
+
+o t p i l a c u E
+
+.
+
+p s
+
+s u t p y l a c u E ) 8 4 (
+
+0 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a t r y M
+
+(
+
+9 0 0
+
+,
+
+3 p u c
+
+1
+
+t s e g n
+
+i
+
+;
+
+. s y a d 7
+
+n o i s u f n
+
+i d n a p u r y S
+
+r o f
+
+y l i a d x
+
+u F
+
+l
+
+s t r a p
+
+l a i r e A
+
+d e c u d o r t n I
+
+a n a p a J
+
+. l h a V e v r e n i l p i r t
+
+6 4 9 5 9 1
+
+m u i r o t a p u E ) 9 4 (
+
+N A
+
+I
+
+, ) e a e c a r e t s A (
+
+6 5 , 0
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+l a n i t s e t n
+
+i d n a a e h r r a i D
+
+.
+
+n o i t a m m a fl n
+
+i
+
+k r a B
+
+e v i t a N
+
+´ı a c¸ A
+
+. t r a M a e c a r e l o e p r e t u E ) 0 5 (
+
+9 1 9 0 1 B A M A H
+
+, ) e a e c a c e r A (
+
+9
+
+10
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+3 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+,
+
+n i k s
+
+e h t n o s e r o s
+
+, a e h r r a i D
+
+e h t n
+
+i
+
+m g e l h p d n a
+
+s n i a p
+
+.
+
+g n u
+
+l
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+a m a fl n i s e D
+
+.
+
+L a n a c i r e m a a p i n e G
+
+) 1 5 (
+
+1 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i b u R (
+
+1 2 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. s n o i t c e f n
+
+i
+
+f o r e v e F
+
+s e v a e L
+
+d e c u d o r t n I
+
+o ˜a d o g l A
+
+.
+
+L m u t u s r i h m u i p y s s o G
+
+0 9 6 5 9 1
+
+N A
+
+I
+
+, ) e a e c a v l a
+
+) 2 5 (
+
+M
+
+(
+
+d n a n o i t c o c e d
+
+,
+
+y r t l u o P
+
+4 0 0
+
+,
+
+y l i a d x 2 x
+
+1
+
+y a d n
+
+i x 2 e s u
+
+t s e g n
+
+i
+
+,
+
+n o i t a r e c a m
+
+l a c i p o T
+
+. s y a d 0 1
+
+r o f
+
+d n u o w e v a r B
+
+. ) s i s a i n a m h s i e l (
+
+d n a
+
+s e v a e l
+
+,
+
+s r e w o fl
+
+k r a B
+
+e v i t a N
+
+a n a r a p i n e G
+
+.
+
+L a t s u g u a a i v a t s u G
+
+) 3 5 (
+
+3 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a d i h t y c e L (
+
+. s y a d 7
+
+r o f
+
+3 0 0
+
+,
+
+2 e s u
+
+l a c i p o t
+
+, e c i t l u o p s a
+
+. s y a d 7 r o f
+
+y a d n
+
+e t a d u x E
+
+i x
+
+d n u o w e v a r B
+
+. ) s i s a i n a m h s i e l (
+
+e t a d u s x E
+
+e v i t a N
+
+a r i e u g n
+
+i r e S
+
+.
+
+N A
+
+A x e .
+
+d l l i
+
+W
+
+(
+
+s i s n e i l i s a r b a e v e H
+
+) 4 5 (
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+. g r A
+
+. l l ¨u M
+
+) . s s u J
+
+8 6 0 6 9 1
+
+4 0 0
+
+,
+
+y a d n
+
+i x 2 e s u
+
+l a c i p o t
+
+. s y a d 7
+
+r o f
+
+;
+
+m s a l p a t a C
+
+n o i t a m m a fl n
+
+i
+
+, s e s o n m r e V
+
+i
+
+, s u r e t u e h t n
+
+i
+
+n i a p d n a
+
+.
+
+m
+
+s i t a m u e h r d n a
+
+a i r a l a m
+
+e t a d u s x e d n a k r a B
+
+e v i t a N
+
+a b ´u u c u S
+
+x e
+
+e c u r p S ( a b u u c u s
+
+s u h t n a t a m H
+
+i
+
+, ) e a e c a n y c o p A ( n o s d o o W
+
+) . g r A
+
+7 0 1 4 9 1
+
+) 5 5 (
+
+. l l ¨u M
+
+N A
+
+I
+
+Evidence-Based Complementary and Alternative Medicine
+
+8 5 , 0
+
+7 1 , 0
+
+4 0 0
+
+,
+
+1 0 0
+
+,
+
+8 3 , 0
+
+8 0 0
+
+,
+
+1 2 0
+
+,
+
+1 2 0
+
+,
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+y l i a d x 2
+
+0 1
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+e s u
+
+l a c i p o t
+
+; e c i t l u o p d n a n o i s u f n I
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+x 2 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a
+
+g n i e y D
+
+. s y a d 0 1
+
+r o f
+
+y l i a d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i s u f n I
+
+. s y a d
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+. r e c n a C
+
+d n a n i a p
+
+, a e h r r a i D
+
+.
+
+y d o b e h t n
+
+i
+
+n o i t a m m a fl n
+
+s u o v r e n
+
+,
+
+n o i s s e r p e d
+
+,
+
+n i a P
+
+.
+
+n o i t a t i r r i
+
+.
+
+n i k s y h c t i
+
+, e h c a d a e H
+
+e h t n
+
+i h r r a t a c
+
+, s e h c a d a e H
+
+d n a
+
+e k o r t s
+
+,
+
+u fl
+
+, t s e h c
+
+.
+
+g n
+
+i r r a c s
+
+. e y e
+
+l i v e d n a n e k o r B
+
+n o i t a m m a fl n
+
+i d n a g n i d e e l B
+
+. s y e n d i k e h t
+
+f o
+
+.
+
+n i a p t n i o j
+
+d n a
+
+e h c a d a e H
+
+i
+
+k r a B
+
+t i u r f d n a k r a B
+
+a c s a c d n a s e v a e L
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+k r a b d n a d e e s
+
+, s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+e v i t a N
+
+e v i t a N
+
+d e c u d o r t n I
+
+e v i t a N
+
+d e c u d o r t n I
+
+d e c u d o r t n I
+
+e v i t a N
+
+e v i t a N
+
+´u c a s s A
+
+a e z r ´a v a d ´a b o t a J
+
+, a n o r i p i D
+
+a v r e
+
+,
+
+o ˜a c i r e p i h
+
+o ˜a o J o ˜a s
+
+e d
+
+o h c o r o v e r T
+
+o c n a r b o ˜a i P
+
+o h c o r o ˜a i P
+
+, r o d a n A
+
+l a r o h l e m
+
+, r o d a n A
+
+l a r o h l e m
+
+.
+
+L s n a t i p e r c a r u H
+
+) 6 5 (
+
+1 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+r e b u H a i l o f i g n o l b o a e a n e m y H
+
+) 7 5 (
+
+9 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+.
+
+L m u t a r o f r e p m u c i r e p y H
+
+) 8 5 (
+
+0 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a r e p y H
+
+(
+
+x e . l i
+
+H
+
+. t S .
+
+A s i t s e r g a a i r a l l e t u c S ) 9 5 (
+
+.
+
+h t n e B
+
+2 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+.
+
+L s a c r u c a h p o r t a J
+
+) 0 6 (
+
+4 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+.
+
+L a i l o f i i p y s s o g a h p o r t a J
+
+) 1 6 (
+
+9 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b r o h p u E (
+
+. s s a C m u t a t c n u p m u r e h t a r t n e C ) 2 6 (
+
+7 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r e t s A (
+
+.
+
+q c a J
+
+s i l a r o t c e p a i c i t s u J
+
+) 3 6 (
+
+0 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a h t n a c A (
+
+Evidence-Based Complementary and Alternative Medicine
+
+V U
+
+1 0 0
+
+,
+
+0 2 0
+
+,
+
+1 0 0
+
+,
+
+2 0 0
+
+,
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+s e s u
+
+l a n o i t i d a r T
+
+n o i t a m m a fl n
+
+i d n a
+
+a e h r r a i D
+
+. l a r e n e g n
+
+i
+
+.
+
+g n i d e e l b d n a a e h r r a i D
+
+e h t n
+
+i h r r a t a c d n a n i a P
+
+. t s e h c
+
+d n a n o i t r o b a ,
+
+u F
+
+l
+
+. s i s o n m r e v
+
+i
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+d e s u t r a p t n a l P
+
+d n a
+
+s e v a e l
+
+,
+
+k r a B
+
+s r e w o fl
+
+k r a B
+
+s r e w o fl d n a
+
+s e v a e L
+
+t i u r f d n a k r a b
+
+, s e v a e L
+
+n o i t u b i r t s i
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+D
+
+e m a n
+
+l a c o L
+
+a i a c u p a S
+
+u o ´a r e o n A
+
+´a r e u n a
+
+, a n a t i l e m a C
+
+a r i e r d i c a v r e
+
+u o a h n i h c u B
+
+a h n i c a b a c
+
+N A
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+. s s e b m a C s i n o s i p s i h t y c e L ) 4 6 (
+
+0 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a d i t y c e L (
+
+.
+
+h t n e B a l l y h p o r c a m a i n a c i L ) 5 6 (
+
+4 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a n a l a b o s y r h C (
+
+x e . r B
+
+.
+
+E N
+
+.
+
+) . l l i
+
+M
+
+( a b l a a i p p i L ) 6 6 (
+
+I
+
+, ) e a e c a n e b r e V
+
+( n o s l i
+
+W P. & n o t t i r B
+
+9 0 1 4 9 1
+
+.
+
+n g o C ) . L ( a t a l u c r e p o a ff u L ) 7 6 (
+
+3 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a t i b r u c u C (
+
+3 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+.
+
+m
+
+s i t a m u e h R
+
+s e v a e L
+
+e v i t a N
+
+´a i r u t A
+
+e k c u D
+
+) . L (
+
+m u t a n u l
+
+m u i r e a h c a M
+
+) 8 6 (
+
+3 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+4 0 0
+
+,
+
+d n a
+
+y l i a d x 3 x 1
+
+;
+
+n o i t a r e c a
+
+M
+
+. s y a d 7 r o f
+
+y l i a d x 2 e s u
+
+l a c i p o t
+
+.
+
+g n
+
+i l a e H
+
+k r a B
+
+e v i t a N
+
+´ı r a p a r a - a r i e v a F
+
+) . h t n e B (
+
+m u i l o f i i c a c a m u i b o l o r c a M
+
+) 9 6 (
+
+.
+
+h t n e B
+
+1 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+7 4 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+l a n i t s e t n
+
+i d n a a e h r r a i D
+
+. s n o i t c e f n
+
+i
+
+k r a b d n a s e v a e L
+
+d e c u d o r t n I
+
+a g n a M
+
+.
+
+L a c i d n i a r e f i g n a M
+
+) 0 7 (
+
+5 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i d r a c a n A (
+
+4 0 0
+
+,
+
+0 1
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t a r e c a
+
+M
+
+e h t n
+
+i
+
+n o i t a m m a fl n I
+
+e h t n
+
+i
+
+n r o b d n a h c a m o t s
+
+. ) s i s o u c n u r u f (
+
+l
+
+y d o b
+
+t i u r F
+
+e v i t a N
+
+´u s s u B
+
+.
+
+h t r e a G a r e f i c c a s a i r a c i n a M
+
+) 1 7 (
+
+4 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c e r A (
+
+4 0 0
+
+,
+
+0 2 r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. r e c n a C
+
+k r a B
+
+e v i t a N
+
+a n a r a g n i t a r i u M
+
+&
+
+.
+
+p p e o P ( a l l y h p o l a c a r i u q a M
+
+) 2 7 (
+
+g r e B
+
+.
+
+C C ) . l d n E
+
+.
+
+2 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a r o M
+
+(
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. a i r a l a
+
+M
+
+k r a B
+
+e v i t a N
+
+a g n i t a r i u M
+
+.
+
+C C ) t s r a K
+
+.
+
+.
+
+H
+
+( a e c a i r o c a r i u q a M
+
+) 3 7 (
+
+3 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a r o M
+
+( g r e B
+
+3 0 0
+
+,
+
+7 r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i s u f n I
+
+e v i t s e g i d
+
+, s e h c a d a e H
+
+d n a y t e i x n a
+
+, s
+
+m e l b o r p
+
+. s s e n s u o v r e n
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+d e c u d o r t n I
+
+, a r i e r d i C
+
+a r i e r d i c - a v r e
+
+.
+
+L s i l a n i c
+
+ffi o a s s i l e
+
+M
+
+) 4 7 (
+
+7 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+11
+
+12
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+6 2 0
+
+,
+
+7 r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i s u f n I
+
+d n a s e s o n m r e V
+
+i
+
+e h t
+
+f o s n o i t a m m a fl n
+
+i
+
+. r e v i l
+
+d n a
+
+r e d d a l b
+
+,
+
+y e n d i k
+
+s e v a e L
+
+d e c u d o r t n I
+
+o h n i z n ˆa l e t r o H
+
+.
+
+L a t i r e p i p × a h t n e M
+
+) 5 7 (
+
+4 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+8 0 0
+
+,
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 m a e t s
+
+e h t
+
+e l a h n
+
+i d n a
+
+y l i a d
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+e h t
+
+m o r f
+
+m g e l h p e t a n m
+
+i
+
+i l
+
+.
+
+u fl d n a e h c a d a e h
+
+, t s e h c
+
+E
+
+s e v a e L
+
+d e c u d o r t n I
+
+k c i V
+
+.
+
+L s i s n e v r a a h t n e M
+
+) 6 7 (
+
+5 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+4 0 0
+
+,
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 m a e t s
+
+e h t
+
+e l a h n
+
+i d n a
+
+y l i a d
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+f o n o i t a m m a fl n
+
+i d n a u F
+
+l
+
+.
+
+y e n d i k e h t
+
+s e v a e L
+
+d e c u d o r t n I
+
+e d n a r g n ˆa l e t r o H
+
+.
+
+L m u i g e l u p a h t n e M
+
+) 7 7 (
+
+6 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+3 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+l a n i t s e t n
+
+i d n a a e h r r a i D
+
+. s n o i t c e f n
+
+i
+
+k r a B
+
+e v i t a N
+
+u j i r u c u S - ´o p i C
+
+.
+
+C D a m
+
+i s s i t u s r i h a i n a k i M
+
+) 8 7 (
+
+1 9 6 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r e t s A (
+
+4 0 0
+
+,
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+. s e s o n m r e V
+
+i
+
+k r a B
+
+e v i t a N
+
+´u p a c A
+
+. l b u A s i s n e n a i u g a i t r a u q n i M
+
+) 9 7 (
+
+0 1 9 6 B A M A H
+
+, ) e a e c a c a l O
+
+(
+
+9 0 0
+
+,
+
+8 r o f
+
+y l i a d x 2 e s u
+
+l a c i p o t
+
+. s y a d
+
+,
+
+y r t l u o P
+
+l a r e n e g d n a
+
+g n
+
+i l a e H
+
+.
+
+n o i t a m m a fl n
+
+i
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+e v i t a N
+
+a g n n A
+
+i
+
+) a d u r r A
+
+( a r e f i n i l a i d r a h c i r t n o M
+
+) 0 8 (
+
+t t o h c S
+
+3 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a r A (
+
+Evidence-Based Complementary and Alternative Medicine
+
+7 1 , 0
+
+6 0 0
+
+,
+
+3 0 0
+
+,
+
+3 0 0
+
+,
+
+5 2 0
+
+,
+
+2 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 m a e t s
+
+e h t
+
+e l a h n
+
+i d n a
+
+y l i a d
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+x 3 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 m a e t s
+
+e h t
+
+e l a h n
+
+i d n a
+
+y l i a d
+
+. s y a d 7
+
+r o f
+
+y l i a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+f o n o i t a m m a fl n
+
+i
+
+, a e h r r a i D
+
+f o n o i t a t i r r i d n a
+
+y d o b e h t
+
+.
+
+n i k s
+
+e h t
+
+h g i h d n a e g a h r r o m e H
+
+. e r u s s e r p d o o b
+
+l
+
+e h t n
+
+i h r r a t a c d n a h g u o C
+
+. t s e h c
+
+e h t n
+
+i h r r a t a c d n a h g u o C
+
+. t s e h c
+
+. s a g l a n i t s e t n
+
+i d n a r e v e f
+
+,
+
+u F
+
+l
+
+, s a g l a n i t s e t n I
+
+e h t n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+d n a u fl
+
+,
+
+g n i t i
+
+m o v
+
+,
+
+h c a m o t s
+
+. r e v e f
+
+k r a B
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+e v i t a N
+
+e v i t a N
+
+d e c u d o r t n I
+
+d e c u d o r t n I
+
+e v i t a N
+
+e v i t a N
+
+a b ´u u c a r P
+
+a c n a r b
+
+a r i e n a n a B
+
+a h n
+
+i u q a v a f l
+
+A
+
+o ˜a c a v a f l
+
+A
+
+e u q a r u t s E
+
+a v a v a f l a
+
+s i n a
+
+e d a s o r i e h c
+
+e k c u D
+
+s i s n e a r a p a r o M
+
+) 1 8 (
+
+2 0 7 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+. a l l o C a n a i s i b l a b a s u M
+
+) 2 8 (
+
+1 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a s u M
+
+(
+
+.
+
+L m u c i l i s a b m u m
+
+i c O
+
+) 3 8 (
+
+7 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+. l l i
+
+M m u n a i h c e p m a c
+
+m u m
+
+i c O
+
+) 4 8 (
+
+4 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+.
+
+d l l i
+
+W m u h t n a r c i
+
+m m u m
+
+i c O
+
+) 5 8 (
+
+9 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+.
+
+h t n e B
+
+i o l l e s
+
+m u m
+
+i c O
+
+) 6 8 (
+
+7 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+Evidence-Based Complementary and Alternative Medicine
+
+V U
+
+4 0 0
+
+,
+
+2 0 0
+
+,
+
+2 6 0
+
+,
+
+7 0 0
+
+,
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+8 r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i s u f n I
+
+. s y a d
+
+d n a n o i t c o c e d
+
+,
+
+m s a l p a t a C
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t a r e c a m
+
+7 r o f y a d n
+
+i
+
+x 2 e s u
+
+l a c i p o T
+
+. s y a d
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+s e s u
+
+l a n o i t i d a r T
+
+y d o b e h t n
+
+i
+
+n o i t a m m a fl n I
+
+.
+
+n i a p e l c s u m d n a
+
+e t a n m
+
+i
+
+i l e
+
+,
+
+y d o b e h t n
+
+i
+
+s n i a P
+
+. r e v e f d n a u fl
+
+,
+
+m g e l h p
+
+d n u o w e v a r B
+
+d n a
+
+) s i s a i n a m h s i e l (
+
+.
+
+n o i t a m m a fl n
+
+i
+
+d n a m
+
+s i t a m u e h R
+
+e h t n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+.
+
+h c a m o t s
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+d e s u t r a p t n a l P
+
+k r a B
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+s e v a e L
+
+k r a B
+
+n o i t u b i r t s i
+
+D
+
+e v i t a N
+
+d e c u d o r t n I
+
+e v i t a N
+
+e v i t a N
+
+e m a n
+
+l a c o L
+
+m
+
+i r o m a m - o r u o
+
+a d a n o r e j a
+
+M
+
+a l o g n a
+
+a h n i b i a p o C
+
+o ˜a m
+
+i t a b r a B
+
+l
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+h t n u K m u r a b m y c a e t o c O
+
+) 7 8 (
+
+8 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a r u a L (
+
+.
+
+L e r a g l u v m u n a g i r O
+
+) 8 8 (
+
+0 7 9 5 9 1 N A
+
+I
+
+, ) e a e c a i m a L (
+
+e s n o R ) n e d n i L (
+
+s u e r u z a s u h t n a c a t O
+
+) 9 8 (
+
+2 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a n i g a t n a l P (
+
+) . l l i
+
+H
+
+. t S ( a m
+
+r e p s a x e h a e t a r u O
+
+) 0 9 (
+
+.
+
+h t n e B
+
+2 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a n h c O
+
+(
+
+3 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+; e t a d u x E
+
+. s n o i t c e f n I
+
+e t a d u s x E
+
+e v i t a N
+
+´a p a m a o d e t i e L
+
+) r e b u H
+
+( a p a m a a i n r o c n a h a r a P ) 1 9 (
+
+e k c u D
+
+9 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a n y c o p A (
+
+1 0 0
+
+,
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 2 e s u
+
+l a c i p o t
+
+g n i d e e l b d n a
+
+s d n u o w n i k S
+
+.
+
+n i k s
+
+e h t
+
+m o r f
+
+d n a k r a B
+
+s e c n e c s e r o fl n
+
+i
+
+e v i t a N
+
+e d e r d a m o C
+
+o g s i v - e t i e z a
+
+x e .
+
+h t n e B ) . d l l i
+
+W
+
+( a l u d n e p a i k r a P ) 2 9 (
+
+0 1 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+.
+
+p l a
+
+W
+
+4 2 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+s u o v r e n
+
+,
+
+g n i h t o o S
+
+n o i t a m m a fl n
+
+i d n a n o i t a t i r r i
+
+.
+
+h c a m o t s
+
+e h t
+
+f o
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+´a j u c a r a
+
+M
+
+e d n a r g
+
+s
+
+m i S s i l u d e a r o fl i s s a P ) 3 9 (
+
+6 3 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r o fl i s s a P (
+
+2 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+.
+
+d n u o w e v a r B
+
+, ) s i s a i n a m h s i e l (
+
+g n i h t o o s d n a n o i t a m m a fl n
+
+i
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+o d ´a j u c a r a
+
+o t a m
+
+M
+
+o c c a S i i n a z o l o h t a r o fl i s s a P ) 4 9 (
+
+4 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a r o fl i s s a P (
+
+4 0 0
+
+,
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y d o b e h t n
+
+i
+
+n o i t a m m a fl n I
+
+. s e s o n m r e v d n a
+
+i
+
+k r a B
+
+d e c u d o r t n I
+
+, a n m o r o C
+
+i
+
+l a r o h l e m
+
+. t i o P s e d i o l a m y h t i t
+
+1 2 0 6 9 1
+
+N A
+
+I
+
+s u h t n a l i d e P ) 5 9 (
+
+, ) e a e c a i b r o h p u E (
+
+3 8 0
+
+,
+
+r o f y a d a x 3 n o o p s a e t
+
+. s y a d 7
+
+1
+
+t s e g n
+
+i
+
+; l i
+
+O
+
+y d o b e h t n
+
+i
+
+n o i t a m m a fl n I
+
+. s e s o n m r e v d n a
+
+i
+
+s e c n e c s e r o fl n
+
+i
+
+k r a b d n a
+
+, s e v a e L
+
+e v i t a N
+
+i x a c a r P
+
+) . d l l i
+
+W
+
+( a b o l o r c a m a r t e l h c a t n e P ) 6 9 (
+
+e z t n u K
+
+2 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+1 0 0
+
+,
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y e n d i k f o n o i t a n m
+
+i
+
+s t a o r h t
+
+e r o s
+
+,
+
+h g u o c
+
+.
+
+n i k s y h c t i d n a
+
+i l
+
+E
+
+, s e n o t s
+
+s e v a e L
+
+e v i t a N
+
+i t o b a j
+
+e d a v r E
+
+h t n u K ) . L ( a d i c u l l e p a i m o r e p e P ) 7 9 (
+
+1 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a r e p i P (
+
+6 3 , 0
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+m g e l h p d n a n i a p
+
+, a i r a l a
+
+. t s e h c
+
+e h t
+
+m o r f n o i t a n m
+
+i
+
+M
+
+i l e
+
+t o o r d n a
+
+s e v a e L
+
+e v i t a N
+
+a a c a r u c u M
+
+.
+
+L e a e c a i l l a a i r e v i t e P ) 8 9 (
+
+2 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a c c a l o t y h P (
+
+13
+
+14
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+3 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y r a n i r U
+
+( n i a p t c a r t y r a n i r U
+
+. ) n o i t c e f n
+
+i
+
+t c a r t
+
+s t r a p
+
+l a i r e A
+
+e v i t a N
+
+a r d e p a r b e u Q
+
+&
+
+.
+
+h c a m u h c S s u r a m a s u h t n a l l y h P ) 9 9 (
+
+.
+
+n n o Th
+
+5 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a h t n a l l y h P (
+
+7 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. a i r ´a l a m d n a a i m e n A
+
+t o o R
+
+e v i t a N
+
+´u p a m a C
+
+.
+
+L a t a l u g n a s i l a s y h P ) 0 0 1 (
+
+5 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a n a l o S (
+
+1 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y e n d i k f o n o i t a n m
+
+i
+
+i l
+
+E
+
+y r a n i r u d n a h g u o c
+
+, s e n o t s
+
+.
+
+n o i t a m m a fl n
+
+i
+
+k r a B
+
+e v i t a N
+
+a b ´u a c a c a
+
+M
+
+s
+
+m r a H
+
+i e l u m u i c s i
+
+3 2 0 6 9 1
+
+N A
+
+m y t a l P ) 1 0 1 (
+
+I
+
+, ) e a e c a b a F (
+
+6 2 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i s u f n I
+
+d n a
+
+y t i d i c a ,
+
+u F
+
+l
+
+e h t
+
+f o n o i t a m m a fl n
+
+.
+
+h c a m o t s
+
+i
+
+s e v a e L
+
+d e c u d o r t n I
+
+o h n i d o b
+
+l
+
+,
+
+o d o B
+
+l
+
+.
+
+d d o C s u t a n r o s u h t n a r t c e l P ) 2 0 1 (
+
+4 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+1 0 0
+
+,
+
+x 2 p u c
+
+1
+
+;
+
+n o i s u f n
+
+i d n a p u r y S
+
+x 2 e s u
+
+l a c i p o T
+
+. s y a d 0 1
+
+r o f
+
+y l i a d
+
+. s y a d 7
+
+r o f y a d n
+
+i
+
+n
+
+i
+
+n o i t a n m
+
+i
+
+i l e m g e l h p
+
+,
+
+.
+
+h g u o c d n a t s e h c
+
+e h t
+
+u F
+
+l
+
+d n a s e v a e L
+
+s e c n e c s e r o fl n
+
+i
+
+d e c u d o r t n I
+
+a z i r
+
+O
+
+.
+
+h t n e B s u n a e n y e h n o m e t s o g o P ) 3 0 1 (
+
+4 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+Evidence-Based Complementary and Alternative Medicine
+
+1 2 0
+
+,
+
+4 0 0
+
+,
+
+4 0 0
+
+,
+
+9 3 , 0
+
+4 2 0
+
+,
+
+3 2 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i s u f n I
+
+. s y a d
+
+t s e g n
+
+i
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+e s U
+
+s y a d 7 r o f
+
+y l i a d x 3 p u c
+
+1
+
+. s y a d 7
+
+r o f y a d n o x 2
+
+c i p o t
+
+y l i a d x 2 p u c
+
+1
+
+t s e g n
+
+i
+
+n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+y l i a d x 2 p u c
+
+1
+
+t s e g n
+
+i
+
+n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+t c a r t y r a n i r u (
+
+e n i r u n
+
+i
+
+n i a P
+
+. s e s o n m r e v d n a
+
+i
+
+) n o i t c e f n
+
+i
+
+d n u o w e v a r B
+
+. ) s i s a i n a m h s i e l (
+
+n o s d n u o w d n a s e s o n m r e V
+
+i
+
+.
+
+n i k s
+
+e h t
+
+d n a l a n i t s e t n
+
+i
+
+, a e h r r a i D
+
+. s n o i t c e f n
+
+i
+
+l a n e r
+
+. a i r a l a
+
+M
+
+, ) n o i t c e f n
+
+i
+
+r a e ( n i a p r a E
+
+s u r e t u e h t n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+. s n o i t a t i r r i
+
+n i k s d n a
+
+s e v a e L
+
+k r a B
+
+k r a B
+
+s e v a e L
+
+s e v a e L
+
+s e v a e L
+
+d e c u d o r t n I
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+d e c u d o r t n I
+
+o c i c s e r c
+
+r o m A
+
+a n a r a b u a b m E
+
+a b u j a r a p a M
+
+a b a i o G
+
+a n i u Q
+
+a d u r r A
+
+.
+
+.
+
+L a s o l i p a c a l u t r o P ) 4 0 1 (
+
+8 9 0 4 9 1
+
+N A
+
+I
+
+, ) e a e c a c a l u t r o P (
+
+. l b u A s i s n e n a i u g a m u o r u o P ) 5 0 1 (
+
+5 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a c i t r U
+
+(
+
+D T ) . t r a M
+
+.
+
+( a r e c o r p a i r e t u o P ) 6 0 1 (
+
+.
+
+n n e P
+
+6 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a t o p a S (
+
+.
+
+L a v a j a u g m u i d i s P ) 7 0 1 (
+
+0 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t r y M
+
+(
+
+.
+
+L a r a m a a i s s a u Q
+
+) 8 0 1 (
+
+1 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a b u o r a m i S (
+
+.
+
+L s n e l o e v a r g a t u R ) 9 0 1 (
+
+6 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a t u R (
+
+Evidence-Based Complementary and Alternative Medicine
+
+V U
+
+2 0 0
+
+,
+
+5 0 0
+
+,
+
+8 1 , 0
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+2 p u c
+
+1
+
+;
+
+n o i t c o c e d d n a m s a l p a t a C
+
+x 2 e s u
+
+l a c i p o T
+
+. s y a d 7 r o f
+
+y l i a d x
+
+. s y a d 7
+
+r o f y a d a
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+7 r o f
+
+y a d a
+
+x 2 e s u
+
+l a c i p o T
+
+. s y a d
+
+. s y a d
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+.
+
+s e s u
+
+l a n o i t i d a r T
+
+.
+
+x o p n e k c i h c d n a s e l s a e
+
+M
+
+n o i t a m m a fl n
+
+i d n a
+
+g n
+
+i l a e H
+
+e n o t s
+
+r e v i l
+
+f o n o i t a n m
+
+i
+
+i l
+
+E
+
+.
+
+m
+
+s i t a m u e h r d n a
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+d e s u t r a p t n a l P
+
+k r a b d n a s e v a e L
+
+k r a B
+
+k r a B
+
+n o i t u b i r t s i
+
+e v i t a N
+
+e v i t a N
+
+e v i t a N
+
+D
+
+.
+
+e m a n
+
+l a c o L
+
+o r i e u g u b a S
+
+a c n a r b a r e i o r A
+
+o j a r a b
+
+, ´a e p a c a P
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+&
+
+.
+
+m a h C s i l a r t s u a s u c u b m a S ) 0 1 1 (
+
+. l d t l h c S
+
+8 5 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a x o d A (
+
+i d d a R a i l o f i h t n i b e r e t
+
+s u n i h c S ) 1 1 1 (
+
+5 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a i d r a c a n A (
+
+. S . H
+
+) . d l l i
+
+W
+
+( a t a l u c i t e r a n n e S ) 2 1 1 (
+
+y b e n r a B & n i w r I
+
+7 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+5 0 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. a i r a l a
+
+M
+
+k r a B
+
+e v i t a N
+
+, a n a r u j a C
+
+. a b ´u a p u r a
+
+M
+
+. s s u J
+
+.
+
+A a r o fl i t l u m a b a m i S ) 3 1 1 (
+
+8 2 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b u o r a m i S (
+
+1 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y e n d i k f o n o i t a n m
+
+i
+
+i l
+
+E
+
+d n a e h c a d a e h
+
+, s e n o t s
+
+. s e h c a e l c s u m
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+´u i t i p a C
+
+. l b u A s i s n e n a i u g a n u r a p i S ) 4 1 1 (
+
+1 4 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a n u r a p i S (
+
+4 4 0
+
+,
+
+7 r o f
+
+y l i a d x 2 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+h t u o m e h t
+
+f o n o i t a m m a fl n I
+
+l a c o
+
+l
+
+d n a
+
+t a o r h t d n a
+
+. s e g a s s a m
+
+s e v a e L
+
+e v i t a N
+
+a b e r e p a T
+
+.
+
+L n i b m o m
+
+s a i d n o p S ) 5 1 1 (
+
+9 9 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i d r a c a n A (
+
+6 0 0
+
+,
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7 r o f
+
+y l i a d x 3
+
+y e n d i K ( n i a P t c a r T y r a n i r U
+
+. ) s n o i t c e f n I
+
+k r a B
+
+e v i t a N
+
+o ˜a m
+
+i t a b r a B
+
+s n e g n i r t s d a n o r d n e d o n h p y r t S ) 6 1 1 (
+
+. t r a M
+
+3 1 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+1 1 , 0
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. a i r a l a m d n a a i m e n A
+
+k r a B
+
+e v i t a N
+
+i
+
+n a n A
+
+f
+
+.
+
+L a r e f i l u b o l g a i n o h p m y S ) 7 1 1 (
+
+1 0 1 4 9 1
+
+N A
+
+I
+
+, ) e a e c a i s u C (
+
+l
+
+7 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+.
+
+g n i d e e l b d n a a e h r r a i D
+
+k r a B
+
+d e c u d o r t n I
+
+a x i e m A
+
+s l e e k S ) . L (
+
+i n i m u c
+
+m u i g y z y S ) 8 1 1 (
+
+7 9 0 4 9 1
+
+N A
+
+I
+
+, ) e a e c a t r y M
+
+(
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+. a i r a l a
+
+M
+
+k r a B
+
+d e c u d o r t n I
+
+a l o h n a t s a C
+
+.
+
+L a p p a t a c a i l a n i m
+
+r e T ) 9 1 1 (
+
+5 7 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a t e r b m o C (
+
+6 0 0
+
+,
+
+p u c
+
+1
+
+;
+
+n o i t a r e c a m d n a n o i t c o c e D
+
+. s y a d 7
+
+r o f
+
+y l i a d x 2
+
+s d n u o w y d o b f o g n n a e l C
+
+i
+
+. s e s o n m r e v d n a
+
+i
+
+d e e s d n a
+
+s e v a e L
+
+e v i t a N
+
+u a c a C
+
+.
+
+L u a c a c a m o r b o e
+
+Th
+
+) 0 2 1 (
+
+7 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a v l a
+
+M
+
+(
+
+15
+
+16
+
+.
+
+d e u n i t n o C
+
+: 1 e l b a T
+
+V U
+
+e s u d n a d o h t e m n o i t a r a p e r P
+
+m r o f
+
+s e s u
+
+l a n o i t i d a r T
+
+d e s u t r a p t n a l P
+
+n o i t u b i r t s i
+
+D
+
+e m a n
+
+l a c o L
+
+∘
+
+n r e h c u o V
+
+) y l i
+
+m a F (
+
+e m a N c fi i t n e i c S
+
+.
+
+d l l i
+
+W
+
+(
+
+m u r o fl i d n a r g a m o r b o e
+
+Th
+
+) 1 2 1 (
+
+3 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+y d o b
+
+g n i y f i t r o f d n a h g i H
+
+. e r u s s e r p
+
+t i u r f d n a k r a B
+
+e v i t a N
+
+´u c¸ a u p u C
+
+.
+
+m u h c S .
+
+K ) . g n e r p S x e
+
+, ) e a e c a v l a
+
+M
+
+(
+
+6 6 9 5 9 1
+
+N A
+
+I
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+.
+
+m
+
+s i t a m u e h R
+
+k r a B
+
+e v i t a N
+
+a e z r ´a v a d ´ı h c a T
+
+.
+
+m a h C s i s n e m a n i r u s
+
+9 3 9 5 9 1
+
+N A
+
+I
+
+s i r a l p i r T ) 2 2 1 (
+
+, ) e a e c a n o g y l o P (
+
+1 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+d n a e g a h r r o m e h
+
+. r e c n a c
+
+, a e h r r a i D
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+´a d n i p u J
+
+o h l e m r e v
+
+.
+
+F . J
+
+) . l b u A
+
+(
+
+1 1 0 6 9 1
+
+s i s n e n a i u g a i r a c n U
+
+N A
+
+I
+
+, ) e a e c a i b u R (
+
+) 3 2 1 (
+
+. l e m G
+
+5 7 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+d n a e g a h r r o m e h
+
+. r e c n a c
+
+, a e h r r a i D
+
+k r a b d n a s e v a e L
+
+e v i t a N
+
+´a d n i p u J
+
+.
+
+C D
+
+) . d l l i
+
+W
+
+( a s o t n e m o t a i r a c n U
+
+) 4 2 1 (
+
+5 3 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i b u R (
+
+4 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+. s y a d
+
+1
+
+;
+
+n o i t c o c e D
+
+d n a m
+
+s i t a m u e h R
+
+. e g a h r r o m e h
+
+k r a B
+
+e v i t a N
+
+e u g n a s - a r i v n E
+
+s l e i D a d n u b i r o fl s i s p o n o n U
+
+) 5 2 1 (
+
+8 3 9 5 9 1
+
+N A
+
+I
+
+) e a e c a n o n n A (
+
+Evidence-Based Complementary and Alternative Medicine
+
+5 0 0
+
+,
+
+2 6 0
+
+,
+
+4 0 0
+
+,
+
+4 0 0
+
+,
+
+1 0 0
+
+,
+
+7
+
+r o f
+
+y l i a d x 3 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+s a e t a d u x e d n a n o i t c o c e D
+
+r o f y a d a x 2 e s u
+
+l a c i p o t
+
+; e c i t l u o p
+
+. s y a d 7
+
+0 1
+
+r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+y a d a
+
+s e m
+
+i t
+
+3 n o o p s a e t
+
+1
+
+;
+
+p u r y S
+
+. s y a d 0 1
+
+r o f
+
+7 r o f
+
+y l i a d x 2 p u c
+
+1
+
+;
+
+n o i t c o c e D
+
+. s y a d
+
+.
+
+n i k s
+
+e h t
+
+f o n o i t a t i r r I
+
+d e e s d n a k r a B
+
+e v i t a N
+
+a h c a l o b e d a v a F
+
+. l b u A s i s n e n a i u g a e r i a t a V ) 6 2 1 (
+
+2 0 0 6 9 1
+
+N A
+
+I
+
+, ) e a e c a b a F (
+
+y d o b e h t n
+
+i
+
+n r o B
+
+d n a ) s i s o u c n u r u f (
+
+l
+
+. s n o i t c e f n
+
+i
+
+l a n i t s e t n
+
+i
+
+t i u r f d n a k r a B
+
+e v i t a N
+
+a l o r i V
+
+.
+
+b r a
+
+W
+
+) . l o R (
+
+s i s n e m a n i r u s a l o r i V ) 7 2 1 (
+
+3 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a c i t s i r y M
+
+(
+
+d n u o w e v a r B
+
+n i k s d n a ) s i s a i n a m h s i e l (
+
+.
+
+n o i t a t i r r i
+
+k r a B
+
+e v i t a N
+
+a h o f
+
+l
+
+a d e r c a L
+
+e d n a r g
+
+h t n u K a l l y h p o r c a m a i m
+
+s i V ) 8 2 1 (
+
+6 8 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i s u C (
+
+l
+
+m g e l h p d n a h g u o C
+
+. t s e h c
+
+e h t
+
+m o r f n o i t a n m
+
+i
+
+i l e
+
+s e v a e L
+
+d e c u d o r t n I
+
+e d m
+
+i r c e l A
+
+e d u a P
+
+, a l o g n a
+
+a l o g n a
+
+.
+
+L s u t s a c - s u n g a x e t i
+
+V ) 9 2 1 (
+
+8 6 9 5 9 1
+
+N A
+
+I
+
+, ) e a e c a i m a L (
+
+n o i t a m m a fl n i (
+
+t a o r h t
+
+e r o S
+
+d n a ) t a o r h t
+
+e h t
+
+f o
+
+. s t n i o j
+
+e h t n
+
+i
+
+n o i t a m m a fl n
+
+i
+
+e m o z i h R
+
+d e c u d o r t n I
+
+e r b i g n e G
+
+e o c s o R e l a n i c
+
+6 8 2 0 1 B A M A H
+
+ffi o r e b i g n i Z ) 0 3 1 (
+
+, ) e a e c a r e b i g n Z (
+
+i
+
+. a e z r ´a v w o
+
+l
+
+f o t s e r o f
+
+f o n o i g e r
+
+e h t
+
+f o n w o
+
+, l a r u t a n s i
+
+t a h t
+
+t n a l p
+
+: s e i c e p S
+
+e v i t a N
+
+.
+
+n a m y b y l l a t n e d i c c a
+
+r o y l l a n o i t n e t n
+
+i d e c u d o r t n
+
+i d n a d e t r o p s n a r t g n i e b r e ft a
+
+, e g n a r
+
+l a r u t a n s t i d n o y e b d e h s i l
+
+b a t s e
+
+s i
+
+t a h t
+
+s e i c e p s
+
+a
+
+d e c u d o r t n I
+
+s e i c e p S
+
+Evidence-Based Complementary and Alternative Medicine
+
+Table 2: Ethnopharmacological indications of medicinal plants cited by the residents of the river mouth of the Mazag˜ao River.
+
+Category of therapeutic use Microbial Infections Gastrointestinal disorders Inflammatory disorders Pain, fever, cold Malaria Cardiovascular disorders Parasites Respiratory Infections Rheumatism Disorders of the Nervous System Renal, hepatic and biliary disorders Healing Leishmaniasis Cancer Gynecological disorders Metabolic Diseases
+
+Number of plants used 73 47 41 25 25 24 23 23 23 11 9 8 8 5 5 3
+
+Cited uses 532 412 321 167 90 79 66 111 49 45 30 41 74 58 12 16
+
+the production of secondary metabolites present mainly in the leaves [65]. Phytochemical studies with leaves contained flavonoids, tannins, saponins, steroids, and triterpenoids [66, 67]. According to Matos and Matos [68], flavonoids have direct action on capillaries and potentiate ascorbic acid, whose hemorrhagic action and anti-inflammatory action are similar to cortisone. Tannins are used in the treatment of burns, in the recomposition of exposed tissue proteins and in the formation of slightly antiseptic coating [66]. Steroids have important therapeutic properties (cardiotonic, anabolic, contraceptive, and anti-inflammatory) [69]. According to Robbers et al. [70], the triterpenoids have antimicrobial and antitumor action, but some are very toxic to the human body.
+
+3.4. Forms of Ethnomedicinal Preparations. The preparation forms were classified as decoction, infusion, syrup, mac- eration, oil, hydration water, latex, tincture, and poultice (Table 1). Decoction was the most used form of prepara- tion (59.4%), followed by maceration (11.5%) and infusion (9.7%), and the other six forms of preparation combined corresponded to 19.4%. According to Amorozo and G´ely [71] and Lisboa [72], decoction is the most common way of administration home remedies in Amazonian communities. Decoction is performed so that the home remedy is stored in a refrigerator and has more use lifetime. Teas obtained by decoction or infusion are consumed orally and can be used in baths for various types of diseases, including the cultural diseases reported in this work such as “nascida”, “panemeira”, bewitching, evil eye, “´ura”, and bubo.
+
+In the community, women collect the fruits of Carapa guianensis (andiroba) and Pentaclethra macroloba (pracaxi), which are dispersed in the water, for the production of medic- inal oil, a common management practice to commercialized them in the city of Macap´a.
+
+leaves, branches and roots that are immersed in water and/or
+
+Maceration is a preparation that uses barks,
+
+alcohol, are indicated for inflammation, diarrhea and other intestinal disorders, and are consumed by mouth. In the community, the latex that flows from the trunk of medicinal tree species is applied to wounds, and in this study, it is also collected in medicinal bottles for oral use. According to Viega and Scudeller [73], the use of bark, root, and latex in the preparation of home remedies is known as medicinal bottle, and it is a preparation that is widely disseminated throughout the Amazon and other areas of the world.
+
+3.5. Therapeutic Indications. The riverside residents reported 2103 phytotherapeutic uses for medicinal plants, which were grouped into 16 categories of therapeutic use. For this, the type of body system involved was related to the disease and symptoms, as well as the medicinal species used in the community. It was observed that most of the plants used are related to diseases such as microbial infections (20.67%, 73 species), gastrointestinal disorders (13.31%, 47 species) and inflammations (11.61%, 41 species), emphasizing that 1 specie can be cited for several diseases (Table 2). Studies carried out in traditional communities in Brazil often point to several plant species for problems of the gastrointestinal system, including parasitic diseases and infections caused by microbial agents [57, 74, 75]. These results corroborate studies carried out in communities that do not have basic sanitation in developing countries alongside Latin America [38, 57, 76– 79], and this ranking may therefore be related to economic conditions and regional habits as the riparian region studied does not present basic sanitation, and the community uses septic tanks and collects water directly from the river for their essential needs.
+
+Le˜ao et al. [80] performed an ethnobotanical survey in Santa Barbara, state of Par´a. Similarly to this study, the authors observed that the major diseases and symptoms treated by the community were gastrointestinal disorders,
+
+17
+
+ICF 0,86 0,89 0,88 0,86 0,73 0,71 0,66 0,86 0,54 0,77 0,72 0,83 0,9 0,93 0,64 0,87
+
+18
+
+Evidence-Based Complementary and Alternative Medicine
+
+150
+
+e c n a t r o p m
+
+100
+
+i
+
+e v i t a l e R %
+
+50
+
+0
+
+Pentaclethra macroloba Carapa guianensis
+
+Dalbergia monetaria
+
+Uncaria tomentosa
+
+Virola surinamensis
+
+Otacanthus azureus
+
+Hura crepitans
+
+Euterpe oleracea
+
+Species
+
+Microbial Infections
+
+Gastrointestinal disorders
+
+Inﬂammatory disorders
+
+Leishmaniasis
+
+Cancer
+
+Figure 2: Relative importance of the most cited species in relation to main categories of therapeutic use in the community.
+
+microbial reported in other study by Amorozo [58].
+
+infections, and inflammations. This was also
+
+In this study, the species Carapa guianensis (100%), Pentaclethra macroloba (90-92%), Dalbergia monetaria (78- 85%), Uncaria tomentosa (80-82%), Virola surinamensis (43- 68%), Otacanthus azureus (66%), Hura crepitans (41-64%), and Euterpe oleracea (41-56%) (Figure 2) are widely used by the riverside community to treat microbial infections, leish- gastrointestinal disorders, inflammatory conditions, maniasis, and cancer, as seen by the use agreement index (Table 3). According to Vendruscolo and Mentz [53], this index indicates the most promising species to perform pharmacological researches according to their use.
+
+studies performed with the species C. guianensis, P. macroloba, D. monetaria, and U. tomentosa show that species are popularly used to treat abscesses, asthma, skin diseases, infectious diseases, deep wounds, gastritis, inflammations, gastric ulcer [16, 23, 44, 80]. Currently, this is being confirmed experimentally in studies with the oil from the seeds of C. guianensis that show its anti- inflammatory activity [35, 80], antiallergic activity [81–83], and wound-healing activity [84, 85]. Also, phytochemical studies attribute anti-inflammatory and antiallergic activity to the tetranortriterpenoids, main molecules of C. guianensis oil [86]. The same occurs with U. tomentosa, whose extract is reported to have antimicrobial, anti-inflammatory and anticancer activity in vitro and in vivo [87]; this is due to the presence of alkaloids, triterpenic heterosides, and polyphenols, mainly tannins [88–90].
+
+Ethnopharmacological
+
+The species P. macroloba has some medicinal application against snakebites. Triterpenic saponins isolated from its
+
+fruit were reported to be effective against snake venom [91]. Also, the essential oil of O. azureus has bactericidal, antioxidant [92], antifungal [93], and leishmanicidal activity [94]. However, the species D. monetaria, V. surinamensis, O. azureus, H. crepitans, and E. oleracea still need further in vitro and in vivo pharmacological research to corroborate their use in folk medicine.
+
+Of the informants, 100% believe in the efficacy of medic- inal plants in common diseases such as fever, diarrhea, and infections and prefer to use them because they understand that there are no side effects and because it is a therapeutic resource free of cost and easily obtainable in the community; however, when serious complications result from malaria and heart disease, they prefer drugs from the pharmacy because they works faster.
+
+3.6. Comparison of the Different Indices. In this study, UVs between 0.91 and 0.56 were from native medicinal plants that are frequently used as an ethnomedicinal resource by the riparians: Carapa guianensis (0.91), Pentachletra macroloba (0.83), Dalbergia monetaria (0.77), Uncaria tomentosa (0.75), Otacanthus azureus (0.62), Virola surinamensis (0.62), Hura crepitans (0.58), and Euterpe oleracea (0.56). These species were the most versatile in the therapeutic preparations and obtained a use index ranging from 100% to 56%; they also were the most frequent in the study area, with a loyalty index of 100% for a specific therapeutic use (Table 1). The most important species for a community are those that have the highest Use Value, and they should be prioritized for conservation [95].
+
+Evidence-Based Complementary and Alternative Medicine
+
+Table 3: Category of therapeutic use and use agreement index (Pcusp) of the medicinal plants cited by the residents of the river mouth of the Mazag˜ao river.
+
+Category of therapeutic use
+
+Microbial Infections
+
+Gastrointestinal disorders
+
+Inflammatories disorders
+
+Pain, Fever, Cold
+
+Malaria
+
+Cardiovascular disorders
+
+Parasites
+
+Scientific Name Carapa guianensis Hura crepitans Otacanthus azureus Uncaria tomentosa Pentaclethra macroloba Copaifera sp. Dalbergia monetaria Euterpe oleracea Carapa guianensis Uncaria tomentosa Spondias mombin Dalbergia monetaria Virola surinamensis Carapa guianensis Aubl. Uncaria tomentosa Pentachletra macroloba Dalbergia monetaria Virola surinamensis Copaifera sp. Plectranthus ornatus Eleutherine bulbosa Origanum vulgare Petiveria alliacea Jatropha curcas Symphonia globulifera Parkia pendula Petiveria alliacea Maquira coriacea Arrabidaea chica Quassia amara Sambucus australis Minquartia guianensis Licania macrophylla Croton urucurana Arrabidaea chica Jatropha curcas Portulaca pilosa Symphonia globulifera Cedrela odorata Eleutherine bulbosa Arrabidaea chica Gossypium hirsutum Adenocalymna alliaceum Mentha pulegium Eupatorium triplinerve Citrus limonum Ocimum campechianum Chenopodium ambrosioides
+
+NF 100 100 96,7 97,2 100 100 92,3 89,8 100 100 100 100 100 100 92,1 97,5 100 79,3 100 92,1 97,5 100 79,3 92,1 100 97,5 100 92,1 100 100 92,1 92,1 97,5 100 79,3 92,1 92,1 97,5 100 79,3 77,1 92,1 97,5 100 79,3 96,4 92,3 78,6
+
+FC 1 0,64 0,68 0,82 0,92 1 0,85 0,62 1 0,82 0,48 0,85 0,68 1 0,82 0,92 0,85 0,54 1 0,82 0,92 0,85 0,54 0,82 0,85 0,92 0,68 0,82 0,85 0,68 0,82 0,82 0,92 0,85 0,54 0,82 0,82 0,92 0,85 0,54 0,44 0,82 0,92 0,85 0,54 0,32 0,28 0,13
+
+Respiratory Infections
+
+19
+
+Pcusp 100 64 66 80 92 100 78 56 100 82 48 85 68 100 76 90 85 43 100 76 90 85 43 76 85 90 68 76 85 68 76 76 90 85 43 76 76 90 85 43 34 76 90 85 43 31 26 10
+
+20
+
+Category of therapeutic use
+
+Rheumatism
+
+Disorders of the Nervous System
+
+Renal, hepatic and biliary disorders
+
+Healing
+
+Leishmaniasis
+
+Cancer
+
+Gynecological disorders
+
+Metabolic Diseases
+
+Evidence-Based Complementary and Alternative Medicine
+
+Table 3: Continued.
+
+Scientific Name Justicia pectoralis Carapa guianensis Siparuna guianensis Ocotea cymbarum Petiveria alliacea Copaifera sp. Aeollanthus suaveolens Genipa americana Hypericum perforatum C´ıtrus aurantium Passiflora tholozanii Passiflora edulis Eleutherine bulbosa Alternanthera brasiliana Senna reticulata Arrabidaea chica Phyllanthus amarus Croton cajucara Portulaca pilosa Montrichardia linifera Macrolobium acaciifolium Eleutherine bulbosa Jatropha curcas Hura crepitans Otacanthus azureus Pourouma guianensis Gustavia augusta Vismia macrophylla Passiflora tholozanii Eleutherine bulbosa Alternanthera brasiliana Hura crepitans Uncaria tomentosa Uncaria guianensis Maquira coriacea Passiflora tholozanii Hura crepitans Copaifera sp. Uncaria tomentosa Uncaria guianensis Carapa guianensis Pentachletra macroloba Dalbergia monetaria Euterpe oleracea Arrabidaea chica Croton cajucara
+
+NF 60 100 92,1 97,5 100 100 92,1 97,5 100 79,3 100 95,8 70,6 92,1 97,5 100 79,3 33,3 92,1 97,5 100 79,3 16,7 79,6 96,7 92,1 97,5 100 79,3 70,6 52,6 94,7 97,1 92,1 97,5 100 79,3 100 97,1 50 100 97,5 100 81,1 100 79,3
+
+FC 0,14 1 0,82 0,92 0,85 1 0,82 0,92 0,85 0,54 0,02 0,27 0,14 0,82 0,92 0,85 0,54 0,01 0,82 0,92 0,85 0,54 0,07 0,51 0,68 0,82 0,92 0,85 0,54 0,14 0,12 0,64 0,8 0,82 0,92 0,85 0,54 1 0,8 0,01 1 0,92 0,85 0,51 0,85 0,54
+
+Pcusp 8 100 76 90 85 100 76 90 85 43 2 26 10 76 90 85 43 0 76 90 85 43 1 41 66 76 90 85 43 10 6 61 78 76 90 85 43 100 78 1 100 90 85 41 85 43
+
+Evidence-Based Complementary and Alternative Medicine
+
+The species Carapa guianensis and Uncaria tomentosa have been among the most phytochemically studied species in recent years. Studies show that C. guianensis (andiroba) oil has anti-inflammatory [35, 95], antiparasitic [96], antispas- modic [97], repellent, antiallergic, antirheumatic and healing properties [98]. Pharmacological tests performed in vitro and in vivo with U. tomentosa (jupind´a) showed antioxidant [99], anticancer [100], anti-inflammatory [101], antimicrobial [102], antiherpetic [103] and antidiabetic [104] activities. In turn, Pentaclethra macroloba, Virola surinamensis, Dalbergia monetaria, Otacanthus azureus, Virola surinamensis, Hura crepitans, and Euterpe oleracea are little known pharmacolog- ically.
+
+Eight floodland forest native species are mentioned for the first time in an ethnobotanical study in the region, and no pharmacological studies have been found for Alla- manda cathartica (0.01), which is used for the treatment of intestinal parasites; Astrocaryum murumuru (0.01), used for the treatment of eye infections of dogs and skin irritations of other animals; Calophyllum brasiliense (0.01), used for joint inflammations and skin ulcers; Passiflora tholozanii (0.02), used for leishmaniasis ulcers, cancer, depression and soothing; Manicaria saccifera (0.04), used for gastritis; Pourouma guianensis (0.04), used for leishmaniasis joint inflammation and ulcers; Triplaris surinamensis (0.04), used for the treatment of joint inflammation; and Unonopsis floribunda (0.04), used for joint and stomach inflammation. Although many species are reported for the treatment of the diseases mentioned, these species deserve attention because the region is going through a rural exodus, and people with this knowledge are decreasing in number and have no successors of that knowledge, which is traditionally passed by word of mouth.
+
+The Informant Consensus Factor (ICF) was calculated for 16 categories of therapeutic uses (Table 2). Leishmaniasis is endemic in the riverside area and recorded an ICF value of 0.9, followed by cancer (0.93), gastrointestinal disorders such as diarrhea, vomiting, and gastritis (0.89), inflammation in the uterus and burns (0.88), diabetes and albumin (0.87), and microbial, respiratory infections and pain, fever and cold symptoms (0.86); these include diseases such as itching, uterine infections, body aches, insect bites, flu, catarrh in the chest and cough. Nervous system disorders such as epilepsy, convulsions and depression had ICF values of 0.77; malaria, 0.73; renal and bile calculi, 0.72; infarction, bleeding, and high blood pressure, 0.71; followed by verminoses, 0.66; gynecological problems after childbirth, 0.64; and joint inflammation, 0.54.
+
+High ICF values clearly showed that the community uses medicinal plants for their health problems and that there are well-defined choice criteria, which are shared orally [48, 105]. A total of 73 medicinal plants were used for microbial infections, followed by 47 that are referred for the gastrointestinal system and 41 for general inflammation in the body. According to the interviewees, the therapeutic use of plants in the community is the first alternative for the treatment of health problems, and in many cases, it constitutes the only immediate resource for this purpose, as there are difficulties in accessing allopathic medicines
+
+because they live far from urban centers, have small boats as transportation means, which are called “rabetas”, and do not have public health units for simple clinical care for diarrhea, headaches and infections. According to Lima et al. [106], the rich traditional knowledge of communities living in isolation in the Amazon arises from the need to have an alternative therapeutic treatment, caused by the limited access to the public health network and the great cultural influence of these peoples.
+
+In the study, the floodland forest native species with the highest values of relative importance, for the treat- ment of the most frequent diseases in the community, are as follows (Table 3): Carapa guianensis, Hura crepitans, Otacanthus azureus Uncaria tomentosa, Uncaria guianensis, Pentaclethra macroloba, Copaifera sp., Dalbergia monetaria, Spondias mombin, Virola surinamensis, Symphonia globulif- era, Parkia pendula, Maquira coriacea, Croton urucurana, Quassia amara, Genipa americana, Vismia macrophylla, Gus- tavia augusta, and Passiflora tholozanii. They are the most versatile because they can be used in various therapeutic treatments.
+
+4. Conclusion
+
+This is a pioneer study of the riparian community in flooded areas of Mazag˜ao, and it shows that knowledge about plants and their medicinal uses is diverse and widespread in the community, likely because of the high incidence of tropical diseases such as malaria and leishmaniasis as well as the difficulty in accessing medicines distributed by the government and easy access to local plants. The riparians listed 130 ethnospecies, of which 95 are mostly native trees of lowland forest. In the study, the residents showed that they use conservation practices such as not annealing the individuals when collecting bark/bast; in addition, after extracting medicinal oil from the copaiba trunk, they always allow one year for the plant to recover, and if needed, they search for another trunk so as to not to exhaust the resource. They also collect Carapa guianensis (andiroba) and Pentachletra macroloba (pracaxi) fruits, which are dispersed in the water, for extraction of the medicinal oil, which is marketed in urban areas. Residents report that they have a potential consumer market for these medicinal oils and that organization is lacking to make the production of this oil profitable. Therefore, native medicinal species should be prioritized for conservation, as riparians depend on the collection of these plants as the main drugs for the region’s endemic and cultural diseases; furthermore, these plants may be used for future pharmacological studies. Studies of this nature reinforce the importance of the relation- ship between the community and biodiversity, valuing, and bringing visibility to the ethnobotanical and ethnopharma- cological knowledge they possess. The systematization of knowledge about these resources rescues popular knowledge, contributing not only to the conservation of diversity but also to the preservation of a rich and important cultural heritage.
+
+21
+
+22
+
+Data Availability
+
+All data generated and analyzed to support this study are included in this published article. The project was submitted to the Ethics Research Committee of the Fac- uldade Est´acio de Macap´a (http://aplicacao.saude.gov.br/ plataformabrasil/login.jsf, under the opinion no. 14.94.994). And the complete information of the individual interviews could be requested from the corresponding authors.
+
+Conflicts of Interest
+
+The authors declare that there are no conflicts of interest regarding the publication of this paper.
+
+Acknowledgments
+
+The authors would like to thank CAPES (no. 3292/2013 AUXPE) and CNPq Proc. 407768/2013-0 (RAPBioFar) for the financial support.
+
+References
+
+[1] F. Wittmann, J. Schongart, J. M. Brito et al., Manual of Trees from Central Amazonian V´arzea Floodplains: Taxonomy, Ecology and Use, INPA, 2010.
+
+[2] S. S. Almeida, D. D. Amaral, and A. S. Silva, “An´alise flor´ıstica e estrutura de florestas de v´arzea no estu´ario amazˆonico,” Acta Amazonica, vol. 34, no. 4, pp. 513–524, 2004.
+
+[3] J. A. L. Queiroz and S. Mochiutti, “Cultivo de ac¸aizeiros e manejo de ac¸aizais para a produc¸˜ao de frutos,” Embrapa Amap´a, 2001.
+
+[4] A. G. Martins, D. L. Ros´ario, M. N. Barros, and M. A. G. Jardim, “Levantamento etnobotˆanico de plantas medicinais, alimentares e t´oxicas da ilha do Combu, munic´ıpio de Bel´em, estado do Par´a, Brasil,” Revista Brasileira de Farm´acia, vol. 86, no. 1, pp. 21–30, 2005.
+
+[5] L. M. B. Rodrigues, A. U. S. Lira, F. A. Santos, and M. A. G. Jardim, “Composic¸˜ao flor´ıstica e uso das esp´ecies vegetais em dois ambientes de florestas de v´arzea,” Revista Brasileira de Farm´acia, vol. 87, no. 2, pp. 45–48, 2006.
+
+[6] E. P. P. Pinto, M. C. M. Amorozo, and A. Furlan, “Conhecimento popular sobre plantas medicinais em comunidades rurais de mata atlˆantica - Itacar´e, BA, Brasil,” Acta Botanica Brasilica, vol. 20, no. 4, pp. 751–762, 2006.
+
+[7] U. P. Albuquerque and L. D. H. C. Andrade, “Conhecimento botˆanico tradicional e conservac¸˜ao em uma ´area de caatinga no estado de Pernambuco, Nordeste do Brasil,” Acta Botanica Brasilica, vol. 16, no. 3, pp. 273–285, 2002.
+
+[8] A. S. Ribeiro, M. d. Palha, M. M. Tourinho, C. Whiteman, and A. d. Silva, “Utilizac¸˜ao dos recursos naturais por comunidades humanas do Parque Ecotur´ıstico do Guam´a, Bel´em, Par´a,” Acta Amazonica, vol. 37, no. 2, pp. 235–240, 2007.
+
+[9] F. G. S. Oliveira and C. R. Lehn, “Riscos e perspectivas na utilizac¸˜ao de fitoter´apicos no Brasil,” Opar´a: Etnicidades, Movimentos Sociais e Educac¸˜ao, Paulo Afonso, vol. 3, no. 4, pp. 35–44, 2015.
+
+[10] L. N. Pinto, A. S. O. Flor, and W. L. R. Barbosa, “Fitoterapia popular na Amazˆonia Paraense: uma abordagem no munic´ıpio de Igarap´e-Mir´ı, estado do Par´a nos anos de 2000 e 2008,”
+
+Evidence-Based Complementary and Alternative Medicine
+
+Revista Ciˆencias Farmacˆeuticas B´asica Aplicada, vol. 35, no. 2, pp. 305–311, 2011.
+
+[11] J. B. Calixto, “Twenty-five years of research on medicinal plants in Latin America: a personal view,” Journal of Ethnopharmacol- ogy, vol. 100, no. 1-2, pp. 131–134, 2005.
+
+[12] W. D. C. Firmo, V. A. M. Menezes, C. E. D. C. Passos et al., “Contexto hist´orico, uso popular e concepc¸˜ao cient´ıfica sobre plantas medicinais,” Caderno de Pesquisa, vol. 18, no. especial, pp. 90–95, 2011.
+
+[13] B. V´eronique, “Passado Portuguˆes, presente negro e indizibili- dade amer´ındia: o caso de Mazag˜aoVelho, Amap´a,” Religi˜ao & Sociedade, vol. 28, no. 2, pp. 11–29, 2008.
+
+[14] P. de Assunc¸˜ao, “Mazag˜ao: cidades em dois continentes,” in Revista eletrˆonica de Arquitetura e Urbanismo, vol. 1, pp. 22–55, Universidade S˜ao Judas Tadeu, S˜ao Paulo, Brazil, 2009.
+
+[15] A. C. D. Silva, E. S. Cust´odio, and E. D. L. S. Foster, “Intangible cultural heritage and religiosity: Celebrations in the Mazag˜ao Velho, in the state of Amap´a,” Estudos Teol´ogicos, vol. 55, no. 2, pp. 388–403, 2015.
+
+[16] V. Laurent, Mazag˜ao a cidade que atravessou o Atlˆantico: do Marrocos `a Amazˆonia, (1769-1783), Martins Fontes, S˜ao Paulo, Brazil, 2008.
+
+[17] D. A. C. Sant’Ana, O Mito Moderno da Natureza Intocada,
+
+Hucitec NAPUB USP, S˜ao Paulo, Brazil, 2008.
+
+[18] R. M. Lomba, “Modos de vida ribeirinho na comunidade Foz do Rio Mazag˜ao – Mazag˜ao (AP/Brasil),” Ateliˆe Geogr´afico, vol. 11, no. 1, pp. 257–276, 2017.
+
+[19] M. S. de Mendonc¸a, M. A. D. de Souza, M. F. Cassino et al., Plantas medicinais usadas por comunidades ribeirinhas do m´edio Rio Solim˜oes, Amazonas: identificac¸˜ao, etnofarmacologia e caracterizac¸˜ao estrutural, Universidade Federal do Amazonas, 2014.
+
+[20] R. B. L. Silva, Diversidade, uso e manejo de quintais agroflorestais no Distrito do Carv˜ao, Mazag˜ao-AP, Brasil [PhD thesis], Univer- sidade Federal do Par´a, Bel´em, Brazil, 2010.
+
+[21] E. S. Nascimento, Levantamento dos conhecimentos etno- botˆanicos de comunidades ribeirinhas do estu´ario amapaense, Universidade Federal do Amap´a, Macap´a, Brasil, 2011.
+
+[22] J. P. G. dos Santos-Silva and P. C. de Oliveira, “Ethnobotany of Medicinal Plants in the Low Land Community Igarap´e do Costa, Santar´emPar´a, Brazil,” Ambiente y Sostenibilidad, vol. 2016, no. 6, pp. 136–151, 2016.
+
+[23] S. P. F. V´asques, M. S. Mendonc¸a, S. N. Noda, S. P. F. V´asques, and M. S. Mendonc¸a, “Etnobotˆanica de plantas medicinais em comunidades ribeirinhas do Munic´ıpio de Manacapuru, Amazonas, Brasil,” Acta Amazˆonica, vol. 44, no. 4, pp. 457–472, 2014.
+
+[24] IBGE, Instituto Brasileiro de Geografia e Estat´ıstica, censo
+
+populacional, 2010, http://www.ibge.gov.br.
+
+[25] M. J. V. C. Carim, M. A. G. Jardim, and T. D. S. Medeiros, “Composic¸˜ao flor´ıstica e estrutura da floresta de v´arzea no munic´ıpio de Mazag˜ao, Estado do Amap´a, Brasil,” Scientia Forestalis, vol. 36, no. 79, pp. 191–201, 2008.
+
+[26] A. C. Pinto, A. P. S. C. Simas, A. T. Tardin et al., “Macro- diagn´ostico do Estado do Amap´a: Primeira aproximac¸˜ao do zoneamento econˆomico ecol´ogico,” in Instituto de Pesquisas Cient´ıficas e Tecnol´ogicas do Estado do Amap´a, Macap´a, Brasil, 2002.
+
+[27] F. Wittmann, J. Sch¨ongart, J. C. Montero et al., “Tree species composition and diversity gradients in white-water forests across the Amazon Basin,” Journal of Biogeography, vol. 33, no. 8, pp. 1334–1347, 2006.
+
+Evidence-Based Complementary and Alternative Medicine
+
+[28] F. Wittmann, J. Sch¨ongart, and W. J. Junk, “Phytogeography, species diversity, community structure and dynamics of Central Amazonian floodplain forests,” Amazonian Floodplain Fororest, vol. 210, pp. 61–102, 2010.
+
+[29] IBGE, “Instituto Brasileiro de Geografia e Estat´ıstica,” in Man- ual t´ecnico da vegetac¸˜ao brasileira, IBGE, Rio de janeiro, Brazil, 2012.
+
+[30] J. V. M. Carim, M. F. K. Wittmann, M. T. F. Piedade, J. R. S. Guimar˜aes, and L. C. L. Tostes, “Composition, diversity, and structure of tidal “V´arzea” and “Igap´o” floodplain forests in eastern Amazonia, Brazil,” Brazilian Journal of Botany, vol. 40, no. 1, pp. 115–124, 2017.
+
+[31] B. V. Rabelo, Mazag˜ao: Realidades Que Devem Ser Conhecidas,
+
+IEPA, Macap´a, Brasil, 2005.
+
+[32] E. R. Pinto, Solos, hidrologia e estrutura populacional de pracuubeiras em florestas de v´arzea do estu´ario amazˆonico, Universidade Federal do Amap´a, Macap´a, Brazil, 2014.
+
+[33] U. P. Albuquerque and R. F. P. Lucena, “Methods and tech- niques in the etnobotany research,” in Livro R´apido/N´ucleo de Publicac¸˜oes em Ecologia e Etnobotˆanica Aplicada, Pernambuco, Recife, Brazil, 2004.
+
+[34] O. Fidalgo and L. R. Bononi, T´ecnica de coleta, preservac¸˜ao e herborizac¸˜ao de material botˆanico, Instituto de Botˆanica, S˜ao Paulo, Brasil, 1989.
+
+[35] H. Lorenzi and F. J. A. Matos,Plantas Medicinais no Brasil: nativas e ex´oticas cultivadas, Instituto Plantarum, Nova Odessa, Brasil, 2008.
+
+[36] Angiosperm Phylogeny Group (APG), “An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV,” Botanical Journal of the Linnean Society, vol. 181, pp. 1–20, 2016.
+
+[37] A. M. Carneiro and B. E. Irgang, “Origem e distribuic¸˜ao geogr´afica das esp´ecies ruderais da Vila de Santo Amaro, General Cˆamara, Rio Grande do Sul,” Iheringia, S´erie Botˆanica, vol. 60, no. 2, pp. 175–188, 2005.
+
+[38] O. Phillips and A. H. Gentry, “The useful plants of Tambopata, Peru: I. Statistical hypotheses tests with a new quantitative technique,” Economic Botany, vol. 47, no. 1, pp. 15–32, 1993. [39] J. E. Morvin Yabesh, S. Prabhu, and S. Vijayakumar, “An ethnob- otanical study of medicinal plants used by traditional healers in silent valley of Kerala, India,” Journal of Ethnopharmacology, vol. 154, no. 3, pp. 774–789, 2014.
+
+[40] M. Kichu, T. Malewska, K. Akter et al., “An ethnobotanical study of medicinal plants of Chungtia village, Nagaland, India,” Journal of Ethnopharmacology, vol. 166, pp. 5–17, 2015.
+
+[41] R. T. Troter and M. H. Logan, “Informant consensus: a new approach for identifying potentially effective medicinal plants,” in Plants in Indigenous Medicine and Diet, N. L. Etkin, Ed., pp. 91–112, Redgrave Publishing Company, New York, NY, USA, 1986.
+
+[42] J. Friedman, Z. Yaniv, A. Dafni, and D. Palewitch, “A preliminary classification of the healing potential of medicinal plants, based on a rational analysis of an ethnopharmacological field survey among Bedouins in the Negev Desert, Israel,” Journal of Ethnopharmacology, vol. 16, no. 2-3, pp. 275–287, 1986.
+
+[43] V. A. Da Silva, L. D. Andrade, and U. P. De Albuquerque, “Revising the Cultural Significance Index: The case of the Fulnio in Northeastem Brazil,” Field Methods, vol. 18, no. 1, pp. 98–108, 2016.
+
+[44] M. C. Pasa and G. d. ´Avila, “Ribeirinhos e recursos vege- tais: a etnobotˆanica em Rondon´opolis, Mato Grosso, Brasil,” Interac¸˜oes (Campo Grande), vol. 11, no. 2, pp. 195–204, 2010.
+
+[45] B. G. Brasileiro, V. R. Pizziolo, D. S. Matos, A. M. Germano, and C. M. Jamal, “Plantas medicinais utilizadas pela populac¸˜ao atendida no “Programa de Sa´ude da Fam´ılia”, Governador Valadares, MG, Brasil,” Revista Brasileira de Ciˆencias Far- macˆeuticas, vol. 44, no. 4, pp. 629–636, 2008.
+
+[46] E. Elisabetsky, “Etnofarmacologia,” Ciˆencia e Cultura. Camp-
+
+inas, vol. 55, no. 3, pp. 35-36, 2003.
+
+[47] N. Hanazaki, J. Y. Tamashiro, H. F. Leit˜ao-Filho, and A. Begossi, “Diversity of plant use in two caic¸ara communities from the Atlantic Forest coast, Brazil,” Biodiversity and Conservation, vol. 9, no. 5, pp. 597–615, 2000.
+
+[48] R. R. B. Negrelle and K. R. C. Fornazzari, “Estudo etnobotˆanico em duas comunidades rurais (Limeira e Ribeir˜ao Grande) de Guaratuba (Paran´a, Brasil),” Revista Brasileira de Plantas Medicinais, vol. 9, no. 2, pp. 36–54, 2007.
+
+[49] J. A. L. Queiroz, S. Mochiutti, A. S. Machado, and F. Galv˜ao, “Composic¸˜ao flor´ıstica e estrutura de floresta em v´arzea alta estuarina amazˆonica,” Revista Floresta, vol. 35, no. 1, pp. 41–56, 2005.
+
+[50] L. C. Ming and J. A. Amaral, “Aspectos etnobotˆanicos de plantas medicinais na reserva extrativista “Chico Mendes”,” The New York Botanical Garden, 2015, http://www.nybg.org/ bsci/acre/www1/medicinal.html.
+
+[51] G. Guarim Neto and R. G. Morais, “Recursos medicinais de esp´ecies do Cerrado de Mato Grosso: um estudo bibliogr´afico,” Acta Botanica Brasilica, vol. 17, no. 4, pp. 561–584, 2003. [52] S. P. V´asquez, M. S. Mendonc¸a, and S. d. Noda, “Etnobotˆanica de plantas medicinais em comunidades ribeirinhas do Mu- nic´ıpio de Manacapuru, Amazonas, Brasil,” Acta Amazonica, vol. 44, no. 4, pp. 457–472, 2014.
+
+[53] G. S. Vendruscolo and L. A. Mentz, “Estudo da concordˆancia das citac¸˜oes de uso e importˆancia das esp´ecies e fam´ılias utilizadas como medicinais pela comunidade do bairro Ponta Grossa, Porto Alegre, RS, Brasil,” Acta Botanica Brasilica, vol. 20, no. 2, pp. 367–382, 2006.
+
+[54] J. P. G. Santos-Silva and P. C. Oliveira, “Ethnobotany of Medic- inal Plants in the Low Land Community Igarap´e do Costa, Santar´em–Par´a, Brazil,” Revista del Doctorado Interinstitucional en Ciencias Ambientales: Ambiente y Sostenibilidad, vol. 6, pp. 136–151, 2016.
+
+[55] M. N. Alexiades and J. W. Sheldon, Selected Guidelines for Ethnobotanical Research: A Field Manual, Institute of Economic Botany, The New York Botanical Garden, Bronx, NY, USA, 1996. [56] E. M. Miranda, J. A. Sousa, and R. C. A. Pereira, “Caracterizac¸˜ao e avaliac¸˜ao de populac¸˜oes nativas de unha-de-gato [Uncaria tomentosa (Willd.) D.C. e Uncaria guianensis (Aubl.) Gmel.] no vale do rio Juru´a-AC,” Revista Brasileira de Plantas Medicinais, vol. 5, no. 2, pp. 41–46, 2003.
+
+[57] A. S. Filocre˜ao, A. G. Galindo, and T. D. Dos Santos, “Fitoterapia na Amazˆonia: a experiˆencia do estado do Amap´a-Brasil,” Desenvolvimento e Meio Ambiente, vol. 40, 2017.
+
+[58] M. C. Amorozo, “Uso e diversidade de plantas medicinais em Santo Antonio do Leverger, MT, Brasil,” Acta Botanica Brasilica, vol. 16, no. 2, pp. 189–203, 2002.
+
+[59] G. Guarim Neto and R. G. Morais, “Recursos medicinais de esp´ecies do Cerrado de Mato Grosso: Um estudo Bibliografico,” Acta Botanica Brasilica, vol. 17, no. 4, pp. 561–584, 2003. [60] M. Sadat-Hosseini, M. Farajpour, N. Boroomand, and F. Solaimani-Sardou, “Ethnopharmacological studies of indige- nous medicinal plants in the south of Kerman, Iran,” Journal of Ethnopharmacology, vol. 199, pp. 194–204, 2017.
+
+23
+
+24
+
+[61] M. Ayyanar and S. Ignacimuthu, “Ethnobotanical survey of medicinal plants commonly used by Kani tribals in Tirunelveli hills of Western Ghats, India,” Journal of Ethnopharmacology, vol. 134, no. 3, pp. 851–864, 2011.
+
+[62] E. Amri and D. P. Kisangau, “Ethnomedicinal study of plants used in villages around Kimboza forest reserve in Morogoro, Tanzania,” Journal of Ethnobiology and Ethnomedicine, vol. 8, no. 1, 2012.
+
+[63] Y. Gidey, T. Mekonen, and K. Mezgebe, “Survey of medici- nal plants used to treat human ailments in Hawzen district, Northern Ethiopia,” International Journal of Biodiversity and Conservation, vol. 3, no. 13, pp. 709–714, 2011.
+
+[64] M. Giday, Z. Asfaw, and Z. Woldu, “Medicinal plants of the Meinit ethnic group of Ethiopia: an ethnobotanical study,” Journal of Ethnopharmacology, vol. 124, no. 3, pp. 513–521, 2009. [65] A. Ghorbani, “Studies on pharmaceutical ethnobotany in the region of Turkmen Sahra, north of Iran (part 1): general results,” Journal of Ethnopharmacology, vol. 102, no. 1, pp. 58–68, 2005. [66] A. Braca, C. Sortino, M. Politi, I. Morelli, and J. Mendez, “Antioxidant activity of flavonoids from Licania licaniaeflora,” Journal of Ethnopharmacology, vol. 79, no. 3, pp. 379–381, 2002. [67] M. G. de Carvalho, L. F. de Oliveira Cˆandido, P. M. Da Costa, and V. M. Rumjanek, “Chromones from Licania arianeae (Chrysobalanaceae),” Natural Product Research (Formerly Nat- ural Product Letters), vol. 19, no. 1, pp. 7–12, 2005.
+
+[68] J. M. D. Matos and M. E. O. Matos, Farmacognosia Curso te´orico-
+
+pr´atico, UFC, Edic¸˜oes, Fortaleza, Brazil, 1989.
+
+[69] B. Mendes, C. M. N. VenΓncio, M. A. G. Jardim, J. C. da Silva, and C. M. N. Venˆancio, “Informac¸˜oes fitoter´apicas e composic¸˜ao qu´ımica de Mikania lindleyana DC. (Asteraceae),” Revista Brasileira de Farm´acia, vol. 83, no. 1, pp. 27–29, 2002.
+
+[70] J. E. Robbers, M. K. Speedie, and V. E. Tyler, “Farmacognosia
+
+Biotecnologia,” Editorial Premier. S˜ao Paulo, 1997.
+
+[71] M. C. M. Amorozo and A. L. G´ely, “Uso de plantas medicinais por caboclos do baixo Amazonas, Barcarena, PA, Brasil,” Bole- tim do Museu Paraense Em´ılio Goeldi. Nova S´erie Botˆanica, vol. 4, no. 1, pp. 47–131, 1998.
+
+[72] P. L. B. Lisboa, Caxiuan˜a: Populac¸˜oes Tradicionais, Meio F´ısico e Diversidade Biol´ogica, Museu Paraense Em´ılio Goeldi, Bel´em, PA, Brazil, 2002.
+
+[73] J. Veiga and V. Scudeller, “Etnobotˆanica e medicina popular no tratamento de mal´aria e males associados na comunidade ribeirinha Juli˜ao – baixo Rio Negro (Amazˆonia Central),” in Revista Brasileira de Plantas Medicinais, vol. 17, pp. 737–747, Campinas, 2015.
+
+[74] M. F. Medeiros, V. S. Fonseca, and R. H. Andreata, “Plantas medicinais e seus usos pelos sitiantes da Reserva Rio das Pedras, Mangaratiba, RJ, Brasil,” Acta Botanica Brasilica, vol. 18, no. 2, pp. 391–399, 2004.
+
+[75] N. R. Bueno, R. O. Castilho, R. B. da Costa et al., “Medicinal plants used by the kaiow´a and guarani indigenous populations in the caarap´o reserve, Mato Grosso do Sul, Brazil,” Acta Botanica Brasilica, vol. 19, no. 1, pp. 39–44, 2005.
+
+[76] M. F. Silva-Almeida and M. C. M. Amorozo, “Medicina popular no Distrito de Ferraz, Munic´ıpio de Rio Claro, Estado de S˜ao Paulo,” Brazilian Journal of Ecology, vol. 2, pp. 36–46, 1998. [77] M. Heinrich, A. Ankli, B. Frei, C. Weimann, and O. Sticher, “Medicinal plants in Mexico: healers’ consensus and cultural importance,” Social Science & Medicine, vol. 47, no. 11, pp. 1859– 1871, 1998.
+
+Evidence-Based Complementary and Alternative Medicine
+
+[78] B. C. Bennett and G. T. Prance, “Introduced plants in the indige- nous pharmacopoeia of northern South America,” Economic Botany, vol. 54, no. 1, pp. 90–102, 2000.
+
+[79] E. C. Fernandez, Y. E. Sandi, and L. Kokoska, “Ethnobotanical inventory of medicinal plants used in the bustillo province of the potosi department,” Bolivia1, vol. 4, pp. 35–72, 2003. [80] R. B. A. Le˜ao, M. R. Coelho-ferreira, M. A. G. Jardim, and R. B. A. Le˜ao, “Levantamento de plantas de uso terapˆeutico no munic´ıpio de Santa B´arbara do Par´a, Estado do Par´a, Brasil,” Revista Brasileira de Farm´acia, vol. 88, no. 1, pp. 21–25, 2007. [81] C. Penido, F. P. Conte, M. S. S. Chagas, C. A. B. Rodrigues, J. F. G. Pereira, and M. G. M. O. Henriques, “Anti-allergic effects of natural tetranortriterpenoids isolated from Carapa guianensis Aublet on allergen-induced vascular permeability and hyperalgesia,” Inflammation Research, vol. 54, no. 7, pp. 295– 303, 2005.
+
+[82] F. K. Ferraris, K. H. Moret, A. B. C. Figueiredo, C. Penido, and M. O. das Grac¸as Henriques, “Gedunin, a natural tetranor- triterpenoid, modulates T lymphocyte responses and amelio- rates allergic inflammation,” International Immunopharmacol- ogy, vol. 14, no. 1, pp. 82–93, 2012.
+
+[83] C. Penido, K. A. Costa, M. F. D. S. Costa, J. D. F. G. Pereira, A. C. Siani, and M. D. G. M. D. O. Henriques, “Inhibition of allergen-induced eosinophil recruitment by natural tetranortriterpenoids is mediated by the suppression of IL-5, CCL11/eotaxin and NF𝜅B activation,”International Immunopharmacology, vol. 6, no. 2, pp. 109–121, 2006.
+
+[84] B. S. Nayak, J. Kanhai, D. M. Milne et al., “Investigation of the wound healing activity of Carapa guianensis L. (Meliaceae) bark extract in rats using excision, incision, and dead space wound models,” Journal of Medicinal Food, vol. 13, no. 5, pp. 1141–1146, 2010.
+
+[85] B. S. Nayak, J. Kanhai, D. M. Milne, L. P. Pereira, and W. H. Swanston, “Experimental evaluation of ethanolic extract of carapa guianensis L. leaf for its wound healing activity using three wound models,” Evidence-Based Complementary and Alternative Medicine, vol. 2011, Article ID 419612, 2011. [86] F. K. Ferraris, R. Rodrigues, V. P. Da Silva, R. Figueiredo, C. Penido, and M. D. G. M. O. Henriques, “Modulation of T lymphocyte and eosinophil functions in vitro by natural tetranortriterpenoids isolated from Carapa guianensis Aublet,” International Immunopharmacology, vol. 11, no. 1, pp. 1–11, 2011. [87] Q. Zhang, J. J. Zhao, J. Xu, F. Feng, and W. Qu, “Medicinal uses, phytochemistry and pharmacology of the genus Uncaria,” Journal of Ethnopharmacology, vol. 173, pp. 48–80, 2015. [88] C. Pavei, S. Kaiser, G. L. Borr´e, and G. G. Ortega, “Validation of a LC method for polyphenols assay in cat’s claw (Uncaria tomentosa),” Journal of Liquid Chromatography & Related Tech- nologies, vol. 33, no. 17, pp. 1551–1561, 2010.
+
+[89] C. Pavei, S. Kaiser, S. G. Verza, G. L. Borre, and G. G. Ortega, “HPLC-PDA method for quinovic acid glycosides assay in Cat’s claw (Uncaria tomentosa) associated with UPLC/Q-TOF-MS analysis,” Journal of Pharmaceutical and Biomedical Analysis, vol. 62, pp. 250–257, 2012.
+
+[90] Y. Sheng, C. ˚Akesson, K. Holmgren, C. Bryngelsson, V. Giamapa, and R. W. Pero, “An active ingredient of Cat’s Claw water extracts: Identification and efficacy of quinic acid,” Journal of Ethnopharmacology, vol. 96, no. 3, pp. 577–584, 2005. [91] J. O. da Silva, R. S. Fernandes, F. K. Ticli et al., “Triterpenoid saponins, new metalloprotease snake venom inhibitors isolated from Pentaclethra macroloba,” Toxicon, vol. 50, no. 2, pp. 283– 291, 2007.
+
+Evidence-Based Complementary and Alternative Medicine
+
+[92] L. J. Reddy, J. Beena, G. Spandana, and D. J. Reshma, “Evaluation of antibacterial and antioxidant activities of the leaf essential oil and leaf extracts of Otacanthus caerulus (Linden) Ronse,” International Journal of Pharmacy and Pharmaceutical Science Research, vol. 2, pp. 20–25, 2012.
+
+[93] E. Hou¨el, A. M. S. Rodrigues, A. Jahn-Oyac et al., “In vitro antidermatophytic activity of Otacanthus azureus (Linden) Ronse essential oil alone and in combination with azoles,” Journal of Applied Microbiology, vol. 116, no. 2, pp. 288–294, 2014.
+
+[94] E. Hou¨el, G. Gonzalez, J.-M. Bessi`ere et al., “Therapeutic switching: From antidermatophytic essential oils to new leish- manicidal products,” Mem´orias do Instituto Oswaldo Cruz, vol. 110, no. 1, pp. 106–113, 2015.
+
+[95] P. Shanley and N. A. Rosa, “Conhecimento em eros˜ao: um invent´ario etnobotˆanico na fronteira de explorac¸˜ao da Amazˆonia Oriental,” Boletim do Museu Paraense Em´ılio Goeldi, vol. 1, pp. 147–171, 2005.
+
+[96] J. H. Costa-Silva, C. R. Lima, E. J. R. Silva et al., “Acute and subacute toxicity of the Carapa guianensis Aublet (Meliaceae) seed oil,” Journal of Ethnopharmacology, vol. 116, no. 3, pp. 495– 500, 2008.
+
+[97] J. S. Prophiro, M. A. N. da Silva, L. A. Kanis, B. M. da Silva, J. E. Duque-Luna, and O. S. da Silva, “Evaluation of time toxicity, residual effect, and growth-inhibiting property of Carapa guianensis and Copaifera sp. in Aedes aegypti,” Parasitology Research, vol. 110, no. 2, pp. 713–719, 2012.
+
+[98] O. J. D. Santos, O. Malafaia, J. M. Ribas-Filho, N. G. Czeczko, R. H. P. Santos, and R. A. P. Santos, “Efeito de Schinus terebinthifolius Raddi (aroeira) e Carapa guianensis Aublet (andiroba) na cicatrizac¸˜ao de gastrorrafias,” Arquivos Brasileiros de Cirurgia Digestiva, vol. 26, no. 2, pp. 84–91, 2013.
+
+[99] A. A. Dreifuss, A. L. Bastos-Pereira, and I. A. Fabossi, “Uncaria tomentosa exerts extensive anti-neoplastic effects against the walker-256 tumour by modulating oxidative stress and not by alkaloid activity,” PLos One, vol. 8, no. 2, Article ID e54618, pp. 1–14, 2013.
+
+[100] R. Pilarski, B. Filip, J. Wietrzyk, M. Kura´s, and K. Gulewicz, “Anticancer activity of the Uncaria tomentosa (Willd.) DC. preparations with different oxindole alkaloid composition,” Phytomedicine, vol. 17, no. 14, pp. 1133–1139, 2010.
+
+[101] R. Rojas-Duran, G. Gonz´alez-Aspajo, C. Ruiz-Martel et al., “Anti-inflammatory activity of mitraphylline isolated from Uncaria tomentosa bark,” Journal of Ethnopharmacology, vol. 143, no. 3, pp. 801–804, 2012.
+
+[102] R. A. Ccahuana-Vasquez, S. S. Ferreira dos Santos, C. Y. Koga-Ito, and A. O. Cardoso Jorge, “Antimicrobial activity of Uncaria tomentosa against oral human pathogens,” Brazilian Oral Research, vol. 21, no. 1, pp. 46–50, 2007.
+
+[103] T. Caon, S. Kaiser, C. Feltrin et al., “Antimutagenic and antiherpetic activities of different preparations from Uncaria tomentosa (cat’s claw),” Food and Chemical Toxicology, vol. 66, pp. 30–35, 2014.
+
+[104] A. Domingues, A. Sartori, M. A. Golim et al., “Prevention of experimental diabetes by Uncaria tomentosa extract: Th2 polarization, regulatory T cell preservation or both?” Journal of Ethnopharmacology, vol. 137, no. 1, pp. 635–642, 2011.
+
+[105] S. Baydoun, L. Chalak, H. Dalleh, and N. Arnold, “Ethnophar- macological survey of medicinal plants used in traditional medicine by the communities of Mount Hermon, Lebanon,” Journal of Ethnopharmacology, vol. 173, pp. 139–156, 2015.
+
+[106] R. A. Lima, A. S. Magalh˜aes, and M. R. A. Santos, “Levanta- mento etnobotˆanico de plantas medicinais utilizadas na cidade de Vilhena , Rondˆonia,” Revista Pesquisa & Criac¸˜ao, vol. 10, no. 2, pp. 165–179, 2011.
+
+25
+
+The Scientific World Journal
+
+Hindawi Publishing Corporation Hindawi www.hindawi.com http://www.hindawi.com
+
+Volume 2018 Volume 2013
+
+Journal of Immunology Research
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+PPAR Research
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Journal of Ophthalmology
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Computational and Mathematical Methods in Medicine
+
+Hindawi www.hindawi.com
+
+MEDIATORS INFLAMMATION
+
+of
+
+Gastroenterology Research and Practice
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Submit your manuscripts at www.hindawi.com
+
+Stem Cells International
+
+Evidence-Based Complementary and Alternative Medicine
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Parkinson’s Disease
+
+Behavioural Neurology
+
+Hindawi www.hindawi.com
+
+Hindawi www.hindawi.com
+
+Journal of Diabetes Research
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Journal of Obesity
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+AIDS
+
+Research and Treatment
+
+Hindawi www.hindawi.com
+
+Disease Markers
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+International Journal of Endocrinology
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+BioMed Research International
+
+Hindawi www.hindawi.com
+
+Volume 2018
+
+Journal of Oncology
+
+Hindawi www.hindawi.com
+
+Volume 2013
+
+Oxidative Medicine and Cellular Longevity
+
+Hindawi www.hindawi.com

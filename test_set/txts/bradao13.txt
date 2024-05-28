@@ -1,0 +1,1351 @@
+Journal of Ethnopharmacology 147 (2013) 180–189
+
+Contents lists available at SciVerse ScienceDirect
+
+Journal of Ethnopharmacology
+
+journal homepage: www.elsevier.com/locate/jep
+
+Amazonian Brazilian medicinal plants described by C.F.P. von Martius in the 19th century
+
+Ulrike B. Breitbach a, Michael Niehues a, Norberto P. Lopes a, Jair E.Q. Faria b, Maria G.L. Brand~ao c,d,n
+
+a FCFRP—Universidade de S ~ao Paulo, Ribeir ~ao Preto, S ~ao Paulo, Brazil b Instituto de Ciˆencias Biolo´gicas, Departamento de Botˆanica, Universidade de Brası´lia, Brazil c DATAPLAMT, Museu de Histo´ria Natural e Jardim Botˆanico, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil d Faculdade de Farma´cia, Universidade Federal de Minas Gerais, Avenida Antˆonio Carlos 6627, 31270-901 Belo Horizonte, Minas Gerais, Brazil
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history: Received 9 December 2012 Received in revised form 24 February 2013 Accepted 27 February 2013 Available online 7 March 2013
+
+Keywords: C.F.P. von Martius Medicinal plants Amazon Historical records Brazil
+
+Ethnopharmacological relevance: Information regarding the use of beneﬁcial, native Brazilian plants was compiled by European naturalists during the 19th century. The German botanist C.F.P. von Martius was one of the most prominent naturalists and described the use of several Brazilian plants. Aim of the study: To present data on Amazonian medicinal plants documented by von Martius in his books. Materials and methods: Data on Amazonian medicinal plants were obtained from three books published by von Martius. Traditional information about these plants was translated from Latin and the cited plant species reorganised according to current taxonomic criteria. Correlated pharmacological studies were obtained from different scientiﬁc databases. Results: A total of 92 native medicinal species from the Amazon were recorded in von Martius’ books. These accounts described 117 different medical uses for these plants. Several parts of the plants were used, including many exudates. The principal use of the species recorded was the treatment of dermatological problems, followed by gastro-intestinal, urinary and respiratory disorders. Few species were recorded as purgatives and febrifuges, a result that differs from the observations of other naturalists. The efﬁcacy of the recorded traditional uses has been conﬁrmed for the few species that have been subjected to laboratory studies. Conclusion: The data recorded by the German naturalist von Martius represent a rich, unexplored source of information about the traditional uses of Brazilian plants. & 2013 Elsevier Ireland Ltd.
+
+Open access under the Elsevier OA license.
+
+1.
+
+Introduction
+
+Brazil became a Portuguese colony in 1500 and this period produced important records of the use of plants by native Brazilians. Jesuit priests were the ﬁrst to establish direct contact with the native inhabitants. Other reports followed, including that of Gabriel Soares de Souza, who recorded the use of several plants (Souza, 1938). Brazilian territory remained under rigid colonial control until the early 19th century. This policy was intended to conceal the potential of the country’s natural resources from other nations. From 1630 to 1654, northwestern Brazil was occupied by the Dutch. During this period, the physician William Pies described the use of important indigenous drugs, including
+
+jaborandi, ipecac, copaiba and tobacco (Pisonis, 1648). In 1808, Bonaparte’s invasion of Portugal forced the Portuguese royal family to resettle in Rio de Janeiro. Remarkable progress occurred in the economy and in culture and science during the 13 years that they lived in Rio de Janeiro. During this period, foreigners gained permission to enter the country. Several European nat- uralists, artists and scientists travelled in the vast Brazilian territory and recorded the mineral, animal and vegetal resources as well as the customs of the inhabitants. The information gathered by naturalists has contributed signiﬁcantly to the growing knowledge of South American biodiversity and has produced signiﬁcant advances in understanding of the continent’s natural history (Brand~ao et al., 2008, 2011).
+
+n Correspondence to: Faculdade de Farma´ cia, Universidade Federal de Minas Gerais, Avenida Antˆonio Carlos 6627, 31270-901 Belo Horizonte, Minas Gerais, Brazil. Tel.: þ 55 31 34096970; fax: þ 55 31 34096935. E-mail addresses: mbrandao@farmacia.ufmg.br,
+
+mglinsbrandao@gmail.com (M.G.L. Brand~ao).
+
+Carl Friedrich Phillip von Martius was one of the most prominent naturalists to travel in Brazil. His studies of the country included investigations in botany and anthropology (Schmelz, 2000). He travelled throughout the country, accompa- nied by the zoologist Johann Baptist von Spix. After their arrival in Rio de Janeiro in November 1817, von Martius and Spix travelled
+
+0378-8741 & 2013 Elsevier Ireland Ltd. http://dx.doi.org/10.1016/j.jep.2013.02.030
+
+Open access under the Elsevier OA license.
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+southwards in the direction of S~ao Paulo, proceeded through Minas Gerais over Goia´ s to Bahia, and then travelled farther north to the Amazon. In Fortaleza da Barra do Rio Negro, today’s Manaus, von Martius and Spix separated to make independent journeys to the frontiers of Colombia and Venezuela. In December 1820, they returned to Rio de Janeiro and Munich. The collections made by this important expedition included thousands of natural history specimens. In all, these collections included 86 specimens of mammals, 350 of birds, 130 of amphibians, 116 of ﬁsh, 2700 of insects, 6500 types of plants, minerals and a great number of cultural objects from the native tribes (Tiefenbacher, 1994). A substantial number of important publications in the ﬁelds of botany and other sciences were also produced. These publications still possess extraordinary scientiﬁc value. Von Martius0 compre- hensive work ‘‘Flora brasiliensis’’ (http://ﬂorabrasiliensis.cria.org. br/) remains the most extensive complete publication about the plants of Brazil. The work of more than 60 years and several specialists was required to produce this substantial project, which comprises 15 volumes divided into 40 parts and containing information on 22,267 plant species, primarily Brazilian angios- perms (Wuschek, 1989; Riederer, 2007). The interests of von Martius extended beyond taxonomy to the traditional uses of Brazilian plants (Wuschek, 1989). In this area of study, he published the ‘‘Systema de Materia Medica Vegetabilis Brasilien- sis’’ (Systema) as well as ‘‘Das Naturell, die Krankheiten, das Arztthum und die Heilmittel der Urbewohner Brasiliens’’. The Systema includes detailed descriptions of the origin of popular plant names, scientiﬁc names and the traditional/ medicinal use of 730 species (Martius, 1843).
+
+This study aims to retrieve, organise and update information on medicinal plants from the Amazon described in the Systema and to complement these results with data from other studies published by von Martius. The medicinal use of plants was compared and/or conﬁrmed by referring to relevant correlated pharmacological studies if available.
+
+but are not considered in this study. Additional data were obtained from the travel diaries, published from 1823 to 1831 and ﬁrst translated into Portuguese soon afterwards, in 1838.
+
+2.2. Recent pharmacological studies correlated with traditional uses
+
+Information on these recent studies was obtained from searches of scientiﬁc databases (Pubmed, Scopus, ISI Web of Knowledge).
+
+3. Results
+
+A total of 92 different species were described as medicinal by von Martius in the Amazon (Table 1). The species belong to 38 families. The Leguminosae and Euphorbiaceae are best repre- sented, with 11 and 8 species, respectively. The Lauraceae, Asteraceae, Apocynaceae and Araceae are represented by six, ﬁve, four and four species, respectively. The Cucurbitaceae and Sola- naceae are each represented by three species. The other families are represented by two or one species each.
+
+Traditional uses of the plants were observed in different parts of the Amazon, primarily in villages located near the banks of the Negro, Solim ~oes, Japura´ , Uaupe´ s, Tocantins and Amazon Rivers as well as near larger cities such as Manaus, Bele´ m and Santare´ m. The remedies were prepared from different parts of the plants. As shown in Table 1, the plant parts most frequently used were the roots (18), leaves (16), herbs (16), bark (12), fruits (11) and seeds (9). Different types of exudates from Amazonian trees were also used, including six latex/milk exudates, four juices and four balsam/resin exudates. Von Martius conducted many compari- sons involving several of these exudates. The balsam obtained from Protium heptaphyllum (Aubl.) Marchand (Burseraceae) was compared with elemi and animes (Hymenaea spp.), and Humiria balsamifera Aubl. was compared with Copaifera L.
+
+2. Materials and methods
+
+2.1. Ethnopharmacological historical literature survey
+
+The selection of data on Amazonian medicinal plants was based on the Systema de Materia Medicae Vegetabilis Brasiliensis (Martius, 1843). To access information in the Systema is a difﬁcult undertaking because the data are not always logically organised, often appear incomplete, are taxonomically antiquated and are generally presented in Latin, Portuguese or German. In this report, we restrict our investigations to the plants of the Amazon because the naturalists covered a wide geographical area and because data on the medicinal plants of this region are scarce.
+
+Native species for which data on traditional medicinal use were included and the vernacular names of the plants speciﬁed in the Systema were selected for further analysis. The actual bota- nical names were checked in the Flora Brasiliensis http://ﬂorabra siliensis.cria.org.br/ and the websites www.theplantlist.org and www.mobot.org. The status of each species as a plant native to Brazil was veriﬁed in an ofﬁcial Brazilian species list, ‘‘Lista de Espe´cies da Flora do Brasil’’ (Jardim Botˆanico do Rio de Janeiro; http://ﬂoradobrasil.jbrj.gov.br).
+
+The traditional uses described by von Martius (in Latin or German) in the bibliography were summarised from the original books, translated into English and included in Table 1. Particular uses such as ‘‘chlorosis’’ (hypochromic anaemia) or ‘‘alexiphar- maca’’, are described in their original format. The uses of certain exotic species, such as Zingiber ofﬁcinale Roscoe or Sesamum indicum L., were also recorded by von Martius from the Amazon
+
+A total of 117 traditional uses were recorded by von Martius for the plants listed in Table 1. The most common use was the treatment of dermatological problems: 39 plants (42.3% of the total number of species) were used for this purpose. Of these plants, 23 species were found to serve in treating ulcers and in healing wounds and four in treating warts, four were used against condyloma, three were used as emollients, two were used for exanthema disease and two were used for impingments or insect bites. One plant each was mentioned for the treatment of dry skin, dermatophytoses, erysipelas, herpes, psoriasis, burn and sun- stroke. Other plants were recorded as useful for treating digestive disorders. Of these plants, 17 species were found to serve in treating intestinal constipation (for example, as ‘‘counteracting obstructions of the abdominal viscera’’) and as laxatives, purga- tives, cathartics or drastic remedies; 11 species were used as antihelminthics; 7 were used as inducers of vomiting/emetics and to treat dyspepsia/stomachic and other digestive disorders; ﬁve were used as antidiarrheal agents; four were used as carmina- tives/anti-ﬂatulence agents; and one was used against blood dysentery. Other well-documented uses involved water retention and urinary problems. A total of 14 plants were used as diuretics (including treatments for dysuria and stranguria), seven to treat hydrops, seven to treat oedema of the foot, three to treat the pain of nephritis, two to treat gout and one to treat blood in the urine. Traditional uses for treating respiratory diseases were also fre- quently mentioned. the use of three plants was mentioned for each of the following catarrhal diseases: chronic cough, lung debility and tuberculosis. Ten plants were used to treat venereal disease, six of which were used against gonorrhoea and four as antisyphilitics. Nine species were used as diaphoretics, seven as febrifuges/antipyretics (two of which were used against
+
+181
+
+182
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Table 1 Medicinal species from the Brazilian Amazon recorded by von Martius in the 19th century.
+
+Family and botanical name
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Apocynaceae
+
+Couma utilis (Mart.) M ¨ull.Arg. (Collophora utilis Mart.)a Himatanthus phagedaenicus (Mart.) Woodson (Plumeria phagedaenica Mart.)a Odontadenia macrantha (Roem. & Schult.) Markgr. (Echites grandiﬂorus G. Mey.)a Odontadenia puncticulosa (Rich.) Pulle (Echites cururu Mart.)a,b,c
+
+Sorveira
+
+Sebu ¨u- ¨uva, Sucu-uˆ ba
+
+Sipo´ cururu
+
+Cipo´ -cururu
+
+Latex
+
+Latex
+
+Wood
+
+Wood after ﬂowering
+
+Rio Negro, near Barra
+
+Rio Negro
+
+Amazonas, Guyana
+
+Near Panure´ ; near Rio Urup (cid:2)es
+
+Antihelminthic with ricinus oil a,c
+
+Externally: infected ulcers; internally: against wormsa,c, psoriasis and warts
+
+Infusion in water to treat dyspepsia and other digestive disordersa, diaphoretic, purgativec
+
+Infusion is used as drastic, to treat dyspepsia and digestive disordersa; to treat gastric feverb Diaphoretic and purgativec
+
+Araceae
+
+Caladium bicolour (Aiton) Vent.a Dracontium polyphyllum L.a Montrichardia arborescens (L.) Schott (Philodendron arborescens (L.) Kunth, Arum arborescens L.)a Pistia stratiotes L. (Pistia occidentalis Blume)a,b
+
+Pe´ de bezerro, Papagaio, Tagura´ , Tinhor ~ao, Tanhor ~ao Jiraraca, Herva de Santa Maria
+
+Aninga, Aninga- ¨uva
+
+Flor d’a´ gua Lentilha d‘a´ gua
+
+Juice
+
+Tubers
+
+Leaves,thallus, roots
+
+n.d.
+
+Para´ , Amazonas Cathartic, antihelminthic, against
+
+‘‘Brasilia amazonica‘‘ Amazonas near Japura´ , Para´
+
+ascaridsa Externally: woundsa; Internally: asthma, chlorosis, amenorrhoea, viper bitesa Healing wounds and ulcers, with fresh juice. Decoction of fresh leaves or dried roots as bath to treat rheumatic pain, testicular and articulation tumours; hydrothoraxa
+
+Amazonas, Ega, Rio Solim ~oes, Para´
+
+Mucilaginous herb, used to clean wounds,infusion internally to treat blood in urine, diabetes, tumours from erysipelas, herpes and hemoptysisa; old wounds can be healed by application of fresh ﬂowersb
+
+Asteraceae
+
+Ayapana triplinervis (Vahl) R.M. King & H. Rob. (Eupatorium ayapana Vent.)a,c Acanthospermum australe (Loeﬂ.) Kuntze (Acanthospermum xanthioides DC.)a Bidens pilosa L. (Bidens leucantha (L.) Willd.)a
+
+Ayapana
+
+Poejo-da-praia
+
+n.d.
+
+Herb
+
+Herb
+
+Amazonas, near S~ao Jo~ao do Principe (Rio Negro) Amazonas near Manaus, Para´
+
+Herb, branches Near Para´
+
+Squeezed herb juice or infusion (internally) and pressed herb (externally) against snake bites and as alexipharmacona Diuretic, diaphoretic; infusion against diarrhoea (originating from colds)a
+
+Mucilaginous herb used together with indigo, Senna uniﬂora (Mill.) H.S. Irwin & Barneby (Cassia sericea Sw.), to treat skin ulcers and lymphoedema. Roots are more mucilaginous than the stems
+
+Eclipta paludicola Steud. (Eclipta prostrata (L.) L., Eclipta erecta L.)a Elephantopus mollis Kunth (Elephantopus. martii Graham)a
+
+Tangaraca
+
+Suc-uaya
+
+Herb
+
+Roots
+
+Amazonas, Para´ Decoction is used to treat diarrhoea
+
+Amazonas
+
+Decoction is used in asthenic feversa
+
+Bignoniaceae Cybistax antisyphilitica (Mart.) Mart.a
+
+Jacaranda copaia (Aubl.) D.Don (Jacaranda procera (Willd.) Spreng.)a
+
+Caroba de ﬂor verde
+
+Caroba
+
+Young branches; roots, leaves
+
+Leaves
+
+Amazonas, near Manaus
+
+Rio Japura´
+
+Antisyphilitic, decoction and infusion to treat dysuria, hydrops, water retention; poultice and lotions against syphilitic ulcers a Used against venereal diseases, mainly inﬂammations of inguinal lymph, in baths of infusion or decoction for impingement. High doses of decoction cause vomiting and diarrhoea
+
+Boraginaeae
+
+Heliotropium indicum L. (Tiaridium indicum (L.) Lehm.)a
+
+Aguara ciunha-ac-u Jacua- acanga
+
+n.d.
+
+Near O´ bitos, Para´
+
+Desobstruents, to clean wounds and ulcers, against cutaneous affection; used on anal inﬂammations
+
+Correlated studies
+
+None
+
+None
+
+None
+
+None
+
+None
+
+None
+
+None
+
+Antidiabetic, antidermatophytic, antifungal, antimicrobial, diuretic (Tripathi et al., 2010)
+
+Antimicrobial (Gupta et al., 2002)
+
+Antiviral (Rocha Martins et al., 2011); antifungal (Portillo et al., 2001)
+
+Antiviral (Nakama et al., 2012); antitumour (Nakama et al., 2011); antibacterial (Tobinaga et al., 2009)
+
+None
+
+None
+
+None
+
+None
+
+Wound healing (Dash and Murthy, 2011); antibacterial (Nethaji and Manokaran, 2009)
+
+Table 1 (continued )
+
+Family and botanical name
+
+Burseraceae
+
+Protium heptaphyllum (Aubl.) Marchand (Icica heptaphylla Aubl.)a
+
+Calophyllaceae Calophyllum brasiliense Cambess.a,c Mammea americana L.a
+
+Cannaceae
+
+Canna glauca L.a,b,c
+
+Caricaceae
+
+Jacaratia digitata (Poepp. & Endl.) Solms (Carica digitata Poepp.& Endl.)a Jacaratia spinosa (Aubl.) A.DC (Carica dodecaphylla Vell.)a
+
+Clusiaceae
+
+Moronobea coccinea Aubl.a
+
+Convolvulaceae
+
+Ipomoea pes-caprae (L.) R.Br. (Convolvulus brasiliensis L., Convolvulus maritimus Desr.)a
+
+Costaceae
+
+Costus cylindricus Jacq.a; Costus scaber Ruiz &Pav. (Costus anachiri Jacq.)a
+
+Cucurbitaceae
+
+Luffa sepium (G. Mey.) C. Jeffrey (Luffa purgans (Mart.) Mart.)a Luffa operculata (L.) Cogn. (Momordica operculata L.)a,c*
+
+Melothria pendula L.a,c* (Melothria ﬂuminensis Gardner)d
+
+Dilleniaceae
+
+Davilla kunthii A.St.- Hil. (Hieronia scabra Vell.)a
+
+Euphorbiaceae
+
+Euphorbia cotinifolia L.a,b (Euphorbia cotinoides Miq.) d Hevea guianensis Aubl. (Siphonia elastica Pers.)a Hura crepitans L.
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Correlated studies
+
+n.d.
+
+n.d.
+
+Amazonas, near Manaus
+
+Tree with dried balsam similar to elemi and animesa
+
+Antiinﬂammatory (Melo et al., 2011)
+
+Lantim, Landy, Jacare´ - ¨uva
+
+Abrico
+
+Bark, balsam Amazonas, near
+
+Seeds, inner root
+
+Manaus, Barcellos Para´
+
+Decoction is used to relax sinewsa
+
+Seeds are anthelminthic. The inner bark has a balsam that is used to treat wounds from biting insects, mainly Culex penetrans, and malignant ulcersa
+
+Antinociceptive (Isaias et al., 2004)
+
+Antibacterial (Yasunaka et al., 2005)
+
+Albara, herva dos feridos
+
+Roots, fresh herb, half-ripe fruit
+
+Para´
+
+Increases diuresis, diaphoresis, wound healing a,b; Rheumatic pain, limb torpor, ulcers, earache
+
+None
+
+n.d.
+
+n.d.
+
+Amazonas,
+
+Poultice to treat wound and ulcer healinga
+
+None
+
+Jacaratia´
+
+n.d.
+
+Guyana, near Acarouany
+
+Poultice to treat wound and ulcer healinga
+
+None
+
+Oanani
+
+n.d.
+
+Para´ , Rio Negro
+
+The tree has a gum-resin used to treat wound
+
+None
+
+Salsa da praia
+
+Leaves, roots, thallus
+
+Para´
+
+Mucilaginous leaves (acres) are used to treat, the effects of colds and chronic gonorrhoea, externally or by moutha. Roots are drastic, thallus and leaves are emollientsa
+
+Antinociceptive (de Souza et al., 2000), antispasmodic (Pongprayoon et al., 1992) Antagonistic to histamine (Wasuwat 1970)
+
+n.d.
+
+Para´ , Rio Negro Mucilaginous juice, refreshing, febrifuge,
+
+None
+
+nephritic pain and gonorrhoea
+
+Buchinha
+
+Fruit
+
+Amazonas
+
+‘‘Coloquintidas’’, hydropisia and chronic ophthalmia, emetica
+
+None
+
+Bucha de Paulista, Purga de Jo ~ao Paes
+
+Cereja de purga
+
+Fruit
+
+Fruit
+
+Amazonas
+
+Para, Santarem, near S. Gabriel
+
+Against amenorrhoea, anasarcha, chlorose, herpetic diseases, emetic, diuretica; hydrops and chronic ophthalmia Purgativea
+
+None
+
+None
+
+None
+
+Leaves
+
+Amazonas, Santarem (Para)
+
+Against testicular swelling from venereal abuse or effects of horseback riding effects and fumigationsa
+
+None
+
+n.d.
+
+Milk, juice
+
+Amazonas,
+
+Treatment of warts and condyloma
+
+Antiviral (Betancur-Galvis et al., 2002)
+
+Rio Negro
+
+with poulticesa,b
+
+Pao seringa, seringueira,
+
+Milk
+
+Para´ , Rio Negro
+
+Latex with Ricinus L. oil against wormsa None
+
+Xeringueira
+
+Oassacu´ , Assacu´
+
+Milk
+
+Para´ , Rio Negro,
+
+Latex is anthelmintica
+
+Leishmanicidal (Garcı´a et al., 2012), antibacterial (Bussmann et al., 2010)
+
+183
+
+184
+
+Table 1 (continued )
+
+Family and botanical name
+
+(Hura brasiliensis Willd.)a Jatropha curcas L. c
+
+Mabea ﬁstulifera Mart.a Manihot esculenta Crantz (Manihot utilissima Pohl)a Euphorbia tithymaloides L.
+
+(Pedilanthus tithymaloides (L.) Poit.) a Sapium glandulosum (L.) Morong (Sapium hippomane G. Mey.)a
+
+Gentianaceae
+
+Potalia resinifera Mart.a
+
+Tachia guianensis Aubl. a,c
+
+Humiriaceae
+
+Humiria balsamifera var. ﬂoribunda (Mart.) Cuatrec. (Humirium ﬂoribundum Mart.) a
+
+Lamiaceae
+
+Leonotis nepetifolia (L.) R.Br.a Hyptis mutabilis (Rich.) Briq. (Hyptis spicata Poit.)a; Hyptis suaveolens (L.) Poita
+
+Lauraceae
+
+Licaria puchury-major (Mart.) Kosterm. (Nectandra puchury- major (Mart.) Nees. & C. Martius ex Nees)a Aniba cujumary (Mart.) A.Lyons (Aydendron cujumary (Mart.) Nees) a Ocotea longifolia Kunth (Oreodaphne opifera (Mart.) Nees)a Ocotea cymbarum Kunth (Nectandra cymbarum (Kunth) Nees)a Ocotea odorifera (Vell.) Rohwer (Mespilodaphne pretiosa var. latifolia Nees & Mart.)a
+
+Lecythidaceae
+
+Gustavia hexapetala (Aubl.) Sm. (Gustavia brasiliana DC.)a
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Pinheiro de purga, Pinh~ao paraguay, Mandubiguac- u, Munduy-guac- u
+
+Canudo de pita
+
+Seeds
+
+Bark
+
+S. Jo~ao, S. Anna, Santarem Para´ , near Santarem, Amazon near Ega Near Santare´ m Bitter bark, astringent, resolvent,
+
+Seeds are emetic and catharticc
+
+Mandioca, Mandiba
+
+n.d.
+
+Para´ ,
+
+Amazonas
+
+febrifuge Lymphatic systema, fresh leaves are antidote For poisoning from roots. Emetic.
+
+n.d.
+
+Herb and root Rio Negro
+
+Latex is used against warts, gonorrhoea, condyloma and malignant ulcers.
+
+Roots are used against syphilis and amenorrhoea
+
+n.d.
+
+Latex and leaves
+
+Amazonas, near
+
+Syphilis; elephantiasis; against wartsa
+
+Rio Negro, S.G. Cachoeira, Para´
+
+Anabi
+
+Raiz de jacare´ -aru´ Caferana
+
+Leaves
+
+Root
+
+Amazonas, near Manaus, Para´ , Santarema Rio Negroa Amazonas, near S. Gabriela
+
+Decoction for ophthalmia, palpebral diseases a
+
+Extremely bitter roots, tonic, incisive, intermittent fevers c
+
+Umiri
+
+Bark
+
+Para´ , Amazonas, near Rio Uaupe´ s
+
+Balsam yellow, limpid, similar to copaiba and Peru a
+
+Cord~ao de frade
+
+Herb
+
+Para´
+
+Used as baths against rheumatic affections and dysuriaa
+
+n.d.
+
+Herb
+
+Para, Santarem Diaphoretic, several catharral disease,
+
+carminative, wound healing
+
+Puchury
+
+Fruits, seeds
+
+Rio Negroa. Amazonas, near Tabatinga
+
+Indigestion, diarrhoea, leucorrhoea, dysenterya
+
+Cujumary
+
+Seeds
+
+Rio Negro
+
+Digestive, stomachica
+
+Canella de cheiro
+
+Fruit oil
+
+Rio Negro
+
+Arthralgy, rheumatic diseasesa
+
+Pa´ o sassafraz
+
+bark
+
+Rio Negro, Amazonas
+
+Tonic, carminative, stomachica
+
+Pereiora´ , p~ao ou casca preciosa bark
+
+Orinoco
+
+Used as decoction in baths for diseases of nervous system, memory, oedema of feet, catarrhal disease, hydrops, gout, syphilis and vaginal discharge
+
+Janiparandiba, Japoarandiba, Jandiparana
+
+roots, leaves, fruits
+
+Near Rio Negro, Gurupˆa, Para´ , Amazonas
+
+Infusion of the roots used to treat liver and spleen disorders, mesenteric glands;
+
+Correlated studies
+
+None
+
+None
+
+Antihelmintic Marie- Magdeleine et al., 2010.
+
+Antiinﬂammatory and antioxidant (Abreu et al., 2006)
+
+None
+
+None
+
+Antimalarial (Carvalho et al. 1991)
+
+None
+
+Anti-inﬂammatory (Parra- Delgado et al., 2004) Anti-inﬂammatory (Grassi et al., 2006)
+
+Antitumour (Uchiyama et al., 2009)
+
+None
+
+None
+
+None
+
+None
+
+Antitumour (Pettit et al., 2004)
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Table 1 (continued )
+
+Family and botanical name
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Correlated studies
+
+wound healing; engorgement of the spleena; emetica
+
+Leguminosae
+
+Bowdichia virgilioides f. major (Mart.) Yakovlev (Sebipira major Mart.)a Caesalpinia pulcherrima (L.) Sw (Poinciana pulcherrima L.)a Copaifera guyanensis Desf.a
+
+Copaifera martii Haynea
+
+Sebip(cid:2)ıra, Sebup(cid:2)ıra, Sicopira, Sucupira
+
+n.d.
+
+n.d.
+
+n.d.
+
+Bark
+
+n.d.
+
+Resin
+
+Resin
+
+Near Santarem (Para´ )
+
+Near Rio Tocantins, Para´ , Santarem, Rio Tapajoz Near Rio Negro, Manaus, Barcellos Para´ , near Maraca and Santarem Rio Negro
+
+Diaphoretic, incisive, corroborant. To treat rheumatic pain, arthritic tumours, weakened by syphilitic virus, hydrops, impingementsa Leaves are cathartic
+
+Gonorrhoeaa
+
+Gonorrhoea
+
+None
+
+None
+
+None
+
+Antimicrobial (Santos et al., 2008)
+
+Cynometra spruceana Benth. var. spruceana (Trachylobium martianum Hayne)a Dipteryx odorata (Aubl.) Willd.a Hymenaea courbaril L.a Senna multijuga subsp. lindleyana (Gardner) H.S. Irwin & Barneby (Cassia magniﬁca Mart.)a Senna occidentalis (L.) Link (Cassia occidentalis L.)a
+
+Taralea oppositifolia Aubl. (Dipterix oppositifolia (Aubl.) Willd.) a Cynometra spruceana Benth var. spruceana (Trachylobium martianum Hayne)a
+
+n.d.
+
+Cumaru, fava de Tonka
+
+n.d.
+
+None
+
+Pajomarioba
+
+Coumarourana
+
+n.d.
+
+Resin
+
+Seeds
+
+Leaves
+
+Herb
+
+Seeds
+
+n.d.
+
+Para´ and Rio Negro Maranh~ao
+
+Para´ , Amazonas
+
+Para´
+
+Same region as Dipteryx odorata
+
+Near Manaus, Para´ , near Rio Caipuru´ , Santarem, Rio Negro, S. Carlos
+
+To treat weakness of the lungs, tuberculosis, chronic cougha
+
+Nervine, analeptic (restorative), cardiac, diaphoretic and emmenagoguea Used for lung debility, inhalation to treat tuberculosis and chronic cough Laxative, cathartica
+
+Used as is Senna from Egypt, as laxative and cathartic. Effects are similar but weaker. Some produce colic. Senna uniﬂora (Mill.) H.S. Irwin & Barneby (Cassia sericera Sw.) is better. Similar to Dipteryx odorata (Aubl.) Willd. but weakera
+
+Used for lung debility, inhalation to treat tuberculosis and chronic cough.
+
+None
+
+None
+
+Antiviral (Cecı´lio et al., 2000)
+
+None
+
+Several activities (see Review from Yadav et al., 2010)
+
+None
+
+None
+
+Linderniaceae
+
+Lindernia diffusa (L.) Wettst. (Vandellia diffusa L.)a
+
+Caa-ataya, Mata canna, Purga de Jo~ao Paez, Orelha de rato
+
+Herb
+
+Para´ , Santarem, Amazonas
+
+Bitter, mucilaginous, purgative, diuretica None
+
+Malvaceae
+
+Sida cordifolia L. (Sida altheifolia Sw.)a (Sida altheifolia Sw.)a
+
+n.d.
+
+Herb
+
+Amazonas near Manaus
+
+Emollient herb, same use as Malva, infusion to treat throat inﬂammation
+
+Anti-inﬂammatory (Swathy et al., 2010; Bonjardim et al., 2011)
+
+Meliaceae
+
+Carapa guianensis Aubl.a
+
+Andiroba, Angiroba, Nandiroba
+
+Seed oil, bark, leaves
+
+Rio Negro, Amazonas
+
+Exanthema, especially that originating from bites of insects of the family Simullidae. Decoctions against Ascaris (internally), dermatophytosisa
+
+Antihelmintic (Carvalho et al., 2012), wound healing (Nayak et al., 2010), anti- inﬂammatory (Penido et al., 2006)
+
+Menispermaceae
+
+Abuta rufescens Aubl.a Abu´ ta
+
+Abuta imene (Mart.) Eichler (Cocculus imene Mart.)a
+
+n.d.
+
+Root, bark
+
+Root
+
+Para´ , Japura´
+
+Amazonas, near S.G. Cachoeira, Manaus, Rio Negro
+
+Stomach debility, digestive, intermittent fever, obstruction of abdominal visceraa Emetic
+
+Antimalarial (Ruiz et al., 2011) None
+
+Moraceae
+
+Coajinguba
+
+Juice
+
+Ascarisa
+
+None
+
+185
+
+186
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Table 1 (continued )
+
+Family and botanical name
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Ficus adhatodifolia Schott (Ficus anthelmintica Mart.)a
+
+Para, near Rio Negro
+
+Myristicaceae
+
+Virola sebifera Aubl. (Myristica sebifera (Aubl.) Sw.)a
+
+Ucuu´ ba
+
+Aromatic fat, oil of cooked seeds
+
+Guyana, Para´ , near Santarem
+
+Colic, dyspepsiaa; rheumatic pain, arthritic tumoursa
+
+Phyllanthaceae
+
+Phyllanthus niruri L.a Herva pombinha
+
+Herb, seeds
+
+Para´
+
+Diabetes mellitus a
+
+Phyllanthus brasiliensis (Aubl.) Poir. (Phyllanthus conami Sw.)a
+
+Conabi, Conavi, Cunabi
+
+Herb
+
+Para´ , Rio Negro,Amazonas
+
+Diuretica
+
+Phytolacaceae
+
+Seguiera alliacea Mart.a
+
+Petiveria alliacea var. tetrandra (Ortega) Hauman (Petiveria tetrandra B.A.Gomes)a
+
+Ybirarema, Guararema, Pa´ o ou sipo´ d’alho, Ubirarema
+
+Herva de pipi, Raiz de guine´
+
+Wood, leaves, bark
+
+Roots, leaves
+
+Para´ , S. Jo~ao and S. Anna
+
+Para´
+
+Externally: exanthemic illnesses, rheumatism, haemorrhoid pain, and water retention. In combination with Bidens pilosa L. herb, Acmella oleracea (L.) R.K.Jansen, Kalanchoe laciniata (L.) DC. a (Kalanchoe brasiliensis Cambess.) and Kalanchoe gastonis-bonnieri Haym.- Hamet & H. Perrier against prostate tumoursa Decoction: limb debilitation. Against the weaker members of the body to treat cold, and against paralysisa
+
+Piperaceae
+
+Piper peltatum L.a
+
+None
+
+Roots, juice of pressed herb, leaves
+
+Para´
+
+Internally: lymphatic system stimulation, diuretica. Externally to clean ulcers, burnsa
+
+Polygonaceae
+
+Persicaria punctata (Elliott) Small (Polygonum acre Kunth)a Polygonum stypticum Cham. & Schltdl.a Microgramma percussa (Cav.) de la Sota (Polypodium percussum Cav.)a
+
+Herva do bicho
+
+None
+
+Samambaia, Feto, feto macho
+
+Juice; herb
+
+juice
+
+n.d.
+
+Banks of Rio Amazonas (Para´ )
+
+Rio Negro
+
+Amazonas
+
+Against strangury, blood dysenteriaea; Arthritis and haemorrhoid paina
+
+Astringent and refreshing; diarrhoea and gonorrhoeaa Against worms in a way similar to Dryopteris ﬁlix-mas (L.) Schott (Aspidium ﬁlix-mas (L.) Sw.)a
+
+Rhizoporaceae
+
+Rhizophora mangle L.a Guaparaiba, Mangue vermelho,
+
+verdadeiro ou amarello.
+
+Bark
+
+Para´
+
+Considered one of the most potent astringents for medical or technical usea
+
+Rubiaceae
+
+Genipa americana L. (Genipa brasiliensis (Spreng.) Baill.)a Palicourea marcgravii A.St.-Hil.a
+
+Jenipapeiro, Jenipaba, v
+
+Erva do rato
+
+Fruit
+
+n.d.
+
+Amazonas, Para´ , near Santarem
+
+Para´ , S. Jo~ao, S. Anna
+
+In baths to heal syphilitic ulcersa
+
+Strong effects in kidneys and skin; used in veterinary medicine against dysuria of horses and mules
+
+Rutaceae
+
+Ertela trifolia (L.) Kuntze (Monnieria trifoliata L.)a
+
+Alfavaca de cobra, Jaborandi
+
+Roots
+
+Maranh~ao, Alcantara, Para´ , Santare´ m
+
+Diaphoretic, diuretic, sialagogue, expectorant, antidote (preservative)a
+
+Salicaceae
+
+Casearia decandra Jacq. (Casearia adstringens Mart.)a
+
+None
+
+Bark
+
+Para´
+
+Adstringent, use in baths for wounda
+
+Sapindaceae
+
+Paullinia cupana Kunth (Paullinia sorbilis Mart.)a
+
+Guarana- ¨uva, guarana´
+
+Seeds
+
+Amazonas, Para´
+
+Stomachic, antipyretic, digestive, cardiac, diaphoretic. Good for the treatment of colds, sunstroke, cramps, ﬂatulence,
+
+Correlated studies
+
+Antioxidant (Rezende et al., 2005)
+
+Antidiabetic (Okoli et al., 2011) None
+
+None
+
+None
+
+Antimicrobial (Mongelli et al., 1995)
+
+None
+
+None
+
+None
+
+Antiinﬂammatory (Marrero et al., 2006), wound healing (Fernandez et al., 2002)
+
+Antitumour (Ueda et al., 1991)
+
+None
+
+None
+
+None
+
+Anxiolytic (Roncon et al., 2011), antidepressant (Campos et al., 2005),
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+Table 1 (continued )
+
+Family and botanical name
+
+Vernacular names
+
+Part
+
+Occurrence
+
+Traditional usea,b,c
+
+Correlated studies
+
+Paullinia pinnata L.a
+
+Timbo´ , Timbo-sipo´ , Cururu´ -ape´ Bark, leaves,
+
+fruits
+
+Para´
+
+anorexia, nervous headache, dry skin. Aphrodisiac but decreases the fertility of sperma Poisonous to the brain and kidneys. Against hydrophobia, melancholia and other types of mental illnessa
+
+gastroprotective (Campos et al., 2003)
+
+Antioxidant (Jimoh et al., 2007).
+
+Smilacaceae
+
+Smilax longifolia Rich. (Smilax papyracea Poir.)a
+
+Smilax syphilitica Humb. & Bonpl. ex Willd.
+
+Legac- ~ao, Salsaparrilha, Japi- canga, Sipo´ -em
+
+Legac- ~ao, Salsaparrilha, Japi- canga, Sipo´ -em
+
+Roots
+
+Roots
+
+Rio Amazonasa Rio Negro, Ega, Japura´ near Porto Dos Miranhas Para´ , Amazonas
+
+Roots are rich in a bitter substance that adheres to the throat. The cooked roots are used to treat diseases of the kidneysa
+
+Same use as the true salsaparrilha (Smilax longifolia Rich.). Fresh plants are better than dried or old plantsa
+
+None
+
+None
+
+Solanaceae
+
+Capsicum annuum L.a Quiyaqui, Quiya-cumari, Quiya-
+
+cumari, Quiya-apua´ , Piment~ao comprido, Piment~ao, Quiya-acu´ , Pimenta de cheiro; Pimenta da ı´ndia
+
+Fruits
+
+Para´
+
+Used against constipation, anorexia, indigestion, atony of the tongue and throat,gangrenous angina and gout. Externally as caustica
+
+Several (see literature)
+
+Physalis pubescens L.a n.d.
+
+Solanum americanum Mill. (Solanum pterocaulon Dunal, Solanum oleraceum Dunal, Solanum nigrum L.)a
+
+Aguara-quiya, Pimenta dos c~aes, Erva do bicho, Pimenta de gallinha, Erva moura
+
+Herb, fruits, leaves
+
+Para´
+
+Japurensibus (Rio Negro)
+
+Resolvent, anodyne, diuretic. Infusion used in catharrhal fever. Against stranguria. Herb emollient, diuretic, used against inﬂammation of the anus and urinary retention. Dried berries are used against toothache and prosopalgia. Leaves are applied to treat skin wounds on the legs a
+
+None
+
+None
+
+Zingiberaceae
+
+Renealmia alpinia (Rottb.) Maas (Alpinia pacoseroca Jacq., Renealmia exaltata L.f.)a,b,d
+
+Pacoseroca
+
+Tuberous roots Amazonas, near
+
+Japura
+
+Carminatives, stomachic, resolutive and alexipharmacas (antidote). Wound disinfection and healingb
+
+Leishmanicidal (Valadeau et al., 2009), antifungal (Melo e Silva et al., 2009)
+
+S.G. Cachoeira—S~ao Gabriel da Cachoeira.
+
+a According to Systema de Materia Medica (Martius, 1843). b According to Natureza, Doenc-as, Medicina e Reme´ dios dos Indios Brasileiros (Martius, 1844). c Spix, J.B. Viagem pelo Brasil (Travel in Brazil) 1817–1820/ Spix e Martius—Belo Horizonte: Ed. Itatiaia; S~ao Paulo: Ed. da Universidade de S~ao Paulo, 198l, vol. III. d Flora Brasiliensis.
+
+intermittent fevers), seven to treat rheumatic diseases, ﬁve to treat amenorrhoea/as emmenagogues and ﬁve to treat arthritis/ arthralgia. Other uses were as astringents, as anti-haemorrhoi- dals, to treat lymphedema and leucorrhoea and as neurological, cardiac and ophthalmic remedies. A total of three or four plants were recorded for each of these uses. The other 40 traditional uses were identiﬁed with one or two species. Of the species listed in Table 1, only 33 (35%) have been studied pharmacologically to verify the efﬁcacy of the traditional remedies, but all of the species studied in these investigations showed activity.
+
+4. Discussion and conclusions
+
+Brazil offers an immense amount of biodiversity, including plants with great pharmacological interest, as recorded by several European naturalists who travelled throughout the country during the 19th century. Data on the medicinal uses of plants of southwestern Brazil recorded in the travel diaries of European naturalists have previously been presented (Brand~ao et al., 2008, 2011). In a recent study, we have additionally presented the ﬁrst data on records of Brazilian medicinal plants in the ﬁeld notebook of the French naturalist Auguste de Saint-Hilaire (Brand~ao et al., 2012). The Amazon Basin, in northern Brazil, also has a highly
+
+diverse biota and still harbours a variety of unknown and unstudied plant species (Hopkins, 2007; Schulman et al., 2007). The Germans Spix and von Martius travelled in a vast area of the Amazon (from the frontiers of Colombia and Venezuela to the Brazilian State of Maranh~ao), and they recorded important data about the use of plants by native Brazilians during that period
+
+Table 1 shows traditional uses for 92 Amazonian plant species. This high number most likely reﬂects not only the extensive biodiversity of the area but also von Martius0 knowledge of medicine. The remedies were prepared with different parts of the plants roots, herbs and leaves. It is interesting to note the use of several exudates of the plants, including juice, latex, resin and balsam. Many of these exudates were used to treat different dermatological diseases. The high frequency of exudate use is due to the type of vegetation found in the area of these explorations. The Brazilian Amazon is the largest continuous forest on Earth, representing more than 40% of the world’s existing tropical rainforest and including a great abundance of trees (Rangel, 2012).
+
+Dermatological problems, including leprosy and wounds, were the most frequent diseases in the Amazon region in the 19th century because of the region’s climate (Galv~ao, 2003). In accor- dance with this situation, almost one-half of the recorded plant species (39, 42.3% of the total) were recorded by von Martius as
+
+187
+
+188
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+useful for treating skin infections. Very few of these species have been subjected to any pharmacological evaluation. The species Pistia stratiotes, Ipomoea pes-caprae, Sida cordifolia, Heliotropium indicum, Couroupita guianensis and Rhizophora mangle have been conﬁrmed as effective wound-healing agents. Two species (Hura crepitans and Renealmia alpinia) have also shown activity against leishmaniasis in experimental studies. Note that ethnobotanical studies performed recently in other and different areas of the Amazon have also shown that most of the plants investigated are used to treat skin diseases (Bourdy et al., 2000; Herndon et al., 2009; Valadeau et al., 2009; Luziatelli et al., 2010). As observed by von Martius, these studies also show that plants are frequently used to treat digestive disorders in the Amazon region. Skin infections and digestive disorders are still severe public health problems in several areas of the world, and promising laboratory results indicate that these species can be useful for developing new medicines. Parasitic disease remains a health problem in the Amazon region, as it was in the 19th century, and many plant species used by the population to treat parasitic diseases were recorded by von Martius. Other diseases affecting the population of the Amazon region in the area investigated by von Martius include rheumatism, inﬂuenza, dysentery, diseases and symptoms asso- ciated with insect and snake bites, diseases of the respiratory system (e.g., pneumonia) and digestive disorders (Galv~ao, 2003). Von Martius recorded the use of plants for all these disorders. However, few of these plants have been evaluated to date, and their potential remains to be explored.
+
+refreshing and stimulating drink. The stimulant effect of this drink is due to its high caffeine content. This scarce product obtained from American plants has gained an international market and is now known worldwide (Desmachelier, 2010). The Maue´ s Indians were the ﬁrst inhabitants of the Amazon to develop the preparation of guarana´ , and von Martius was respon- sible for the ﬁrst detailed description of this preparation. This description appears in his travel diaries (Spix and Martius, 1823– 1831).
+
+This study shows that many of the medicinal plants described by von Martius from the Amazon have not been studied in greater detail until recently or have not been studied at all. Unlike other areas of Brazil (e.g., the Atlantic Forest and Cerrado), where the native vegetation has been severely degraded, the Amazon region still preserves its biodiversity. The collections, bibliographic and botanical samples collected by von Martius in the Amazon repre- sent highly valuable and critical materials for the development and conservation of the Amazon region. We also hope that this work will provide an additional incentive for the valuation of the traditional knowledge of the people of the Amazon region and will be useful in the protection of collective intellectual property rights.
+
+Acknowledgements
+
+In contrast to the observations of other European naturalists, only two species (Tachia guianensis and Abuta rufescens) were recorded by von Martius as useful for treating intermittent fevers, the principal symptom of malaria. Both of these species have shown antimalarial activity in in vitro studies (Ruiz et al., 2011; Carvalho et al., 1991). Malaria is currently widespread in the Amazon and is one of the most serious public health problems in that region. The reason for the small number of plants used to treat this disease in the 19th century is that this disease was widespread in other areas of Brazil at that time but not in the Amazon region. The history of malaria is directly related to demographic, ecological, socio-economic and cultural changes in the region beginning in the ﬁrst half of the 20th century. The earliest evidence for malaria in the Brazilian Amazon was pre- sented by the Brazilian naturalist Alexandre Rodrigues Ferreira in his work ‘‘Endemic Diseases of the Captaincy of Mato Grosso’’, published in the 18th century. In this work, he describes inter- mittent fevers, ague and related ailments and recommends quina (Cinchona species) as the best febrifuge (Ferreira Jr. et al., in press).
+
+The authors thank CNPq, FAPEMIG, PRPq-UFMG and FAPESP for ﬁnancial support and TGLB Chaves for reviewing and helping to translate the von Martius books.
+
+References
+
+Abreu, P., Matthew, S., Gonza´ lez, T., Costa, D., Segundo, M.A., Fernandes, E., 2006. Anti-inﬂammatory and antioxidant activity of a medicinal tincture from Pedilanthus tithymaloides. Life Sciences 87 (14), 1578–1585.
+
+Betancur-Galvis, L.A., Morales, G.E., Forero, J.E., Roldan, J., 2002. Cytotoxic and antiviral of Colombian medicinal plant extracts of the Euphorbia genus. Memo´ rias do Instituto Oswaldo Cruz 97 (4), 541–546.
+
+Bonjardim, L.R., Silva, A.M., Oliveira, M.G., Guimar~aes, A.G., Antoniolli, A.R., Santana, M.F., Seraﬁni, M.R., Santos, R.C., Arau´ jo, A.A., Estevam, C.S., Santos, M.R., Lyra, A., Carvalho, R., Quintans-Ju´ nior, L.J., Azevedo, E.G., Botelho, M.A., 2011. Sida cordifolia leaf extract reduces the orofacial nociceptive response in mice. Phytotherapy Research 25 (8), 1236–1241.
+
+Bourdy, G., DeWalt, S.J., Chaves de Mchel, L.R., Roca, A., Deharo, E., Munoz, V., Balderrama, L., Quenevo, C., Gimene, A., 2000. Medicinal plants used of the Tacana, Amazonian Bolivian etnic group. Journal of Ethnopharmacology 70, 87–109.
+
+Brand~ao, M.G.L., Zanetti, N.N.S., Oliveira, P., Grael, C.F., Santos, A.C., Monte-Mo´ r, R.L.M., 2008. Brazilian medicinal plants described by 19th century European Naturalists and in Ofﬁcial Pharmacopeia. Journal of Ethnopharmacology 120, 141–148.
+
+In the 19th century, the principal source of income in the Amazon region was the extraction of native products known as ‘‘hinterland plants’’ (‘‘drogas do sert~ao’’), such as cacao (Theobroma cacao), salsaparrilha (Smilax spp.), annatto (Bixa orellana L.), canela (Cinnamomum spp.), copaiba balsam, vanilla and guarana´ (Emperaire, 2000). Von Martius furnished detailed descriptions of the use of two species of salsaparrilha and two species of copaı´ba balsam by the Brazilians. Salsaparrilha is the vernacular name for different species of Smilax, but von Martius only recorded the use of Smilax longifolia Rich. and Smilax syphilitica Humb. & Bonpl. ex Willd. The roots of these plants are rich in saponins and had great commercial value at the time due to their use as diuretics and for the treatment of venereal diseases. Paul Marcoy was a French botanist who travelled in the 19th century in the same areas of Amazonas von Martius. In his book, ﬁrst published in 1860, he mentioned that many typical Amazon products were already scarce due to excessive collection and that Smilax roots were one of the products showing increasing scarcity (Marcoy, 2006). The seeds of Paullinia cupana (guarana´ ) are used for preparing a
+
+Brand~ao, M.G.L., Grael, C.F.F., Fagg, C.W., 2011. European naturalists and medicinal plants of Brazil. In: Grillo, O., Venora, G. (Eds.), Biological Diversity and Sustainable Resources Use. Intech, Croatia, pp. 101–102.
+
+Brand~ao, M.G.L., Pignal, M., Romaniuc, S., Grael, C.F.F., Fagg, C.W., 2012. Useful Brazilian plants listed in the ﬁeld books of the French naturalist Auguste de Saint-Hilaire (1779–1853). Journal of Ethnopharmacology 143, 488–500. Bussmann, R.W., Malca-Garcı´a, G., Glenn, A., Sharon, D., Chait, G., Dı´az, D., Pourmand, K., Jonat, B., Somogy, S., Guardado, G., Aguirre, C., Chan, R., Meyer, K., Kuhlman, A., Townesmith, A., Efﬁo-Carbajal, J., Frı´as-Fernandez, F., Benito, M., 2010. Minimum inhibitory concentrations of medicinal plants used in Northern Peru as antibacterial remedies. Journal of Ethnopharmacology 132 (1), 101–108.
+
+Campos, J.B., Barros, A.I., Albuquerque, F.A., M. Leal, L.K., Rao, V.S., 2005. Acute effetcs of guarana (Paullinia cupana Mart.) on mouse behaviour in forced swimming and open ﬁeld tests. Phytotherapy Research 19 (5), 441–443. Campos, A.R., Barros, A.I., Santos, F.A., Rao, V.S., 2003. Guarana´ (Paullinia cupana Mart.) offers protection against gastric lesions induced by ethanol and indomethacin in rats. Phytotherapy Research 17 (10), 1199–1202.
+
+Carvalho, C.O., Chagas, A.C., Cotinguiba, F., Furlan, M., Brito, L.G., Chaves, F.C., Stephan, M.P., Bizzo, H.R., Amarante, A.F., 2012. The anthelmintic effect of plant extracts on Haemonchus contortus and Strongyloides venezuelensis. Veterinary Parasitology 183 (3–4), 260–268.
+
+Carvalho, L.H., Brand~ao, M.G., Santos-Filho, D., Lopes, J.L., Krettli, A.U., 1991. Antimalarial activity of crude extracts from Brazilian plants studied in vivo in Plasmodium berghei-infected mice and in vitro against Plasmodium
+
+U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189
+
+falciparum in culture. Brazilian Journal of Medical and Biological Research 24 (11), 1113–1123.
+
+Cecı´lio, A.B., Faria, D.B., Oliveira, P.C., Caldas, S., Oliveira, D.A., Sobral, M.E., Duarte, M.G., Moreira, C.P., Silva, C.G., Almeida, V.L., 2000. Screening of Brazilian medicinal plants for antiviral activity against rotavirus. Journal of Ethnophar- macology 141 (3), 975–981.
+
+Dash, G.K., Murthy, P.N., 2011. Studies on wound healing activity of Heliotropium indicum Linn. leaves on rats. ISRN Pharmacology 2011, 847980, http://dx.doi.org/ 10.5402/2011/847980.
+
+Penido, C., Conte, F.P., Chagas, M.S., Rodrigues, C.A., Pereira, J.F., Henriques, M.G., 2006. Antiinﬂammatory effects of natural tetranortriterpenoids isolated from Carapa guianensis Aublet on zymosan-induced arthritis in mice. Inﬂammation Research 55 (11), 457–464.
+
+Pettit, G.R., Zhang, Q., Pinilla, V., Herald, D.L., Doubek, D.L., Duke, J.A., 2004. Isolation and structure of gustastatin from the Brazilian nut tree Gustavia hexapetala. Journal of Natural Products 67 (6), 983–985.
+
+Pisonis, G., 1648. Historiae naturalis et medicae Indiae Occidentalis, 2nd ed.
+
+Ludovicus et Daniel Elzevier, Amsterdam, p. 332.
+
+Desmachelier, C., 2010. Neotropics and natural ingredients for pharmaceuticals: why isn’t South American Biodiversity on the crest of the wave? Phytotherapy Research 24, 791–799.
+
+Pongprayoon, U., Baeckstr ¨om, P., Jacobsson, U., Lindstr ¨om, M., Bohlin, L., 1992. isolated from
+
+Antispasmodeic activity of beta-damacenone and E-phytol Ipomoea pes-caprae. Planta Medica 58 (1), 19–21.
+
+Emperaire, L. A ﬂoresta em jogo. O extrativismo na Amazˆonia Central [The forest in check. The extraction in Central Amazonia]. Editora UNESP: S ~ao Paulo. 2000. 233pp.
+
+Portillo, A., Vila, R., Freixa, B., Adzet, T., Can˜ igueral, S., 2001. Antifungal activity of Paraguayan plants used in traditional medicine. Journal of Ethnopharmacology 76 (1), 93–98.
+
+Fernandez, O., Capdevilla, J.Z., Dalla, G., Melchor, G., 2002. Efﬁcacy of Rhizophora mangle aqueous bark extract in the healing of open surgical wound. Fitoterapia 73 (7–8), 564–568.
+
+Ferreira Jr., W.S., Cruz, M.P., dos Santos, L.L., Medeiros, M.F.T. Use and importnace of quina (Cinchona spp.) and ipeca (Carapichea ipecacuanha (Brot.) L.Anders- son): plants for medicinal use from the 16th century to the present. Journal of Herbal Medicine, in press. http://dx.doi.org/10.1016/j.hermed.2012.07.003. Galv~ao, M.D., 2003. Histo´ ria da Medicina em Manaus [History of Medicine in
+
+Rangel, T.F., 2012. Amazonian extinction debts. Science 337 (6091), 162–163. Rezende, K.R., Davino, S.C., Barros, S.B., Kato, M.J., 2005. Antioxidant activity of aryltetralone lignans and derivatives from Virola sebifera (Aubl.). Natural Products Research 19 (7), 661–666.
+
+Riederer, M., 2007. Carl Friedrich Philipp von Martius. Ein bayrischer Tropen- forscher des 19. Jahrhunderts. Eine Vortrags- und Sendereihe der Bayrischen Akademie der Wissenschaften, der Landeshauptstadt M ¨unchen und des Bayrischen Rundfunks. 12. November 2007, TU M ¨unchen.
+
+Manaus]. Editora Valter, Manaus 296 pp.
+
+Grassi, P., Urı´as Reyes, T.S., Sosa, S., Tubaro, A., Hofer, O., Zitterl-Eglseer, K., 2006. Anti-inﬂammatory activity of two diterpenes of Hyptis suaveolens from El Salvador. Zeitschrift f ¨ur Naturforschung C 61 (3–4), 165–170.
+
+Rocha Martins, L.R., Brenzan, M.A., Nakamura, C.V., Dias Filho, B.P., Nakamura, T.U., Ranieri Cortez, L.E., Garcia Cortez, D.A., 2011. In vitro antiviral activity from Acanthospermum australe on herspesvirus and poliovirus. Journal of Pharma- ceutical Biology 49 (1), 26–31.
+
+Gupta, M., Mazumder, U.K., Chaudhuri, I., Chaudhuri, R.K., Bose, P., Bhattacharya, S., Manikandan, L., Patra, S., 2002. Antimicrobial activity of Eupatorium ayapana. Fitoterapia 73 (2), 168–170.
+
+Roncon, C.M., Biesdorf de Almeida, C., Klein, T., de Mello, J.C., Audi, E.A., 2011. Anxiolytic effects of a semipuriﬁed constituent of guarana´ seeds on rats in the elevated T-maze test. Planta Medica 77 (3), 236–241.
+
+Herndon, C.H., Uiterloo, M., Uremaru, A., Plotkin, M.J., Emanuel-Smith, G., Jitan, J., 2009. Disease concepts and treatment by tribal healers of an Amazonian forest culture. Journal of Ethnobiology and Ethnomedicine 5, 27.
+
+Ruiz, L., Maco, M., Cobos, M., Gutierrez-Choquevilca, A.L., Roumy, V., 2011. Plants used by native Amazonian groups from the Nanay River (Peru) for the treatment of malaria. Journal of Ethnopharmacology 133 (2), 917–921.
+
+Hopkins, M.J.G., 2007. Modelling the known and unknown plant biodiversity of the
+
+Amazon Basin. Journal of Biogeography 34, 1400–1411.
+
+Isaias, D.E., Niero, R., Noldin, V.F., de Campos-Buzzi, F., Yunes, R.A., Delle-Monache, F., Cechinel-Filho, V., 2004. Pharmacological and phytochemical investigations of different parts of Calophyllum brasiliense (Clusiaceae). Pharmazie 59 (11), 879–881. Jimoh, F.O., Soﬁdiya, M.O., Afolayan, A.J., 2007. Antioxidant properties of the methanol Extracts from the leaves of Paullinia pinnata. Journal of Medicinal Food 10 (4), 707–711.
+
+Luziatelli, G., SØrensen, M., Theilade, I., MØlgaard, P., 2010. Asha´ ninka medicinal plants: a case study from the native community of Bajo Quimiriki, Junin, Peru. Journal of Ethnobiology and Ethnomedicine 6, 21.
+
+Marcoy, P., 2006. [1869] Viagem pelo Rio Amazonas [Voyage (cid:2)a travers l’Amerique du Sud, de l’Ocean Paciﬁque a l’Ocean Atlantique]. Editora da Universidade Federal do Amazonas, Manaus 301 pp.
+
+Santos, A.O., Ueda-Nakamura, T., Dias Filho, B.P., Veiga Junior, V.F., Pinto, A.C., Nakamura, C.V., 2008. Antimicrobial activity of Brazilian copaiba oils obtained from different species of the Copaifera genus. Memo´ rias do Instituto Oswaldo Cruz 103 (3), 277–281.
+
+Schulman, L., Toivonen, T., Ruokolainen, K., 2007. Analysing botanical collecting effort in Amazonia and correcting for it in species range estimation. Journal of Biogeography 34, 1388–1399.
+
+Schmelz, B., 2000. Carl Friedrick Philipp von Martius (1794–1868), Vater der brasilianierschen V ¨olkerunde. Eine biograﬁsche Einf ¨uhrung. Working Papers, No. 2. Selbstverlag. Hamburg.
+
+Souza, G.S., 1938. Tratado Descritivo do Brasil em 1587, 3rd ed. Companhia Editora
+
+Nacional, S~ao Paulo, Rio de Janeiro, Recife, Porto Alegre, p. 493.
+
+Souza, M.M., Madeira, A., Berti, C., Krogh, R., Yunes, R.A., Cechinel-Filho, V., 2000. Antinociceptive properties of the methanolic extract obtained from Ipomoea pes-caprae (L.) R. Br. Journal of Ethnopharmacology 69 (1), 85–90.
+
+Marie-Magdeleine, C., Udino, L., Philibert, L., Bocage, B., Archimede, H., 2010. In vitro effects of Cassava (Manihot esculenta) leaf extracts on four development stages of Haemonchus contortus. Veterinary Parasitology 173 (1–2), 85–92.
+
+Marrero, E., Sa´ nchez,
+
+J., de Armas, E., Escobar, A., Melchor, G., Abad, M.J., Bermejo, P., Villar, A.M., Megı´as, J., Alcaraz, M.J., 2006. COX-2 and sPLA2 inhibitory activity of aqueous extract and polyphenols of Rhizophora mangle (red mangrove). Fitoterapia 77 (4), 313–315.
+
+Martius, C.F.P., 1843. Systema Materiae Medicae Vegetabilis Brasiliensis. Lipsiae. Martius, C.F.P., 1844. Natureza, Doenc-as, Medicina e Reme´ dios dos Indios Brasi-
+
+leiros. Serie 5a, Brasiliana, vol. 154.
+
+Melo, C.M., Morais, T.C., Tome´ , A.R., Brito, G.A., Chaves, M.H., Rao, V.S., Santos, F.A., 2011. Anti-inﬂammatory effect of a,b-amyrin, a triterpene from Protium heptaphyllum, on cerulein-induced acute pancreatitis in mice. Inﬂammation Research 60 (7), 673–681.
+
+Melo e Silva, F., de Paula, J.E., Espindola, L.S., 2009. Evaluation of the antifungal
+
+potential of Brazilian Cerrado medicinal plants. Mycoses 52, 511–517.
+
+Mongelli, E., Desmarchelier, C., Coussio, J., Ciccia, G., 1995. Actividad antimicrobi- ana e interaccio´ n con el ADN de plantas medicinales de la Amazonia Peruana. Revista Argentina de Microbiologia 27, 199–203.
+
+Nakama, S., Ishikawa, C., Nakachi, S., Mori, N., 2011. Anti-adult T-cell leukemia effects of Bidens ilosa. International Journal of Oncology 38 (4), 1163–1173. Nakama, S., Tamaki, K., Ishikawa, C., Tadano, M., Mori, N., 2012. Efﬁcacy of Bidens pilosa extract against Herpes simplex virus infection in vitro and in vivo. Evidence-Based Complementary and Alternative Medicine (Epub).
+
+Nayak, B.S., Kanhai, J., Milne, D.M., Swanston, W.H., Mayers, S., Eversley, M., Rao, A.V., 2010. Investigation of the wound healing activity of Carapa guianensis L. (Meliaceae) bark extract in rats using excision, incision, and dead space wound models. Journal of Medicinal Food 13 (5), 1141–1146.
+
+Nethaji, S., Manokaran, C., 2009. Phytochemical analysis and antimicrobial activity of Heliotropium indicum L and Coldenia procumbens L. Journal of Pure and Applied Microbiology 3 (1), 195–198.
+
+Spix, J.B. Viagem pelo Brasil (Travel in Brazil) 1817–1820/ Spix e Martius–Belo Horizonte: Ed. Itatiaia; S~ao Paulo: Ed. da Universidade de S~ao Paulo, 198l, vol. III. Swathy, S.S., Panicker, S., Nithya, R.S., Anuja, M.M., Rejitha, S., Indira, M., 2010. Antiperoxidative and antiinﬂammatory effect of Sida cordifolia Linn. on quinolinic acid induced neurotoxicity. Neurochemical Research 35 (9), 1361–1367.
+
+Tiefenbacher, L., 1994. Die Brasilianische Reise 1817–1820. Carl Philipp von Martius zum 200, Geburtstag. Hrsg. J ¨org Helbig, Hirmer Verlag M ¨unchen. Tobinaga, S., Sharma, M.K., Aalbersberg, W.G., Watanabe, K., Iguchi, K., Narui, K., Sasatsu, M., Waki, S., 2009. Isolation and identiﬁcation of a potent antimalarial and antibacterial polyacetylene from Bidens pilosa. Planta Medica 75 (6), 624–628. Tripathi, P., Kumar, R., Sharma, A.K., Mishra, A., Gupta, R., 2010. Pistia stratiotes
+
+(Jalkumbhi). Pharmacognosy Reviews 4 (8), 153–160.
+
+Uchiyama, T., Tabata, K., Nomura, S., Kaneko, Y., Fujimoto, Y., Suzuki, T., 2009. Induction of apoptosis in human leukemia cell (Jurkat) by neolignans isolated from seeds of Licaria puchury-major. Biological Pharmaceutical Bulletin 32 (10), 1749–1753.
+
+Ueda, S., Iwahashi, Y., Tokuda, H., 1991. Production of anti-tumor-promoting iridoid glucosides in Genipa americana and its cell cultures. Journal of Natural Products 54 (6), 1677–1680.
+
+Valadeau, C., Pabon, A., Deharo, E., Alba´ n-Castillo, J., Estevez, Y., Lores, F.A., Rojas, R., Gamboa, D., Sauvain, M., Castillo, D., Bourdy, G., 2009. Medicinal plants from the Yanesha (Peru): evaluation of the leishmanicidal and antimalarial activity of selected extracts. Journal of Ethnopharmacology 123 (3), 413–422. Wasuwat, S., 1970. Extract of Ipomoea pes-caprae (Convolvulaceae) antagonistic to
+
+histamine and jelly-ﬁsh poison. Nature 225 (5234), 758–759.
+
+Wuschek, E., 1989. Die Beitr ¨age des Botanikers Carl Friedrich Philipp von Martius (1794–1868) zur Pharmakognosie und zur Erforschung tropischer Nutzpﬂan- zen, mit einer Bearbeitung seiner Systema Metriae Vegetabilis Brasiliensis von 1834. Dissertation der Fakult ¨at f ¨ur Chemie und Pharmazie der Ludwig- Maximilian—Universit ¨at M ¨unchen.
+
+Okoli, C.O., Obidike, I.C., Ezike, A.C., Akah, P.A., Salawu, O.A., 2011. Studies on the possible mechanisms of antidiabetic activity of extract of aerial parts of Phyllanthus niruri. Pharmaceutical Biology 49 (3), 248–255.
+
+Yadav, J.P., Arya, V., Yadav, S., Panghal, M., Kumar, S., Dhankhar, S., 2010. Cassia occidentalis L.: a review on its ethnobotany, phytochemical and pharmacolo- gical proﬁle. Fitoterapia 81 (4), 223–230.
+
+Parra-Delgado, H., Ruiz, G.G., Camacho, A.N., Martinez-Vasquez, M., 2004. Anti- inﬂammatory activity of some extracts and isolated from Leonotis nepetaefolia on TPA-induced edema model. Revista de la Sociedade Quimica Mexicana 48, 293–295.
+
+Yasunaka, K., Abe, F., Nagayama, A., Okabe, H., Lozada-Pe´ rez, L., Lo´ pez-Villafranco, E., Mun˜ iz, E.E., Aguilar, A., Reyes-Chilpa, R., 2005. Antibacterial activity of crude extracts from Mexican medicinal plants and puriﬁed coumarins and xanthones. Journal of Ethnopharmacology 97 (2), 293–299.
+
+189
