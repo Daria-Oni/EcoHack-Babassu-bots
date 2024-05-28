@@ -42,7 +42,8 @@ def extract_information(text):
 
     data = {
         "model": "openchat/openchat-7b:free",
-        "messages": [{"role": "user", "content": prompt}]
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.4
     }
 
     # Print the prompt to see what is being sent to the API
