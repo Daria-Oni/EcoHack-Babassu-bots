@@ -1,0 +1,873 @@
+{
+  "data": [    
+    {
+      "family": "Apocynaceae",
+      "botanical_name": "Couma utilis (Mart.) Mull.Arg. (Collophora utilis Mart.)",
+      "vernacular_names": "Sorveira",
+      "part": "Latex",
+      "occurrence": "Rio Negro, near Barra",
+      "traditional_use": "Antihelminthic with ricinus oil",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Apocynaceae",
+      "botanical_name": "Himatanthus phagedaenicus (Mart.) Woodson (Plumeria phagedaenica Mart.)",
+      "vernacular_names": "Sebuí-iva, Sucu-íba",
+      "part": "Latex",
+      "occurrence": "Rio Negro",
+      "traditional_use": "Externally: infected ulcers; internally: against worms, psoriasis and warts",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Apocynaceae",
+      "botanical_name": "Odontadenia macrantha (Roem. & Schult.) Markgr. (Echites grandiflorus G. Mey.)",
+      "vernacular_names": "Sipó cururu",
+      "part": "Wood",
+      "occurrence": "Amazonas, Guyana",
+      "traditional_use": "Infusion in water to treat dyspepsia and other digestive disorders, diaphoretic, purgative",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Apocynaceae",
+      "botanical_name": "Odontadenia puncticulosa (Rich.) Pulle (Echites cururu Mart.)",
+      "vernacular_names": "Cipó-cururu",
+      "part": "Wood after flowering",
+      "occurrence": "Near Panuré; near Rio Urupés",
+      "traditional_use": "Infusion is used as drastic, to treat dyspepsia and digestive disorders; to treat gastric fever Diaphoretic and purgative",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Araceae",
+      "botanical_name": "Caladium bicolour (Aiton) Vent.",
+      "vernacular_names": "Pé de bezerro, Papagaio, Tagurá, Tinhorão, Tanhorão",
+      "part": "Juice",
+      "occurrence": "Pará, Amazonas",
+      "traditional_use": "Cathartic, antihelminthic, against ascarids",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Araceae",
+      "botanical_name": "Dracontium polyphyllum L.",
+      "vernacular_names": "Jiraraca, Herva de Santa Maria",
+      "part": "Tubers",
+      "occurrence": "Brasilia amazonica",
+      "traditional_use": "Externally: wounds; Internally: asthma, chlorosis, amenorrhoea, viper bites",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Araceae",
+      "botanical_name": "Montrichardia arborescens (L.) Schott (Philodendron arborescens (L.) Kunth, Arum arborescens L.)",
+      "vernacular_names": "Aninga, Aninga-uva",
+      "part": "Leaves, thallus, roots",
+      "occurrence": "Amazonas near Japurá, Pará",
+      "traditional_use": "Healing wounds and ulcers, with fresh juice. Decoction of fresh leaves or dried roots as bath to treat rheumatic pain, testicular and articulation tumours; hydrothorax",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Araceae",
+      "botanical_name": "Pistia stratiotes L. (Pistia occidentalis Blume)",
+      "vernacular_names": "Flor d'água Lentilha d'água",
+      "part": "n.d.",
+      "occurrence": "Amazonas, Ega, Rio Solimões, Pará",
+      "traditional_use": "Mucilaginous herb, used to clean wounds, infusion internally to treat blood in urine, diabetes, tumours from erysipelas, herpes and hemoptysis; old wounds can be healed by application of fresh flowers",
+      "correlated_studies": "Antidiabetic, antidermatophytic, antifungal, antimicrobial, diuretic (Tripathi et al., 2010)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Asteraceae",
+      "botanical_name": "Ayapana triplinervis (Vahl) R.M. King & H. Rob. (Eupatorium ayapana Vent.)",
+      "vernacular_names": "Ayapana",
+      "part": "Herb",
+      "occurrence": "Amazonas, near Sao João do Principe (Rio Negro)",
+      "traditional_use": "Squeezed herb juice or infusion (internally) and pressed herb (externally) against snake bites and as alexipharmacon",
+      "correlated_studies": "Antimicrobial (Gupta et al., 2002)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Asteraceae",
+      "botanical_name": "Acanthospermum australe (Loefl.) Kuntze (Acanthospermum xanthioides DC.)",
+      "vernacular_names": "Poejo-da-praia",
+      "part": "Herb",
+      "occurrence": "Amazonas near Manaus, Pará",
+      "traditional_use": "Diuretic, diaphoretic; infusion against diarrhoea (originating from colds)",
+      "correlated_studies": "Antiviral (Rocha Martins et al., 2011); antifungal (Portillo et al., 2001)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Asteraceae",
+      "botanical_name": "Bidens pilosa L. (Bidens leucantha (L.) Willd.)",
+      "vernacular_names": "n.d.",
+      "part": "Herb, branches",
+      "occurrence": "Near Pará",
+      "traditional_use": "Mucilaginous herb used together with indigo, Senna uniflora (Mill.) H.S. Irwin & Barneby (Cassia sericea Sw.), to treat skin ulcers and lymphoedema. Roots are more mucilaginous than the stems",
+      "correlated_studies": "Antiviral (Nakama et al., 2012); antitumour (Nakama et al., 2011); antibacterial (Tobinaga et al., 2009)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Asteraceae",
+      "botanical_name": "Eclipta paludicola Steud. (Eclipta prostrata (L.) L., Eclipta erecta L.)",
+      "vernacular_names": "Tangaraca",
+      "part": "Herb",
+      "occurrence": "Amazonas, Pará",
+      "traditional_use": "Decoction is used to treat diarrhoea",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Asteraceae",
+      "botanical_name": "Elephantopus mollis Kunth (Elephantopus. martii Graham)",
+      "vernacular_names": "Sucuaya",
+      "part": "Roots",
+      "occurrence": "Amazonas",
+      "traditional_use": "Decoction is used in asthenic fevers",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Bignoniaceae",
+      "botanical_name": "Cybistax antisyphilitica (Mart.) Mart.",
+      "vernacular_names": "Caroba de flor verde",
+      "part": "Young branches; roots, leaves",
+      "occurrence": "Amazonas, near Manaus",
+      "traditional_use": "Antisyphilitic, decoction and infusion to treat dysuria, hydrops, water retention; poultice and lotions against syphilitic ulcers",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Bignoniaceae",
+      "botanical_name": "Jacaranda copaia (Aubl.) D.Don (Jacaranda procera (Willd.) Spreng.)",
+      "vernacular_names": "Caroba",
+      "part": "Leaves",
+      "occurrence": "Rio Japurá",
+      "traditional_use": "Used against venereal diseases, mainly inflammations of inguinal lymph, in baths of infusion or decoction for impingement. High doses of decoction cause vomiting and diarrhoea",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Boraginaceae",
+      "botanical_name": "Heliotropium indicum L. (Tiaridium indicum (L.) Lehm.)",
+      "vernacular_names": "Aguara ciunha-açu Jacua-acanga",
+      "part": "n.d.",
+      "occurrence": "Near Óbitos, Pará",
+      "traditional_use": "Desobstruents, to clean wounds and ulcers, against cutaneous affection; used on anal inflammations",
+      "correlated_studies": "Wound healing (Dash and Murthy, 2011); antibacterial (Nethaji and Manokaran, 2009)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Burseraceae",
+      "botanical_name": "Protium heptaphyllum (Aubl.) Marchand (Icica heptaphylla Aubl.)",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Amazonas, near Manaus",
+      "traditional_use": "Tree with dried balsam similar to elemi and animes",
+      "correlated_studies": "Antiinflammatory (Melo et al., 2011)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Calophyllaceae",
+      "botanical_name": "Calophyllum brasiliense Cambess.",
+      "vernacular_names": "Lantim, Landy, Jacaré-uva",
+      "part": "Bark, balsam",
+      "occurrence": "Amazonas, near Manaus, Barcellos",
+      "traditional_use": "Decoction is used to relax sinews",
+      "correlated_studies": "Antinociceptive (Isaias et al., 2004)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Calophyllaceae",
+      "botanical_name": "Mammea americana L.",
+      "vernacular_names": "Abrico",
+      "part": "Seeds, inner root",
+      "occurrence": "Pará",
+      "traditional_use": "Seeds are anthelminthic. The inner bark has a balsam that is used to treat wounds from biting insects, mainly Culex penetrans, and malignant ulcers",
+      "correlated_studies": "Antibacterial (Yasunaka et al., 2005)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Cannaceae",
+      "botanical_name": "Canna glauca L.",
+      "vernacular_names": "Albara, herva dos feridos",
+      "part": "Roots, fresh herb, half-ripe fruit",
+      "occurrence": "Pará",
+      "traditional_use": "Increases diuresis, diaphoresis, wound healing; Rheumatic pain, limb torpor, ulcers, earache",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Caricaceae",
+      "botanical_name": "Jacaratia digitata (Poepp. & Endl.) Solms (Carica digitata Poepp.& Endl.)",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Amazonas",
+      "traditional_use": "Poultice to treat wound and ulcer healing",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Caricaceae",
+      "botanical_name": "Jacaratia spinosa (Aubl.) A.DC (Carica dodecaphylla Vell.)",
+      "vernacular_names": "Jacaratia",
+      "part": "n.d.",
+      "occurrence": "Guyana, near Acarouany",
+      "traditional_use": "Poultice to treat wound and ulcer healing",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Clusiaceae",
+      "botanical_name": "Moronobea coccinea Aubl.",
+      "vernacular_names": "Oanani",
+      "part": "n.d.",
+      "occurrence": "Pará, Rio Negro",
+      "traditional_use": "The tree has a gum-resin used to treat wound",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Convolvulaceae",
+      "botanical_name": "Ipomoea pes-caprae (L.) R.Br. (Convolvulus brasiliensis L., Convolvulus maritimus Desr.)",
+      "vernacular_names": "Salsa da praia",
+      "part": "Leaves, roots, thallus",
+      "occurrence": "Pará",
+      "traditional_use": "Mucilaginous leaves (acres) are used to treat, the effects of colds and chronic gonorrhoea, externally or by mouth. Roots are drastic, thallus and leaves are emollients",
+      "correlated_studies": "Antinociceptive (de Souza et al., 2000), antispasmodic (Pongprayoon et al., 1992), Antagonistic to histamine (Wasuwat 1970)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Costaceae",
+      "botanical_name": "Costus cylindricus Jacq.; Costus scaber Ruiz &Pav. (Costus anachiri Jacq.)",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Pará, Rio Negro",
+      "traditional_use": "Mucilaginous juice, refreshing, febrifuge, nephritic pain and gonorrhoea",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Cucurbitaceae",
+      "botanical_name": "Luffa sepium (G. Mey.) C. Jeffrey (Luffa purgans (Mart.) Mart.)",
+      "vernacular_names": "Buchinha",
+      "part": "Fruit",
+      "occurrence": "Amazonas",
+      "traditional_use": "'Coloquintidas', hydropisia and chronic ophthalmia, emetic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Cucurbitaceae",
+      "botanical_name": "Luffa operculata (L.) Cogn. (Momordica operculata L.)",
+      "vernacular_names": "Bucha de Paulista, Purga de João Paes",
+      "part": "Fruit",
+      "occurrence": "Amazonas",
+      "traditional_use": "Against amenorrhoea, anasarcha, chlorose, herpetic diseases, emetic, diuretic; hydrops and chronic ophthalmia",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Cucurbitaceae",
+      "botanical_name": "Melothria pendula L. (Melothria fluminensis Gardner)",
+      "vernacular_names": "Cereja de purga",
+      "part": "Fruit",
+      "occurrence": "Pará, Santarem, near S. Gabriel",
+      "traditional_use": "Purgative",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Dilleniaceae",
+      "botanical_name": "Davilla kunthii A.St.-Hil. (Hieronia scabra Vell.)",
+      "vernacular_names": "None",
+      "part": "Leaves",
+      "occurrence": "Amazonas, Santarem (Pará)",
+      "traditional_use": "Against testicular swelling from venereal abuse or effects of horseback riding effects and fumigations",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Euphorbia cotinifolia L. (Euphorbia cotinoides Miq.)",
+      "vernacular_names": "n.d.",
+      "part": "Milk, juice",
+      "occurrence": "Amazonas, Rio Negro",
+      "traditional_use": "Treatment of warts and condyloma with poultices",
+      "correlated_studies": "Antiviral (Betancur-Galvis et al., 2002)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Hevea guianensis Aubl. (Siphonia elastica Pers.)",
+      "vernacular_names": "Pao seringa, seringueira, Xeringueira",
+      "part": "Milk",
+      "occurrence": "Pará, Rio Negro",
+      "traditional_use": "Latex with Ricinus L. oil against worms",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Hura crepitans L. (Hura brasiliensis Willd.)",
+      "vernacular_names": "Oassacu, Assacu",
+      "part": "Milk",
+      "occurrence": "Pará, Rio Negro, S. Joao, S. Anna, Santarem",
+      "traditional_use": "Latex is anthelmintic",
+      "correlated_studies": "Leishmanicidal (García et al., 2012), antibacterial (Bussmann et al., 2010)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Euphorbiaceae",
+      "botanical_name": "Jatropha curcas L.",
+      "vernacular_names": "Pinheiro de purga, Pinhão paraguay, Mandubiguaçu, Munduy-guaçu",
+      "part": "Seeds",
+      "occurrence": "Pará, near Santarem, Amazon near Ega",
+      "traditional_use": "Seeds are emetic and cathartic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Mabea fistulifera Mart.",
+      "vernacular_names": "Canudo de pita",
+      "part": "Bark",
+      "occurrence": "Near Santarém",
+      "traditional_use": "Bitter bark, astringent, resolvent, febrifuge",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Manihot esculenta Crantz (Manihot utilissima Pohl)",
+      "vernacular_names": "Mandioca, Mandiba",
+      "part": "n.d.",
+      "occurrence": "Pará, Amazonas",
+      "traditional_use": "Lymphatic system, fresh leaves are antidote for poisoning from roots. Emetic.",
+      "correlated_studies": "Antihelmintic (Marie-Magdeleine et al., 2010)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Euphorbia tithymaloides L. (Pedilanthus tithymaloides (L.) Poit.)",
+      "vernacular_names": "n.d.",
+      "part": "Herb and root",
+      "occurrence": "Rio Negro",
+      "traditional_use": "Latex is used against warts, gonorrhoea, condyloma and malignant ulcers. Roots are used against syphilis and amenorrhoea",
+      "correlated_studies": "Anti-inflammatory and antioxidant (Abreu et al., 2006)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Euphorbiaceae",
+      "botanical_name": "Sapium glandulosum (L.) Morong (Sapium hippomane G. Mey.)",
+      "vernacular_names": "n.d.",
+      "part": "Latex and leaves",
+      "occurrence": "Amazonas, near Rio Negro, S.G. Cachoeira, Pará",
+      "traditional_use": "Syphilis; elephantiasis; against warts",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Gentianaceae",
+      "botanical_name": "Potalia resinifera Mart.",
+      "vernacular_names": "Anabi",
+      "part": "Leaves",
+      "occurrence": "Amazonas, near Manaus, Pará, Santarem",
+      "traditional_use": "Decoction for ophthalmia, palpebral diseases",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Gentianaceae",
+      "botanical_name": "Tachia guianensis Aubl.",
+      "vernacular_names": "Raiz de jacaré-aru, Caferana",
+      "part": "Root",
+      "occurrence": "Rio Negro, Amazonas, near S. Gabriel",
+      "traditional_use": "Extremely bitter roots, tonic, incisive, intermittent fevers",
+      "correlated_studies": "Antimalarial (Carvalho et al., 1991)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Humiriaceae",
+      "botanical_name": "Humiria balsamifera var. floribunda (Mart.) Cuatrec. (Humirium floribundum Mart.)",
+      "vernacular_names": "Umiri",
+      "part": "Bark",
+      "occurrence": "Pará, Amazonas, near Rio Uaupés",
+      "traditional_use": "Balsam yellow, limpid, similar to copaiba and Peru",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Lamiaceae",
+      "botanical_name": "Leonotis nepetifolia (L.) R.Br.",
+      "vernacular_names": "Cordão de frade",
+      "part": "Herb",
+      "occurrence": "Pará",
+      "traditional_use": "Used as baths against rheumatic affections and dysuria",
+      "correlated_studies": "Anti-inflammatory (Parra-Delgado et al., 2004)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lamiaceae",
+      "botanical_name": "Hyptis mutabilis (Rich.) Briq. (Hyptis spicata Poit.), Hyptis suaveolens (L.) Poit",
+      "vernacular_names": "n.d.",
+      "part": "Herb",
+      "occurrence": "Pará, Santarem",
+      "traditional_use": "Diaphoretic, several catarrhal disease, carminative, wound healing",
+      "correlated_studies": "Anti-inflammatory (Grassi et al., 2006)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lauraceae",
+      "botanical_name": "Licaria puchury-major (Mart.) Kosterm. (Nectandra puchury-major (Mart.) Nees. & C. Martius ex Nees)",
+      "vernacular_names": "Puchury",
+      "part": "Fruits, seeds",
+      "occurrence": "Rio Negro, Amazonas, near Tabatinga",
+      "traditional_use": "Indigestion, diarrhoea, leucorrhoea, dysentery",
+      "correlated_studies": "Antitumour (Uchiyama et al., 2009)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lauraceae",
+      "botanical_name": "Aniba cujumary (Mart.) A.Lyons (Aydendron cujumary (Mart.) Nees)",
+      "vernacular_names": "Cujumary",
+      "part": "Seeds",
+      "occurrence": "Rio Negro",
+      "traditional_use": "Digestive, stomachic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lauraceae",
+      "botanical_name": "Ocotea longifolia Kunth (Oreodaphne opifera (Mart.) Nees)",
+      "vernacular_names": "Canella de cheiro",
+      "part": "Fruit oil",
+      "occurrence": "Rio Negro",
+      "traditional_use": "Arthralgy, rheumatic diseases",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lauraceae",
+      "botanical_name": "Ocotea cymbarum Kunth (Nectandra cymbarum (Kunth) Nees)",
+      "vernacular_names": "Pão sassafráz",
+      "part": "Bark",
+      "occurrence": "Rio Negro, Amazonas",
+      "traditional_use": "Tonic, carminative, stomachic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lauraceae",
+      "botanical_name": "Ocotea odorifera (Vell.) Rohwer (Mespilodaphne pretiosa var. latifolia Nees & Mart.)",
+      "vernacular_names": "Pereiroá, pão ou casca preciosa",
+      "part": "Bark",
+      "occurrence": "Orinoco",
+      "traditional_use": "Used as decoction in baths for diseases of nervous system, memory, oedema of feet, catarrhal disease, hydrops, gout, syphilis and vaginal discharge",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Lecythidaceae",
+      "botanical_name": "Gustavia hexapetala (Aubl.) Sm. (Gustavia brasiliana DC.)",
+      "vernacular_names": "Janiparandiba, Japoarandiba, Jandiparana",
+      "part": "Roots, leaves, fruits",
+      "occurrence": "Near Rio Negro, Gurupá, Pará, Amazonas",
+      "traditional_use": "Infusion of the roots used to treat liver and spleen disorders, mesenteric glands; wound healing; engorgement of the spleen; emetic",
+      "correlated_studies": "Antitumour (Pettit et al., 2004)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Leguminosae",
+      "botanical_name": "Bowdichia virgilioides f. major (Mart.) Yakovlev (Sebipira major Mart.)",
+      "vernacular_names": "Sebípira, Sebupíra, Sicopira, Sucupira",
+      "part": "Bark",
+      "occurrence": "Near Santarem (Pará)",
+      "traditional_use": "Diaphoretic, incisive, corroborant. To treat rheumatic pain, arthritic tumours, weakened by syphilitic virus, hydrops, impingements",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Caesalpinia pulcherrima (L.) Sw (Poinciana pulcherrima L.)",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Near Rio Tocantins, Pará, Santarem, Rio Tapajoz",
+      "traditional_use": "Leaves are cathartic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Copaifera guyanensis Desf.",
+      "vernacular_names": "n.d.",
+      "part": "Resin",
+      "occurrence": "Near Rio Negro, Manaus, Barcellos",
+      "traditional_use": "Gonorrhoea",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Copaifera martii Hayne",
+      "vernacular_names": "n.d.",
+      "part": "Resin",
+      "occurrence": "Pará, near Maraca and Santarem",
+      "traditional_use": "Gonorrhoea",
+      "correlated_studies": "Antimicrobial (Santos et al., 2008)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Cynometra spruceana Benth. var. spruceana (Trachylobium martianum Hayne)",
+      "vernacular_names": "n.d.",
+      "part": "Resin",
+      "occurrence": "Rio Negro",
+      "traditional_use": "To treat weakness of the lungs, tuberculosis, chronic cough",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Dipteryx odorata (Aubl.) Willd.",
+      "vernacular_names": "Cumaru, fava de Tonka",
+      "part": "Seeds",
+      "occurrence": "Pará and Rio Negro",
+      "traditional_use": "Nervine, analeptic (restorative), cardiac, diaphoretic and emmenagogue",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Hymenaea courbaril L.",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Maranhão",
+      "traditional_use": "Used for lung debility, inhalation to treat tuberculosis and chronic cough",
+      "correlated_studies": "Antiviral (Cecílio et al., 2000)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Senna multijuga subsp. lindleyana (Gardner) H.S. Irwin & Barneby (Cassia magnifica Mart.)",
+      "vernacular_names": "None",
+      "part": "Leaves",
+      "occurrence": "Pará, Amazonas",
+      "traditional_use": "Laxative, cathartic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Senna occidentalis (L.) Link (Cassia occidentalis L.)",
+      "vernacular_names": "Pajomarioba",
+      "part": "Herb",
+      "occurrence": "Pará",
+      "traditional_use": "Used as is Senna from Egypt, as laxative and cathartic. Effects are similar but weaker. Some produce colic. Senna uniflora (Mill.) H.S. Irwin & Barneby (Cassia sericera Sw.) is better.",
+      "correlated_studies": "Several activities (see Review from Yadav et al., 2010)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Taralea oppositifolia Aubl. (Dipterix oppositifolia (Aubl.) Willd.)",
+      "vernacular_names": "Coumarourana",
+      "part": "Seeds",
+      "occurrence": "Same region as Dipteryx odorata",
+      "traditional_use": "Similar to Dipteryx odorata (Aubl.) Willd. but weaker",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Leguminosae",
+      "botanical_name": "Cynometra spruceana Benth var. spruceana (Trachylobium martianum Hayne)",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Near Manaus, Pará, near Rio Caipurú, Santarem, Rio Negro, S. Carlos",
+      "traditional_use": "Used for lung debility, inhalation to treat tuberculosis and chronic cough.",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Linderniaceae",
+      "botanical_name": "Lindernia diffusa (L.) Wettst. (Vandellia diffusa L.)",
+      "vernacular_names": "Caa-ataya, Mata canna, Purga de Joao Paez, Orelha de rato",
+      "part": "Herb",
+      "occurrence": "Pará, Santarem, Amazonas",
+      "traditional_use": "Bitter, mucilaginous, purgative, diuretic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Malvaceae",
+      "botanical_name": "Sida cordifolia L. (Sida altheifolia Sw.)",
+      "vernacular_names": "n.d.",
+      "part": "Herb",
+      "occurrence": "Amazonas near Manaus",
+      "traditional_use": "Emollient herb, same use as Malva, infusion to treat throat inflammation",
+      "correlated_studies": "Anti-inflammatory (Swathy et al., 2010; Bonjardim et al., 2011)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Meliaceae",
+      "botanical_name": "Carapa guianensis Aubl.",
+      "vernacular_names": "Andiroba, Angiroba, Nandiroba",
+      "part": "Seed oil, bark, leaves",
+      "occurrence": "Rio Negro, Amazonas",
+      "traditional_use": "Exanthema, especially that originating from bites of insects of the family Simullidae. Decoctions against Ascaris (internally), dermatophytosis",
+      "correlated_studies": "Antihelmintic (Carvalho et al., 2012), wound healing (Nayak et al., 2010), anti-inflammatory (Penido et al., 2006)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Menispermaceae",
+      "botanical_name": "Abuta rufescens Aubl.",
+      "vernacular_names": "Abuta",
+      "part": "Root, bark",
+      "occurrence": "Pará, Japurá",
+      "traditional_use": "Stomach debility, digestive, intermittent fever, obstruction of abdominal viscera",
+      "correlated_studies": "Antimalarial (Ruiz et al., 2011)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Menispermaceae",
+      "botanical_name": "Abuta imene (Mart.) Eichler (Cocculus imene Mart.)",
+      "vernacular_names": "n.d.",
+      "part": "Root",
+      "occurrence": "Amazonas, near S.G. Cachoeira, Manaus, Rio Negro",
+      "traditional_use": "Emetic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Moraceae",
+      "botanical_name": "Ficus adhatodifolia Schott (Ficus anthelmintica Mart.)",
+      "vernacular_names": "Coajinguba",
+      "part": "Juice",
+      "occurrence": "Pará, near Rio Negro",
+      "traditional_use": "Ascaris",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Myristicaceae",
+      "botanical_name": "Virola sebifera Aubl. (Myristica sebifera (Aubl.) Sw.)",
+      "vernacular_names": "Ucuúba",
+      "part": "Aromatic fat, oil of cooked seeds",
+      "occurrence": "Guyana, Pará, near Santarem",
+      "traditional_use": "Colic, dyspepsia; rheumatic pain, arthritic tumours",
+      "correlated_studies": "Antioxidant (Rezende et al., 2005)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Phyllanthaceae",
+      "botanical_name": "Phyllanthus niruri L.",
+      "vernacular_names": "Herva pombinha",
+      "part": "Herb, seeds",
+      "occurrence": "Pará",
+      "traditional_use": "Diabetes mellitus",
+      "correlated_studies": "Antidiabetic (Okoli et al., 2011)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Phyllanthaceae",
+      "botanical_name": "Phyllanthus brasiliensis (Aubl.) Poir. (Phyllanthus conami Sw.)",
+      "vernacular_names": "Conabi, Conavi, Cunabi",
+      "part": "Herb",
+      "occurrence": "Pará, Rio Negro, Amazonas",
+      "traditional_use": "Diuretic",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Phytolacaceae",
+      "botanical_name": "Seguiera alliacea Mart.",
+      "vernacular_names": "Ybirarema, Guararema, Pão ou sipo d’alho, Ubirarema",
+      "part": "Wood, leaves, bark",
+      "occurrence": "Pará, S. Joao and S. Anna",
+      "traditional_use": "Externally: exanthemic illnesses, rheumatism, haemorrhoid pain, and water retention. In combination with Bidens pilosa L. herb, Acmella oleracea (L.) R.K.Jansen, Kalanchoe laciniata (L.) DC. a (Kalanchoe brasiliensis Cambess.) and Kalanchoe gastonis-bonnieri Haym.- Hamet & H. Perrier against prostate tumours",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Phytolacaceae",
+      "botanical_name": "Petiveria alliacea var. tetrandra (Ortega) Hauman (Petiveria tetrandra B.A.Gomes)",
+      "vernacular_names": "Herva de pipi, Raiz de guiné",
+      "part": "Roots, leaves",
+      "occurrence": "Pará",
+      "traditional_use": "Decoction: limb debilitation. Against the weaker members of the body to treat cold, and against paralysis",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Piperaceae",
+      "botanical_name": "Piper peltatum L.",
+      "vernacular_names": "None",
+      "part": "Roots, juice of pressed herb, leaves",
+      "occurrence": "Pará",
+      "traditional_use": "Internally: lymphatic system stimulation, diuretic. Externally to clean ulcers, burns",
+      "correlated_studies": "Antimicrobial (Mongelli et al., 1995)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Polygonaceae",
+      "botanical_name": "Persicaria punctata (Elliott) Small (Polygonum acre Kunth)",
+      "vernacular_names": "Herva do bicho",
+      "part": "Juice; herb",
+      "occurrence": "Banks of Rio Amazonas (Pará)",
+      "traditional_use": "Against strangury, blood dysenteriae; Arthritis and haemorrhoid pain",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Polygonaceae",
+      "botanical_name": "Polygonum stypticum Cham. & Schltdl.",
+      "vernacular_names": "None",
+      "part": "Juice",
+      "occurrence": "Rio Negro",
+      "traditional_use": "Astringent and refreshing; diarrhoea and gonorrhoea",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Polypodiaceae",
+      "botanical_name": "Microgramma percussa (Cav.) de la Sota (Polypodium percussum Cav.)",
+      "vernacular_names": "Samambaia, Feto, feto macho",
+      "part": "n.d.",
+      "occurrence": "Amazonas",
+      "traditional_use": "Against worms in a way similar to Dryopteris filix-mas (L.) Schott (Aspidium filix-mas (L.) Sw.)",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Rhizophoraceae",
+      "botanical_name": "Rhizophora mangle L.",
+      "vernacular_names": "Guaparaiba, Mangue vermelho, verdadeiro ou amarello",
+      "part": "Bark",
+      "occurrence": "Pará",
+      "traditional_use": "Considered one of the most potent astringents for medical or technical use",
+      "correlated_studies": "Anti-inflammatory (Marrero et al., 2006), wound healing (Fernandez et al., 2002)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Rubiaceae",
+      "botanical_name": "Genipa americana L. (Genipa brasiliensis (Spreng.) Baill.)",
+      "vernacular_names": "Jenipapeiro, Jenipaba",
+      "part": "Fruit",
+      "occurrence": "Amazonas, Pará, near Santarem",
+      "traditional_use": "In baths to heal syphilitic ulcers",
+      "correlated_studies": "Antitumour (Ueda et al., 1991)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Rubiaceae",
+      "botanical_name": "Palicourea marcgravii A.St.-Hil.",
+      "vernacular_names": "Erva do rato",
+      "part": "n.d.",
+      "occurrence": "Pará, S. João, S. Anna",
+      "traditional_use": "Strong effects in kidneys and skin; used in veterinary medicine against dysuria of horses and mules",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Rutaceae",
+      "botanical_name": "Ertela trifolia (L.) Kuntze (Monnieria trifoliata L.)",
+      "vernacular_names": "Alfavaca de cobra, Jaborandi",
+      "part": "Roots",
+      "occurrence": "Maranhão, Alcantara, Pará, Santarém",
+      "traditional_use": "Diaphoretic, diuretic, sialagogue, expectorant, antidote (preservative)",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Salicaceae",
+      "botanical_name": "Casearia decandra Jacq. (Casearia adstringens Mart.)",
+      "vernacular_names": "None",
+      "part": "Bark",
+      "occurrence": "Pará",
+      "traditional_use": "Adstringent, use in baths for wound",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Sapindaceae",
+      "botanical_name": "Paullinia cupana Kunth (Paullinia sorbilis Mart.)",
+      "vernacular_names": "Guarana-uva, guaraná",
+      "part": "Seeds",
+      "occurrence": "Amazonas, Pará",
+      "traditional_use": "Stomachic, antipyretic, digestive, cardiac, diaphoretic. Good for the treatment of colds, sunstroke, cramps, flatulence, anorexia, nervous headache, dry skin. Aphrodisiac but decreases the fertility of sperm",
+      "correlated_studies": "Anxiolytic (Roncon et al., 2011), antidepressant (Campos et al., 2005), gastroprotective (Campos et al., 2003)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Sapindaceae",
+      "botanical_name": "Paullinia pinnata L.",
+      "vernacular_names": "Timbó, Timbo-sipó, Cururu-apé",
+      "part": "Bark, leaves, fruits",
+      "occurrence": "Pará",
+      "traditional_use": "Poisonous to the brain and kidneys. Against hydrophobia, melancholia and other types of mental illness",
+      "correlated_studies": "Antioxidant (Jimoh et al., 2007)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+{
+      "family": "Smilacaceae",
+      "botanical_name": "Smilax longifolia Rich. (Smilax papyracea Poir.)",
+      "vernacular_names": "Legação, Salsaparrilha, Japi-canga, Sipó-em",
+      "part": "Roots",
+      "occurrence": "Rio Amazonas, Rio Negro, Ega, Japurá near Porto Dos Miranhas",
+      "traditional_use": "Roots are rich in a bitter substance that adheres to the throat. The cooked roots are used to treat diseases of the kidneys",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Smilacaceae",
+      "botanical_name": "Smilax syphilitica Humb. & Bonpl. ex Willd.",
+      "vernacular_names": "Legação, Salsaparrilha, Japi-canga, Sipó-em",
+      "part": "Roots",
+      "occurrence": "Pará, Amazonas",
+      "traditional_use": "Same use as the true salsaparrilha (Smilax longifolia Rich.). Fresh plants are better than dried or old plants",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Solanaceae",
+      "botanical_name": "Capsicum annuum L.",
+      "vernacular_names": "Quiyaqui, Quiya-cumari, Quiya-cumari, Quiya-apuá, Pimentão comprido, Pimentão, Quiya-açu, Pimenta de cheiro; Pimenta da índia",
+      "part": "Fruits",
+      "occurrence": "Pará",
+      "traditional_use": "Used against constipation, anorexia, indigestion, atony of the tongue and throat, gangrenous angina and gout. Externally as caustic",
+      "correlated_studies": "Several (see literature)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Solanaceae",
+      "botanical_name": "Physalis pubescens L.",
+      "vernacular_names": "n.d.",
+      "part": "n.d.",
+      "occurrence": "Pará",
+      "traditional_use": "Resolvent, anodyne, diuretic. Infusion used in catarrhal fever. Against stranguria.",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Solanaceae",
+      "botanical_name": "Solanum americanum Mill. (Solanum pterocaulon Dunal, Solanum oleraceum Dunal, Solanum nigrum L.)",
+      "vernacular_names": "Aguara-quiya, Pimenta dos cães, Erva do bicho, Pimenta de gallinha, Erva moura",
+      "part": "Herb, fruits, leaves",
+      "occurrence": "Japurensibus (Rio Negro)",
+      "traditional_use": "Herb emollient, diuretic, used against inflammation of the anus and urinary retention. Dried berries are used against toothache and prosopalgia. Leaves are applied to treat skin wounds on the legs",
+      "correlated_studies": "None",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    },
+    {
+      "family": "Zingiberaceae",
+      "botanical_name": "Renealmia alpinia (Rottb.) Maas (Alpinia pacoseroca Jacq., Renealmia exaltata L.f.)",
+      "vernacular_names": "Pacoseroca",
+      "part": "Tuberous roots",
+      "occurrence": "Amazonas, near Japura",
+      "traditional_use": "Carminatives, stomachic, resolutive and alexipharmacas (antidote). Wound disinfection and healing",
+      "correlated_studies": "Leishmanicidal (Valadeau et al., 2009), antifungal (Melo e Silva et al., 2009)",
+      "source": "U.B. Breitbach et al. / Journal of Ethnopharmacology 147 (2013) 180–189"
+    }]
+}
