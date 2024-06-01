@@ -1,0 +1,109 @@
+{
+  "species": [
+    {
+      "name": "Tiger",
+      "scientific_name": "Panthera tigris",
+      "conservation_status": "Threatened",
+      "use": "Tiger bones are used to treat rheumatism, weakness, and paralysis.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Sunda Pangolin",
+      "scientific_name": "Manis javanica",
+      "conservation_status": "Threatened",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Rhinoceros",
+      "scientific_name": "Rhinocerotidae spp.",
+      "conservation_status": "Over-exploited",
+      "use": "Used in traditional medicine for various ailments.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Bear",
+      "scientific_name": "Ursidae spp.",
+      "conservation_status": "Over-exploited",
+      "use": "Used in traditional medicine for various ailments.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Deer",
+      "scientific_name": "Cervidae spp.",
+      "conservation_status": "Over-exploited",
+      "use": "Used in traditional medicine for various ailments.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Monkey",
+      "scientific_name": "Primates spp.",
+      "conservation_status": "Severely threatened",
+      "use": "Used for parts and tissues in exotic dishes and traditional remedies.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Seahorse",
+      "scientific_name": "Hippocampus erectus",
+      "conservation_status": "Vulnerable",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Loggerhead Sea Turtle",
+      "scientific_name": "Caretta caretta",
+      "conservation_status": "Vulnerable",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Green Sea Turtle",
+      "scientific_name": "Chelonia mydas",
+      "conservation_status": "Vulnerable",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Zabelê",
+      "scientific_name": "Crypturellus noctivagus",
+      "conservation_status": "Critically Threatened",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Brazilian Three-banded Armadillo",
+      "scientific_name": "Tolypeutes tricinctus",
+      "conservation_status": "Critically Threatened",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "West Indian Manatee",
+      "scientific_name": "Trichechus manatus",
+      "conservation_status": "Critically Threatened",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Red-handed Howler",
+      "scientific_name": "Alouatta belzebul",
+      "conservation_status": "Critically Threatened",
+      "use": "Used in traditional medicine.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil"
+    },
+    {
+      "name": "Teiú",
+      "scientific_name": "Tupinambis merianae",
+      "use": "Topical use of teiú fat has anti-inflammatory effects, reducing ear swelling in rat models caused by various inflammatory agents.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil",
+      "studies": "Ferreira et al. (2010)"
+    },
+    {
+      "name": "Boa Constrictor",
+      "scientific_name": "Boa constrictor",
+      "use": "Boa constrictor fat shows synergistic activity with antibiotics, though it has no bactericidal activity alone.",
+      "source": "W. M. S. Souto et al. – Uso de fauna medicinal no Brasil",
+      "studies": "Ferreira et al. (2011)"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "Drug": "Acetyldigoxin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis lanata Ehrh.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Adoniside",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Adonis vernalis L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Aescin",
+    "Action or clinical use": "Anti-inflammatory",
+    "Name": "Aesculus hippocastanum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Aesculetin",
+    "Action or clinical use": "Antidysentery",
+    "Name": "Fraxinus rhynchophylla Hance",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Agrimophol",
+    "Action or clinical use": "Anthelmintic",
+    "Name": "Agrimonia eupatoria L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Ajmalicine",
+    "Action or clinical use": "Circulatory disorders",
+    "Name": "Rauvolfia serpentina (L.) Benth ex. Kurz",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Allyl isothiocyanate",
+    "Action or clinical use": "Rubefacient",
+    "Name": "Brassica nigra (L.) Koch",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Andrographolide",
+    "Action or clinical use": "Bacillary dysentery",
+    "Name": "Andrographis paniculata Nees",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Anisodamine",
+    "Action or clinical use": "Anticholinergic",
+    "Name": "Anisodus tanguticus (Maxim.) Pascher",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Anisodine",
+    "Action or clinical use": "Anticholinergic",
+    "Name": "Anisodus tanguticus (Maxim.) Pascher",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Arecoline",
+    "Action or clinical use": "Anthelmintic",
+    "Name": "Areca catechu L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Asiaticoside",
+    "Action or clinical use": "Vulnerary",
+    "Name": "Centella asiatica (L.) Urban",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Atropine",
+    "Action or clinical use": "Anticholinergic",
+    "Name": "Atropa belladonna L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Berberine",
+    "Action or clinical use": "Bacillary dysentery",
+    "Name": "Berberis vulgaris L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Bergenin",
+    "Action or clinical use": "Antitussive",
+    "Name": "Ardisia japonica BI.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Bromelain",
+    "Action or clinical use": "Anti-inflammatory; proteolytic agent",
+    "Name": "Ananas comosus (L.) Merrill",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Caffeine",
+    "Action or clinical use": "CNS stimulant",
+    "Name": "Camellia sinensis (L.) Kuntze",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "(+)-Catechin",
+    "Action or clinical use": "Haemostatic",
+    "Name": "Potentilla fragaroides L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Chymopapain",
+    "Action or clinical use": "Proteolytic; mucolytic",
+    "Name": "Carica papaya L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Cocaine",
+    "Action or clinical use": "Local anaesthetic",
+    "Name": "Erythroxylum coca Lamk.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Codeine",
+    "Action or clinical use": "Analgesic; antitussive",
+    "Name": "Papaver somniferum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Colchicine",
+    "Action or clinical use": "Antitumor agent; antigout",
+    "Name": "Colchicum autumnale L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Convallotoxin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Convallaria majalis L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Curcumin",
+    "Action or clinical use": "Choleretic",
+    "Name": "Curcuma longa L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Cynarin",
+    "Action or clinical use": "Choleretic",
+    "Name": "Cynara scolymus L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Danthron",
+    "Action or clinical use": "Laxative",
+    "Name": "Cassia spp.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Deserpidine",
+    "Action or clinical use": "Antihypertensive; tranqulizer",
+    "Name": "Rauvolfia canescens L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Deslanoside",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis lanata Ehrh.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Digitalin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis purpurea L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Digitoxin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis purpurea L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Digoxin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis lanata Ehrh.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Emetine",
+    "Action or clinical use": "Amoebicide; emetic",
+    "Name": "Cephaelis ipecacuanha (Brotero) A. Richard",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Ephedrine",
+    "Action or clinical use": "Sympathomimetic",
+    "Name": "Ephedra sinica Stapf.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Etoposide",
+    "Action or clinical use": "Antitumour agent",
+    "Name": "Podophyllum peltatum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Gitalin",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis purpurea L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Glaucaroubin",
+    "Action or clinical use": "Amoebicide",
+    "Name": "Simarouba glauca DC.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Glycyrrhizin",
+    "Action or clinical use": "Sweetener",
+    "Name": "Glycyrrhiza glabra L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Gossypol",
+    "Action or clinical use": "Male contraceptive",
+    "Name": "Gossypium spp.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Hemsleyadin",
+    "Action or clinical use": "Bacillary dysentery",
+    "Name": "Helmsleya amabilis Diels",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Hydrastine",
+    "Action or clinical use": "Hemostatic; astringent",
+    "Name": "Hydrastis canadensis L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Hyoscamine",
+    "Action or clinical use": "Anticholinergic",
+    "Name": "Hyoscamus niger L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Kainic Acid",
+    "Action or clinical use": "Ascaricide",
+    "Name": "Digenea simplex (Wulf.) Agardh",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Kawain",
+    "Action or clinical use": "Tranquilizer",
+    "Name": "Piper methysicum Forst. f.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Khellin",
+    "Action or clinical use": "Bronchodilator",
+    "Name": "Ammi visnaga (L.) Lamk.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Lanatosides A, B, C",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Digitalis lanata Ehrh.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Lobeline",
+    "Action or clinical use": "Smoking deterrent; respiratory stimulant",
+    "Name": "Lobelia inflata L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Monocrotaline",
+    "Action or clinical use": "Antitumor agent",
+    "Name": "Crotolaria sessiliflora L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Morphine",
+    "Action or clinical use": "Analgesic",
+    "Name": "Papaver somniferum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Neoandrographolide",
+    "Action or clinical use": "Bacillary dysentery",
+    "Name": "Andrographis paniculata Nees",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Noscapine",
+    "Action or clinical use": "Antitussive",
+    "Name": "Papaver somniferum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Quabain",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Strophanthus gratus Baill.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Papain",
+    "Action or clinical use": "Proteolytic; mucolytic",
+    "Name": "Carica papaya L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Phyllodulcin",
+    "Action or clinical use": "Sweetener",
+    "Name": "Hydrangea macrophylla (Thunb.) DC",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Physostigmine",
+    "Action or clinical use": "Cholinesterase inhibitor",
+    "Name": "Physostigma venenosum Balf.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Picrotoxin",
+    "Action or clinical use": "Analeptic",
+    "Name": "Anamirta cocculus (L.) W.&A.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Pilocarpine",
+    "Action or clinical use": "Parasympathomimetic",
+    "Name": "Pilocarpus jaborandi Holmes",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Podophyllotoxin",
+    "Action or clinical use": "Condylomata acuminata",
+    "Name": "Podophyllum peltatum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Protoveratrines A & B",
+    "Action or clinical use": "Antihypertensive",
+    "Name": "Veratrum album L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Pseudoephedrine",
+    "Action or clinical use": "Sympathomimetic",
+    "Name": "Ephedra sinica Stapf.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Pseudoephedrine, nor-",
+    "Action or clinical use": "Sympathomimetic",
+    "Name": "Ephedra sinica Stapf.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Quinine",
+    "Action or clinical use": "Antimalarial",
+    "Name": "Cinchona ledgeriana Moens ex. Trimen",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Quisqualic Acid",
+    "Action or clinical use": "Anthelmintic",
+    "Name": "Quisqualis indica L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Rescinnamine",
+    "Action or clinical use": "Antihypertensive; tranqulizer",
+    "Name": "Rauvolfia serpentina (L.) Benth ex. Kurz",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Reserpine",
+    "Action or clinical use": "Antihypertensive; tranqulizer",
+    "Name": "Rauvolfia serpentina (L.) Benth ex. Kurz",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Rhomitoxin",
+    "Action or clinical use": "Antihypertensive",
+    "Name": "Rhododendron molle G. Don",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Rorifone",
+    "Action or clinical use": "Antitussive",
+    "Name": "Rorippa indica (L.) Hochr.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Rotenone",
+    "Action or clinical use": "Piscicide",
+    "Name": "Lonchocarpus nicou (Aubl.) DC.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Rotundine",
+    "Action or clinical use": "Analgesic; sedative",
+    "Name": "Stephania sinica Diels",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Salicin",
+    "Action or clinical use": "Analgesic",
+    "Name": "Salix alba L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Santonin",
+    "Action or clinical use": "Ascaricide",
+    "Name": "Artemisia maritima L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Scillarin A",
+    "Action or clinical use": "Cardiotonic",
+    "Name": "Urginea maritima (L.) Baker",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Scopolamine",
+    "Action or clinical use": "Sedative",
+    "Name": "Datura metel L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Sennosides A & B",
+    "Action or clinical use": "Laxative",
+    "Name": "Cassia spp.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Silymarin",
+    "Action or clinical use": "Antihepatotoxic",
+    "Name": "Silybum marianum (L.) Gaertn.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Stevioside",
+    "Action or clinical use": "Sweetener",
+    "Name": "Stevia rebaudiana Bertoni",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Strychnine",
+    "Action or clinical use": "CNS stimulant",
+    "Name": "Strychnos nux-vomica L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Teniposide",
+    "Action or clinical use": "Antitumor agent",
+    "Name": "Podophyllum peltatum L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Tetrahydropalmatine",
+    "Action or clinical use": "Analgesic; sedative",
+    "Name": "Corydalis ambigua (Pallas) Cham. & Schltal.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Theobromine",
+    "Action or clinical use": "Diuretic; bronchodilator",
+    "Name": "Theobroma cacao L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Theophylline",
+    "Action or clinical use": "Diuretic; bronchodilator",
+    "Name": "Camellia sinensis (L.) Kuntze",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Trichosanthin",
+    "Action or clinical use": "Abortifacient",
+    "Name": "Thymus vulgaris L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Tubocurarine",
+    "Action or clinical use": "Skeletal muscle relaxant",
+    "Name": "Chondodendron tomentosum R. & P.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Valepotriates",
+    "Action or clinical use": "Sedative",
+    "Name": "Valeriana officinalis L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Vincamine",
+    "Action or clinical use": "Cerebral stimulant",
+    "Name": "Vinca minor L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Xanthotoxin",
+    "Action or clinical use": "Leukoderma; vitiligo",
+    "Name": "Ammi majus L.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Yohimbine",
+    "Action or clinical use": "Aphrodisiac",
+    "Name": "Pausinystalia yohimbe (K.Schum.) Pierre",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Yuanhuacine",
+    "Action or clinical use": "Abortifacient",
+    "Name": "Daphne genkwa Seib. & Zucc.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  },
+  {
+    "Drug": "Yuanhuadine",
+    "Action or clinical use": "Abortifacient",
+    "Name": "Daphne genkwa Seib. & Zucc.",
+    "Source": "Fabricant, D.S. & Farnsworth, N.R. 2001. The value of plantsused in traditional medicine for drug discovery.EnvironmentalHealth Perspectives 109: 69 - 75.",
+    "correlated_studies": "Farnsworth NR, Akerele O, Bingel AS, Soejarto DD, Guo Z.\nMedicinal plants in therapy. Bull W H O 63:965 - 981 (1985)."
+  }
+]
