@@ -1,6 +1,8 @@
 from typing import Optional
 from google.auth import credentials
 import vertexai
+from google.cloud import aiplatform
+from google.cloud import aiplatform_v1
 from vertexai.generative_models import GenerativeModel, Part
 
 
@@ -40,7 +42,7 @@ You are a very competent pdf to text conversion program.
 Convert the following pdfs to easily readable text that can be interpreted by a LLM.
 """
 
-pdf_file_uri = "gs://cloud-ai-platform-eadbad62-fcf4-43a1-82b6-97bf50cfdde0/bradao13.pdf"
+pdf_file_uri = "gs://cloud-samples-data/generative-ai/pdf/2403.05530.pdf"
 pdf_file = Part.from_uri(pdf_file_uri, mime_type="application/pdf")
 contents = [pdf_file, prompt]
 

@@ -36,6 +36,7 @@ def extract_species(text):
     Ensure each species entry in the document is converted into the JSON format.
     Focus on accurately transferring data without interpretation. Where specific details are unavailable, note "None" for that field.
     If no species data is present in the text, return an empty JSON array to indicate that no relevant information could be extracted.
+    Some of the data belongs to tables, make sure to interpret it correctly.
 
 
 
