@@ -1,0 +1,1871 @@
+707
+
+Medicinal plants used in Rondônia, Western Amazon, Brazil
+
+SANTOS M.R.A.1,*; LIMA M.R.2, OLIVEIRA C.L.L.G.3 1Laboratório de Biotecnologia Vegetal, Empresa Brasileira de Pesquisa Agropecuária - Embrapa, Rodovia BR 364, km 5,5, Porto Velho-RO, Brasil, 76815-800, mauricio.santos@embrapa.br; 2Centro de Ensino São Lucas, Rua Alexandre Guimarães, 1927, Porto Velho-RO, Brasil, 78916-450, rail_da43@yahoo.com.br; 3Universidade Estadual de Londrina, Rodovia Celso Garcia Cid, PR 445, km 380, Campus Universitário, Londrina-PR, Brasil, 86055-900, carlaliegi@hotmail.com
+
+ABSTRACT: This study refers to the use of medicinal plants by populations in the Western Amazon and provides information that can be used in phytochemical studies. It draws upon the traditional knowledge regarding the use of medicinal plants in five regions of the state of Rondônia, in the Brazilian Amazon, focusing on native species. The field research was carried out in five municipalities of the state of Rondônia: Ariquemes, Buritis, Candeias do Jamari, Cujubim and Itapoa do Oeste, characterized by primary economic sectors: agriculture, cattle farming, plant extraction and mineral exploration. Structured interviews were applied to 227 persons chosen because of their prestige in the communities in relation to the knowledge and use of medicinal plants, identifying the therapeutic purpose, parts of the plant used and methods of preparation. The species were taxonomically identified. The ethnobotanic knowledge (inferred by the number of uses of medicinal plants per person) was correlated with the Brazilian region of origin, age, and gender of the interviewees. According to the collected data, 34 botanical families and 53 native species were identified. Of the 53 species, only 7 occur exclusively in the Amazon Forest: Theobroma grandiflorum (Willd. ex Spreng.) K. Schum., Psidium densicomum Mart. ex DC, Piper cavalcantei Yunck., Pilocarpus microphyllus Stapf ex Wardlew., Euterpe oleracea Mart., Croton cajucara Benth., Baccharis altimontana G. Heiden. The most common disorders treated with the plants were kidney problems, influenza, generalized infections and inflammations, malaria and high blood pressure. Leaves were the most used parts in preparations. Barks, fruits, roots, flowers, stems, seeds, oils, buds, tubercles, and rhizomes were also mentioned. Thirteen forms of preparations were recorded, and infusion and decoction were the most used. Syrups, juices, flour, sap, oil and parts of the plant blended with milk, honey and coffee or flamed, macerated and in the form of poultice, were also found. Persons from the Southeast region had more information compared with persons from the other regions; persons in the age groups between 50-59, 60-69 and 70-79 had more information in comparison with the other age groups; and the female interviewees mentioned significantly more uses of medicinal plants than the male ones. The relatively small number of native Amazon species identified can be the result of the loss of knowledge about medicinal plants in the Amazon because of internal migration, extinction of local indigenous groups, increasing urbanization and consequent globalization of the lifestyles. Keywords: Ethnobotany, Phytotherapy, Traditional Medicine.
+
+RESUMO: Plantas medicinais usadas em Rondônia, Amazônia Ocidental, Brasil. Este estudo se refere ao uso de plantas medicinais por populações da Amazônia Ocidental, fornece informações passíveis de utilização em estudos fitoquímicos e resgata o conhecimento tradicional a respeito do uso de plantas medicinais em cinco regiões do estado de Rondônia na Amazônia Brasileira com foco nas espécies nativas. A pesquisa de campo foi realizada nos cinco municípios de Rondônia: Ariquemes, Buritis, Candeias do Jamari, Cujubim e Itapoã do Oeste, caracterizados por atividades econômicas primárias: agricultura, pecuária e extrativismo vegetal e mineral. Entrevistas estruturadas foram aplicadas a 227 pessoas escolhidas por seu prestígio nas comunidades em relação ao conhecimento e uso de plantas medicinais, identificando a finalidade terapêutica, as partes das plantas utilizadas, e os métodos de preparação. As espécies foram taxonomicamente identificadas. O conhecimento etnobotânico (inferido a partir do número de citações por entrevistado) foi correlacionado com a região de origem, idade e gênero dos
+
+Recebido para publicação em 27/09/2013 Aceito para publicação em 30/04/2014
+
+10.1590/1983-084X/13_102
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+708
+
+entrevistados. De acordo com os dados coletados, 34 famílias botânicas e 53 espécies nativas foram identificadas. Dentre as 53 espécies, apenas sete ocorrem exclusivamente na Amazônia: Theobroma grandiflorum (Willd. ex Spreng.) K.Schum., Psidium densicomum Mart. ex DC, Piper cavalcantei Yunck., Pilocarpus microphyllus Stapf ex Wardlew., Euterpe oleracea Mart., Croton cajucara Benth., Baccharis altimontana G. Heiden. As afecções mais comuns tratadas com plantas foram: problemas de fígado, gripe, infecções e inflamações generalizadas, malária, e hipertensão arterial. As folhas são as partes mais utilizadas nas preparações. Também foram mencionadas cascas, frutos, raízes, flores, caules, sementes, óleos, brotos, tubérculos e rizomas. Treze formas de preparação foram registradas sendo mais comuns as infusões e decoctos. Outras formas de preparação observadas foram xarope, suco, farinha, seiva, óleo, partes vegetais misturadas com leite, mel ou café, flambada, macerada e em forma de cataplasma. Pessoas da região Sudeste apresentaram maior número de informações do que as outras regiões; faixas etárias entre 50-59, 60-69 e 70-79 apresentaram maior número de citações que os outros grupos etários; e as mulheres mencionaram significativamente mais usos medicinais em comparação com os homens. O número relativamente pequeno de espécies nativas amazônicas identificadas pode ser um resultado da perda de conhecimento sobre plantas medicinais na Amazônia, devido à migração interna, extinção dos grupos indígenas locais, crescente urbanização e consequente globalização dos estilos de vida.
+
+Palavras chave: Etnobotânica, Fitoterapia, Medicina Tradicional.
+
+INTRODUCTION
+
+Phytotherapy has been increasing in Brazil due to its implementation by governmental institutions in underserved communities. About one hundred thousand people have no access to industrialized medicines in the country, thus requiring the unconventional exploration of natural resources by public health care institutions (Oliveira et al., 2006). Currently there are a lot of popular movements for the application of plant resources in the treatment of diseases instead of the expensive products sold in drugstores, the exclusive use of which leads to the marginalization of entire populations that cannot afford to buy them (Santos et al., 2008).
+
+The Brazilian Amazon Forest (tropical rainforest) covers nearly 40% of all national territory, with about 20% legally preserved. This ecosystem is rather fragile, and its productivity and stability depend on the recycling of nutrients, whose efficiency is directly related to the biological diversity and the structural complexity of the forest. It has been estimated that there are about 800 plant species of economic or social value in the Amazon. Of these, 190 are fruit-bearing plants, 20 are oil plants, and there are hundreds of medicinal plants (VIEIRA, 1999).
+
+According to the List of Species of the Brazilian Flora (Forzza et al., 2010) the Brazilian Amazon Rainforest is home to a very rich flora in which 40,989 species of plants and fungi have been described with 18,932 endemic species. Of this total, a great number of plants are known as medicinal, for they have interesting active properties capable to be used at a lower cost. Indigenous and African influence is clear in the practices related
+
+to the use of medicinal plants in Brazil, which are known collectively as folk medicine. Furthermore, there is a great number of plants that are allowed to be cultivated as medicinal, for their substances and properties are currently well known (Elisabetsky, 2001).
+
+Ethnobotanical studies are especially important in the Amazon due to the large number of available species, most of which have not been studied yet. According to McKenna et al. (2011), there is a lack of investigation from a scientific basis into the use of traditional medicine in the Amazonian environment and the few existing studies are not current or have restricted approaches and methods. The taxonomic identification of the plants known as medicinal and the empiric knowledge associated allows the evaluation of their curative properties (Coelho-Ferreira, 2009). Moreover, the rescue of this kind of information from the traditional knowledge and the uses related to them allows us to infer about the classes of substances and their potential applications (Almeida et al., 2002).
+
+The objective of this work was to rescue the traditional knowledge regarding the use of medicinal plants in five municipalities of Rondonia state in the Brazilian Western Amazon, focusing on native species.
+
+MATERIALS AND METHODS
+
+The field research was carried out in five municipalities of the state of Rondonia: Ariquemes (63°02″27”W 09°54″48”S), Buritis (63°48’30’’W 10°12’32’’S), Candeias do Jamari (63°42’08’’W
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+8°46’54’’S), Cujubim (62°35’07’W 9°21’48’’S) and Itapoa do Oeste (63°09’55’’W 9°11’50’’S). These places are characterized by primary economic sectors: agriculture, cattle farming, plant extraction and mineral exploration.
+
+Structured interviews were applied to 227 people chosen due to their prestige in their communities in relation to the knowledge and use of medicinal plants. As per the methodology described by Santos et al. (2008), therapeutic purpose, parts of the plant used and methods of preparation were identified.
+
+Among the 227 interviewees, 168 were women and 59 were men. They ranged from 20 to 79 years old, distributed in the following percentages per age range: 3.52% of the people were between 20-29 years old; 17.18% were 30-39; 33.04% were 40-49; 29.52% were 50-59; 12.78% were 60-69; and 3.96% were 70-79. Of the interviewees 39.90% were born in the Northern region of Brazil; 24.46% in the South; 23.18% in the South East; 15.45% in the North East; and 6.01% in the West Central.
+
+In order to correlate the distribution of the ethnobotanic knowledge with Brazilian region of origin, age, and gender of the interviewees, averages were calculated by dividing the number of mentions of therapeutic uses by the number of interviewees of each group, according to Santos et al. (2008). These averages were compared by Student’s t test (p<0.05).
+
+The plant material was collected and placed inside wooden presses with cardboard and newspapers. Each plant was labeled by number of specimen, date, place, and name of collector. After that, the material was dehydrated in an electric oven for three days at 60°C. The species of each plant was taxonomically identified and incorporated into the Dr Ary Tupinambá Penna Pinheiro Herbarium collection, São Lucas College, Porto Velho, Rondonia, Brazil.
+
+microphyllus Stapf ex Wardlew., Euterpe oleracea Mart., Croton cajucara Benth., Baccharis altimontana G. Heiden.
+
+Regarding the plant parts used in preparations, it was observed that the leaves were the most used, with 64.18% of the mentions. Other mentioned parts were: barks (8.96%), fruits (7.46%), roots (5.97%), flowers (2.24%), stems (2.24%), seeds (2.24%), oils (2.24%), buds (1.49%), tubercles (1.49%), and rhizomes (1.49%). Some interesting plant portions are to be mentioned, such as the Copaifera langsdorffii oil, used in the treatment of influenza and malaise by adding it to a coffee drink; and the fruit rind of Bertholletia excelsa, macerated or in decoction to treat malaria.
+
+Thirteen forms of preparations were recorded, infusion and decoction being the most used, each one mentioned in 36.98% of the interviews. The former consists of submerging the plant parts in water immediately after boiling; in the latter the plant parts are cooked in water. Other recorded forms of use and preparation and their respective percentages of mentions were: juice (6.85%), macerated (6.85%), syrup (4,79%), oil (1.37%), poultice (1.37%) blend with milk (1.37%), with honey (0.68%) and with coffee (0.68%), flour (0.68%), sap (0.68%), and flamed (0.68%).
+
+Concerning the most common disorders found in this research, the most significant were: kidney problems (9.16% of the mentions), influenza (7.63%), generalized infections (6.87%), and inflammations (6.87%), malaria (4.58%), and blood pressure (4.58%) (Table 2).
+
+In relation to the interviewees’ origin it was identified that people from the South East region had more information in comparison with the other regions, with an average of 9.2 (a) mentions per informer. The North East and South East regions did not differ significantly, with averages of 7.3 (b) and 7.2 (b) respectively, while West Central had 5.7 (c). The North region had the lowest number of citations per informer, 3.9 (d).
+
+RESULTS
+
+According to the collected data, 53 native species were identified and distributed in 34 botanical families (Table 1). The most representative in number of species were Asteraceae (5), Euphorbiaceae (5), Fabaceae (4), Piperaceae (4), and Amaranthaceae (3), the other families having one or two species. Other families were represented by only one species in this work, as is the case of the plant Momordica charantia.
+
+Of the 53 species, only 7 occur exclusively in the Amazon Forest: Theobroma grandiflorum (Willd. ex Spreng.) K.Schum., Psidium densicomum Mart. ex DC, Piper cavalcantei Yunck., Pilocarpus
+
+Concerning the ages of the respondents, people in the age groups between 50-59, 60-69 and 70-79 had more information in comparison with the other age groups and did not differ among themselves, with averages of 8.04 (a), 7.93 (a) and 7.66 (a) mentions per interviewee respectively. The age range of between 40-49 had an average of 6.69 (b) and the groups of 20-29 and 30-39 had 4.25 (c) and 3.89 (c) respectively.
+
+The women mentioned significantly more uses of medicinal plants compared to the group of the men. The group of women had an average of 10.25 (a) mentions per respondent, while the group of men had 5.48 (b).
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+709
+
+710
+
+TABLE 1. Scientific names, botanic families, indications, used parts, preparations and Brazilian environments of the medicinal plants used by the populations of five municipalities of the state of Rondonia
+
+Scientific name
+
+Acmella oleracea (L.) R.K.Jansen
+
+Ageratum conyzoides L.
+
+Alternanthera dentata (Moench) Stuchlík ex R.E.Fr. Anacardium occidentale L.
+
+Ananas comosus (L.) Merril Aniba canelilla (Kunth) Mez Annona mucosa Jacq.
+
+Baccharis altimontana G.Heiden et al.
+
+Baccharis articulata (Lam.) Pers. Bauhinia forficata Link subsp. Forficata Begonia cucullata Willd. Bertholletia excelsa Bonpl.
+
+Family
+
+Indication1
+
+Asteraceae
+
+Asteraceae
+
+a- throat inflammation, flu, lung b- toothache a- kidney infection b- asthma, headache c- kidney infection
+
+Amaranthaceae a- infection, inflammation
+
+Anacardiaceae
+
+a- infection b- healing, inflammation c- diarrhea
+
+Bromeliaceae
+
+a- flu, bronchitis
+
+Lauraceae
+
+a- weakness
+
+Annonaceae
+
+a- louse
+
+Asteraceae
+
+Asteraceae
+
+a- stomachache, gastritis, menopause, rheumatism b- obesity, liver ailments, infections, c- high uric acid a- stomachache, obesity
+
+Fabaceae
+
+Begoniaceae
+
+Lecythidaceae
+
+a- cancer, kidney infection, diabetes, heart a- gum inflammation a- malaria
+
+b- diarrhea
+
+Used part1
+
+a- leaves
+
+Prepara- tion1
+
+a- infusion, syrup
+
+Geographic region
+
+Amazon, Atlantic Forest
+
+Voucher
+
+number 2631
+
+b- flowers
+
+a- leaves b- leaves c- leaves
+
+a- leaves
+
+b- juice a- infusion b- decoction, infusion c- decoction
+
+a- decoction, infusion
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pam- pa, Pantanal Amazon, Caatinga, Cer- rado, Atlantic Forest
+
+2766
+
+2717
+
+a- leaves b- inner bark c- leaves, inner bark, buds a- fruit
+
+a- infusion b- decoction c- decoction, infusion
+
+a- syrup
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pam- pa, Pantanal Atlantic Forest 2635
+
+2634
+
+a- inner bark a- decoction Amazon,
+
+2637
+
+a- leaves
+
+a- leaves
+
+a- juice
+
+a- decoction
+
+Atlantic Forest Amazon, Cer- rado, Atlantic Forest Amazon
+
+2642
+
+2643
+
+b- leaves
+
+b- infusion
+
+c- leaves, stems
+
+c- infusion
+
+a- leaves
+
+a- infusion
+
+Atlantic Fo- rest, Pampa
+
+2645
+
+a- leaves
+
+a- decoc- tion, infusion
+
+Atlantic Forest 2703
+
+a- leaves
+
+a- fruit, inner bark
+
+b- inner bark
+
+a- macera- ted a- decoction, macerated b- macer- ated
+
+Cerrado, Atlantic Forest Amazon
+
+2647
+
+2648
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+TABLE 1. Scientific names, botanic families, indications, used parts, preparations and Brazilian environments of the medicinal plants used by the populations of five municipalities of the state of Rondonia
+
+Bixa orellana L.
+
+Byrsonima intermedia A.Juss.
+
+Bixaceae
+
+Malpighiaceae
+
+a- cholesterol b- throat inflammation, hoarseness c- yellow fever, hepatitis a- inflammation
+
+a- seeds b- leaves, seeds
+
+a- macer- ated b- juice, infu- sion
+
+Amazon, Cer- rado, Atlantic Forest
+
+c- roots
+
+c- decoction a- inner bark a- decoction Amazon, Cer- rado, Atlantic Forest
+
+Chenopodium ambrosioides L.
+
+Cissus verticillata (L.) Nicolson & C.E. Jarvis
+
+Copaifera langsdorffii Desf.
+
+Costus spicatus (Jacq.) Sw
+
+Croton cajucara Benth.
+
+Dioscorea amaranthoides C.Presl
+
+Echinodorus grandiflorus (Cham. & Schltr.) Micheli
+
+Amaranthaceae a- worms,
+
+tuberculosis, pneumonia b- contusion c- stomachache d- flu e- infection f- anemia
+
+Vitaceae
+
+a- diabetes
+
+Fabaceae
+
+a- calming, high blood pressure b- infection c- flu
+
+Zingiberaceae
+
+d- malaise, contraceptive a- kidney infection
+
+b- cancer, ulcer
+
+Euphorbiaceae
+
+Dioscoreaceae
+
+a- headache, malaria, liver ailments a- restorative b- blood purifier
+
+Alismataceae
+
+a- urinary infection b- asthma c- rheumatism d- high blood pressure e- inflammations
+
+a- leaves, seeds
+
+b- leaves c- leaves d- leaves e- leaves f - leaves a- leaves
+
+a- leaves
+
+b- inner bark c- leaves, oil
+
+d- oil
+
+a- leaves, stems
+
+b- leaves a- leaves
+
+a- tubercle b- tubercle
+
+a- inner bark b- oil c- leaves d- leaves e- leaves
+
+f- leaves
+
+a- juice, blended with milk b- poultice c- infusion d- juice e- decoction f- juice a- infusion
+
+a- decoction, infusion b- decoction c- decoction, infusion, oil d- blended with coffee a- decoction, infusion b- blended with honey a- infusion
+
+a- boiled b- boiled
+
+a- decoction b- oil c- decoction d- infusion e- decoction, infusion f- infusion
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pan- tanal Amazon, Caatinga, Cer- rado, Atlantic Forest
+
+Amazon, Atlantic Forest
+
+Amazon
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest Caatinga, Cer- rado, Atlantic Forest
+
+f- liver ailments, blood purifier
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+2651
+
+2761
+
+2636
+
+2741
+
+2740
+
+2641
+
+2649
+
+2727
+
+2652
+
+711
+
+712
+
+TABLE 1. Scientific names, botanic families, indications, used parts, preparations and Brazilian environments of the medicinal plants used by the populations of five municipalities of the state of Rondonia
+
+Eugenia uniflora L.
+
+Euterpe oleracea Mart. Fridericia chica (Bonpl.) L.G.Lohmann
+
+Genipa americana L.
+
+Myrtaceae
+
+Arecaceae
+
+Bignociaceae
+
+Rubiaceae
+
+a- antipyretic b- high blood pressure, backache a- anemia
+
+a- inflammation, infection b- anemia, kidney infection c- digestion a- anemia b- swelling
+
+c- diabetes
+
+a- leaves b- leaves
+
+a- roots
+
+a- leaves b- leaves
+
+c- leaves
+
+a- inner bark b- inner bark
+
+c- leaves
+
+a- infusion b- decoction
+
+a- decoction, macerated a- decoction, infusion b- decoction
+
+c- juice a- infusion b- apply un- der the foot c- decoction
+
+Cerrado, Atlantic Forest
+
+Amazon
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pam- pa, Pantanal Amazon, Caatinga, Cer- rado, Atlantic Forest, Pan- tanal Cerrado
+
+2718
+
+2715
+
+2745
+
+2653
+
+Gomphrena arborescens L.f.
+
+Amaranthaceae a- heart
+
+a- leaves
+
+a- infusion
+
+2749
+
+Hymenaea courbaril L.
+
+Imperata brasiliensis Trin.
+
+Jatropha curcas L.
+
+Jatropha gossypiifolia L.
+
+Lippia alba (Mill.) N.E.Br.
+
+Manihot esculenta Crantz
+
+Maytenus ilicifolia Mart. ex Reissek
+
+Fabaceae
+
+Poaceae
+
+Euphorbiaceae
+
+Euphorbiaceae
+
+Verbenaceae
+
+Euphorbiaceae
+
+Celastraceae
+
+a- flu b- anemia, inflammation, malaria, prostate cancer, kidney infection a- tooth formation b- kidney infection
+
+a- stroke b- gastritis c- worms
+
+a- healing, athlete foot, flu b- bless child a- calming b- flu, cough, high blood pressure c- headache d- phlegm
+
+a- restorative b- clean skin of children c- wart a- cancer, ulcer b- skin cancer c- flu d- rheumatism
+
+a- inner bark b- inner bark
+
+a- leaves b- roots
+
+a- fruit peel b- fruit c- fruit rind
+
+a- leaves b- leaves
+
+a- leaves b- leaves c- leaves d- leaves
+
+a- root b- leaves c- stems
+
+a- leaves b- rhizome c- rhizome d- leaves
+
+a- decoction, syrup b- decoction
+
+a- infusion b- decoction
+
+a- macer- ated b- milk with water c- infusion a- decoction b- bath
+
+a- decoction, infusion b- decoction, infusion c- decoction d- syrup a- flour b- decoction c- sap
+
+a- decoction b- bath c- syrup d- infusion
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pan- tanal
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest Amazon, Caatinga, Cer- rado, Atlantic Forest
+
+Amazon, Caa- tinga, Atlantic Forest Amazon, Cer- rado, Atlantic Forest
+
+Amazon, Cer- rado
+
+Cerrado, Atlantic Forest
+
+2654
+
+2728
+
+2644
+
+2661
+
+2746
+
+2759
+
+2739
+
+continua...
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+713
+
+TABLE 1. Scientific names, botanic families, indications, used parts, preparations and Brazilian environments of the medicinal plants used by the populations of five municipalities of the state of Rondonia
+
+Mikania glomerata Spreng. Momordica charantia L.
+
+Asteraceae
+
+Cucurbitaceae
+
+Passiflora edulis Sims
+
+Passifloraceae
+
+Peperomia pellucida (L.) Kunth
+
+Piperaceae
+
+Phyllanthus niruri L.
+
+Phyllantaceae
+
+Pilocarpus microphyllus Stapf ex Wardlew.
+
+Rutaceae
+
+Piper cavalcantei Yunck.
+
+Piperaceae
+
+Piper peltatum L. Piperaceae
+
+Plenckia populnea Reissek
+
+Celastraceae
+
+Polygonum punctatum Elliott
+
+Polygonaceae
+
+Portulaca pilosa L.
+
+Portilacaceae
+
+a- flu
+
+a- malaria
+
+b- worms c- liver ailments d- dengue
+
+a- high blood pressure b- calming c- diabetes
+
+a- athlete foot b- hemorrhoid pain, kidney infection a- kidney infection
+
+b- kidney infection
+
+a- earache b- evil eye c- post delivery convalescence d- a colic bowel e- sinusitis
+
+a- colic, diarrhea, convulsion b- stomachache, digestion c- colic bowel a- hepatitis, inflammation, bronchitis b- anemia, healing, diarrhea c- kidney infection a- kidney infection
+
+a- myoma b- worms c- itch
+
+a- amebiasis, ulcer, infections
+
+a- leaves
+
+a- leaves
+
+b- roots c- leaves d- leaves
+
+a- leaves b-fruit, leaves c- leaves, fruit rind a- leaves, roots b- leaves
+
+a- roots
+
+b- roots
+
+a- leaves b- leaves c- leaves
+
+d- leaves e- leaves
+
+a- leaves
+
+b- leaves c- leaves
+
+a- leaves
+
+b- leaves
+
+c- leaves
+
+a- leaves
+
+a- leaves b- leaves c- leaves
+
+a- leaves
+
+a- infusion, syrup
+
+a- infusion, bath with decoction b- decoction c- infusion d- decoction a- decoction b- juice, infu- sion c- decoction
+
+a- juice b- decoction
+
+a- macer- ated with wine b- decoction a- juice b- bath with infusion c- flamed
+
+d- infusion e- macer- ated a- infusion
+
+b- decoction, infusion c- decoction a- decoction
+
+b- infusion
+
+c- decoction, infusion a- infusion
+
+a- decoction b- infusion c- decoction
+
+a- infusion
+
+continuação... 2664
+
+Cerrado, Atlantic Forest
+
+Amazon, Cer- rado
+
+2666
+
+Amazon, Caa- tinga, Atlantic Forest, Pan- tanal
+
+2767
+
+Amazon, Caa- tinga, Atlantic Forest
+
+2658
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest Amazon
+
+2633
+
+2735
+
+Amazon
+
+2639
+
+Amazon, Cer- rado
+
+2763
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest Amazon, Caatinga, Cer- rado, Atlantic Forest, Pan- tanal Amazon, Atlantic Forest
+
+2760
+
+2764
+
+2629
+
+continua...
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+714
+
+TABLE 1. Scientific names, botanic families, indications, used parts, preparations and Brazilian environments of the medicinal plants used by the populations of five municipalities of the state of Rondonia
+
+Pothomorphe umbellata (L.)
+
+Psidium densicomum Mart. ex DC Rubus brasiliensis Mart.
+
+Sambucus australis Cham. & Schltdl.
+
+Senna occidentalis (L.) Link
+
+Piperaceae
+
+Myrtaceae
+
+Rosaceae
+
+Adoxaceae
+
+Fabaceae
+
+a- hepatitis, kidney infection, bronchitis b- malaria, headache a- diarrhea
+
+a- throat inflammation b- kidney infection c- hormone replacement in menopause d- headache e- flu
+
+a- measles b- measles c- flu, cough
+
+a- cough, liver ailments, malaria b- menopause
+
+a- leaves
+
+b- leaves
+
+a- buds
+
+a- leaves b- leaves c- leaves
+
+d- leaves e- leaves
+
+a- flowers b- leaves, flowers c- leaves a- fruit
+
+b- fruit
+
+a- decoction, infusion
+
+b- decoction a- macera- ted
+
+a- infusion b- decoction, infusion c- decoction, infusion
+
+d- infusion e- infusion, syrup a- infusion b- decoction c- infusion
+
+a- decoction
+
+b- infusion
+
+Solanum paniculatum L.
+
+Solanaceae
+
+a- stomachache
+
+a- fruit
+
+a- infusion
+
+Solidago chilensis Meyens
+
+Asteraceae
+
+a- inflammation b- broken bone
+
+a- leaves b- leaves
+
+a- infusion b- poultice
+
+Stachytarpheta cayennensis (Rich.) Vahl Theobroma grandiflorum (Willd. ex Spreng.) K.Schum. 1The reference letters indicate connection between items Indication, Used Part and Preparation.
+
+Verbenaceae
+
+a- contusion
+
+a- leaves
+
+a- macera- ted
+
+Malvaceae
+
+a- high blood pressure
+
+a- leaves
+
+a- infusion
+
+Atlantic Fo- rest, Cerrado
+
+continuação... 2628
+
+Amazon
+
+2724
+
+Caatinga, Cer- rado, Atlantic Forest
+
+2755
+
+Amazon, Atlantic Forest
+
+2650
+
+Amazon, Caatinga, Cer- rado, Atlantic Forest, Pan- tanal Amazon, Caatinga, Cer- rado, Atlantic Forest Caatinga, Cer- rado, Atlantic Forest, Pampa Amazon, Cer- rado, Atlantic Forest Amazon
+
+2660
+
+2765
+
+2742
+
+2753
+
+2669
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+715
+
+TABLE 2. Therapeutic uses of the major families of medicinal native plants of five municipalities of the state of Rondonia and their relative frequencies
+
+Major disorders
+
+Asteraceae Euphorbiaceae
+
+Fabaceae
+
+Piperaceae Amaranthaceae
+
+Other families
+
+Total number of mentions
+
+Relative frequency (%)
+
+Kidney infection Flu
+
+1
+
+2
+
+0
+
+1
+
+2
+
+2
+
+2
+
+0
+
+0
+
+1
+
+7
+
+4
+
+12
+
+10
+
+9.16
+
+7.63
+
+Infection
+
+2
+
+0
+
+1
+
+0
+
+2
+
+4
+
+9
+
+6.87
+
+Inflammation
+
+1
+
+0
+
+1
+
+1
+
+1
+
+5
+
+9
+
+6.87
+
+High blood pressure
+
+0
+
+0
+
+1
+
+0
+
+0
+
+5
+
+6
+
+4.58
+
+Malaria
+
+0
+
+1
+
+2
+
+1
+
+0
+
+2
+
+6
+
+4.58
+
+Anemia Liver ailments Headache
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+3
+
+2
+
+2
+
+5
+
+5
+
+5
+
+3.81
+
+3.81
+
+3.81
+
+Diarrhea
+
+0
+
+0
+
+0
+
+2
+
+0
+
+3
+
+5
+
+3.81
+
+Worms
+
+0
+
+1
+
+0
+
+0
+
+1
+
+2
+
+4
+
+3.05
+
+Diabetes
+
+0
+
+0
+
+1
+
+0
+
+0
+
+3
+
+4
+
+3.05
+
+Throat inflammation
+
+1
+
+0
+
+0
+
+0
+
+0
+
+2
+
+3
+
+2.29
+
+Hepatitis
+
+0
+
+0
+
+0
+
+2
+
+0
+
+1
+
+3
+
+2.29
+
+Cough
+
+0
+
+0
+
+1
+
+0
+
+0
+
+2
+
+3
+
+2.29
+
+Calming
+
+0
+
+0
+
+1
+
+0
+
+0
+
+2
+
+3
+
+2.29
+
+Cancer
+
+0
+
+0
+
+1
+
+0
+
+0
+
+2
+
+3
+
+2.29
+
+Rheumatism
+
+1
+
+0
+
+0
+
+0
+
+0
+
+2
+
+3
+
+2.29
+
+Bronchitis
+
+0
+
+0
+
+0
+
+2
+
+0
+
+1
+
+3
+
+2.29
+
+Ulcer
+
+0
+
+0
+
+0
+
+0
+
+0
+
+3
+
+3
+
+2.29
+
+Gastritis Kidney infection Menopause
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+2
+
+2
+
+2
+
+1.58
+
+1.58
+
+1.58
+
+Athlete foot
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+1.58
+
+Healing
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+2
+
+1.58
+
+Colic
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+2
+
+1.58
+
+Obesity
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+2
+
+1.58
+
+Heart
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+2
+
+1.58
+
+Restorative
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+2
+
+1.58
+
+Phlegm
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Lung
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0.76
+
+Toothache
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0.76
+
+Asthma
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0.76
+
+Weakness
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Louse
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Cholesterol
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Yellow fever
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Tuberculosis
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0.76
+
+Pneumonia
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0.76
+
+Malaise
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0.76
+
+continua...
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+716
+
+TABLE 2. Therapeutic uses of the major families of medicinal native plants of five municipalities of the state of Rondonia and their relative frequencies
+
+Wart Hemorrhoid pain Myoma
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+continuação... 0.76
+
+0.76
+
+0.76
+
+Itch
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Measles
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Stroke
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0.76
+
+Healing
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0.76
+
+Sinusitis Prostate cancer
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0.76
+
+0.76
+
+DISCUSSION
+
+Asteraceae is known as the larger taxonomic group within the angiosperms, with worldwide distribution of 1,100 genera and 25,000 species (Verdi et al., 2005). In Brazil this family has 300 genera and 2,000 species (Lima & Santos, 2006). Within the identified plants in this study the most numerous in relation to the number of mentioned therapeutic purposes were Acmella oleracea (L.) R.K.Jansen, Solidago chilensis Meyens, Mikania glomerata Spreng., Baccharis articulata (Lam.) Pers. and Baccharis altimontana G. Heiden.
+
+Acmella oleracea is used in indigenous food and gives the sensation of numbness in the mouth. Its tea is used by the indigenous to treat throat inflammation and as an anesthetic for toothache (Lorenzi & Matos, 2002), which is in accordance with this research. Ramsewak et al. (1999) detected in this species the N-isobutylamide spilanthol that has strong larvicide activity against the Aedes aegyptii mosquito, carrier of the dengue and yellow fever viruses in tropical and subtropical regions. In cosmetics it is used to reduce wrinkles. However, no systematic pharmacologic studies have been carried out with this species.
+
+Solidago chilensis is popularly used as an analgesic, antiseptic, healing formula, antihemorrhagic, diuretic, and antirheumatic (Lorenzi & Matos, 2002). Tamura et al. (2009) developed pharmacological studies concerning this species and identified the anti-inflammatory activity of its leaves. It was confirmed in this research by the mention of the use of S. chilensis leaves in infusion against general inflammations and poultice in cases of bone fracture. Rafael et al. (2009) showed the antimicrobial and antiplatelet aggregation effects of its rhizome aqueous extract in vitro. The presence of the quercitin glycosylated flavonoid, tannins, saponins, resins, inulin, rutin, quinic acid, caffeic
+
+acid, ramnosides, quercetin and glycosides reduce the fragility of blood vessels (Lorenzi & Matos, 2002). Vila et al. (2002) mention that the oil extracted from leaves and fruits has antifungal properties.
+
+Pharmacological studies carried out with Baccharis articulata showed antiviral, anti- inflammatory, antifungal, antibiotic, anticholesterol, antihepatotoxic and antioxidant activities (Oliveira, 2002). In this study, its leaves in infusion were cited for stomach problems, what can be related to its antihepatotoxic activity; and for losing weight, what can be related to its anticholesterolemic properties. This species has resin, oleanolic and crisosaponic acids, santonin, quercetin, absintin, luteolin, articulin acetate, articulin, acacetin, 7,4’-dimetilapigenin, cirsimaritin, salvigenin, jaceidin, jaceosidin, lupeol, chondrillasterol, barticulidiol, acetate malonate diester, bacchotricuneatina; and the essential oils cis-caryophyllene, g-elemeno, and aroma decadinen dendren (Gianello & Giordano, 1984).
+
+Euphorbiaceae is among the larger and most variable dicotyledon family, spread over the world with about 300 genera and 7,600 species. Within this family there are several important species for the Amazon environment due to their social and economic aspects, like Manihot esculenta Crantz (manioc), an important source of calories in the human diet in tropical countries and has many anti- inflammatory and analgesic properties (Adeyemi et al., 2008).
+
+Jatropha gossypiifolia L. has hypotensive properties (Abreu et al., 2003) and the active ingredient curcin, a toxo-albumin. It was indicated in this research for the treatment of injury, athletes foot and flu. In the first two cases the leaves are infused and rubbed on the site. Although a toxic plant, the culture and religious belief is to “bless” children in rituals using the infusion of leaves in baths (Mariz et al., 2006).
+
+Jatropha curcas L. latex has proved
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+coagulant activity and, at high dilutions, anticoagulant activity (Osoniyi & Onajobi, 2003). In this survey, preventive action against stroke was mentioned and can be related to the anticoagulant activity. It also has anti-inflammatory (Mujumdar & Misar, 2004) and abortive properties (Goonasekera et al., 1995). Fatty acids like oleic, linoleic, palmitic, stearic, cis- 11-eicosenoic and cis-11,14-eicosadienoic were found in this species (Martinez-Herrera et al., 2006). Fabaceae, the family of legumes, covers 650 genera and 18,000 species (Pietrobom & Oliveira, 2004). The medicinal plants of this family found in this study were Copaifera langsdorffii Desf., Hymenaea courbaril L., Bauhinia forficata Link subsp. Forficata and Senna occidentalis (L.) Link.
+
+are alkaloids, momordipicrin, momordic acid, phenylalanine, arginine, lignan-calceolarioside, alpha-carotene epoxide, beta-carotene, steroid- charantin, cryptoxanthin, triterpenes-momordicine, taraxerol, A and B momorcharisides, diosgenin, p-cymene, gentisic acid, lectin, agglutinin, cytostatic factor, trypsin inhibitor, neroldiol, V-insulin, insulin-p, derived from stigmasterol, 5-hydroxytryptamine, verbascocide, vicin, zeatin alkaloid, triterpenoids cucurbitane and kuguacins F-S, including pentanorcucurbitacins, octanorcucurbitacin and trinorcucurbitacins.
+
+Of the 53 species mentioned in this study,
+
+only 7 occur exclusively in the Amazon Forest:
+
+The C. langsdorffii oil is gastroprotective, antileshimanial, anti-inflammatory, vasorelaxant, embryotoxic, cytotoxic, smooth muscle relaxant and protector against colitis induced by acetic acid (Costa-Lotufo et al., 2002). The diterpenoid kaurenoic acid was identified only in the oil of this species (Veiga Júnior & Pinto, 2005). In a study by Maciel et al., (2002) it was shown that diterpenes colavenol and hardwickic acid have potent antitumor activity. Phytochemical studies carried out with the seed oil of C. langsdorffii showed the presence of coumarin umbelliferone and oligosaccharides xyloglucans (Buckeridge et al., 1995).
+
+Piperaceae covers nearly 3,000 species within 8 genera. Of these, five occur in Brazil: Ottonia Spreng., Piper L., Peperomia Ruiz & Pav., Pothomorphe Miq. and Sarcorhachis Trel. In this study, Pothomorphe umbellata (L.), Peperomia pellucida (L.) Kunth and Piper peltatum L. were the species that stood out.
+
+Amaranthaceae includes about 170 genera and 2,000 species. In Brazil, there are 20 native genera with approximately 100 species (Souza & Lorenzi, 2008). The species Chenopodium ambrosioides L., Alternanthera dentata (Moench) Stuchlík ex R.E.Fr. and Gomphrena arborescens L.f. were identified in this study.
+
+C. ambrosioides has antitumor activity (Cruz et al., 2007) and is used to treat ulcers caused by Leishmania (Patrício et al., 2008). It has flavonol glycosides, kaempferol 3-ramnoside-4’-xyloside and kaempferol xyloside 3-ramnoside-7, along with isoramnetin kaempferol and quercetin (Jain et al., 1990).
+
+M. charantia acts in the treatment of gastric and duodenal ulcers (Alam et al., 2009) and has antimutagenic, androgenic, lipolytic, antihypercholesterolemic, antiviral and antioxidant activities, confirmed by the pharmacological study conducted by Gupta (1995). The same author mentions that the extract of the leaves have insecticidal action. Among the chemicals found
+
+1. Theobroma grandiflorum also known popularly as cupuassu belongs to the Malvaceae family and the same genus as cocoa (Theobroma cacao L.). In this survey its use was restricted to control high blood pressure using leaf infusion. This native plant stands out as one of the most attractive fruits due to the taste and aroma of its fruit. Due to the presence of clotting agents that are probably polysaccharides from the cell wall its pulp is used to make juice, ice cream, liqueurs, jams, as well as domestic candy (Vriesmann & Petkowicz, 2009). Its pulp has from 0.025 to 0.035% of vitamin C (Vieira et al., 2000). It also contains volatile compounds that have been extensively studied, the main components are ethyl butanoate, ethyl hexanoate, linalool, galactosis and arabinosis (Vriesmann & Petkowicz, 2009).
+
+2. Pilocarpus microphyllus is a highly branched and bushy plant belonging to the Rutaceae family. Plants of this genus are characterized by the natural presence of pilocarpine in their leaves. This imidazole alkaloid is used to treat glaucoma and xerostomia by the pharmaceutical industry (Sawaya et al., 2008). One of the most important drugs in ophthalmology is derived from the leaves of this shrub, which is harvested by the indigenous and peasants in the forests of Brazil. Its leaves are used in Brazil as a diuretic, sudorific, digestive, sialogogue, hair tonic and for eye inflammation (Taveira et al., 2003). According to the results obtained in this study, this species is used for earache, colic in children, sinusitis and even “evil eye” and “broken shield”. Leaves are used in the form of a juice, flamed, infused, and macerated. In a ethnobotanic survey carried out by Monteles & Pinheiro (2007) in a traditional community of Maranhao state, it was found that the juice of leaves of P. microphyllus was used to treat skin disorders. Maia et al. (2011) attribute to this species the activities: induction of perspiration, pupil constriction (miosis), peristalsis acceleration, induction of salivation, and in the treatment of bronchitis, dry skin, fever, acne, hair loss, and seborrhea.
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+717
+
+718
+
+3. The palm Euterpe oleracea, known in Brazil as assai, belongs to the Arecaceae family and its genus includes eight species of palms native and widely distributed in South America, with greatest concentration in the Amazon (Sabbe et al., 2009). Its fruit has been widely marketed as a food supplement. The benefits claimed are weight reduction, cardiovascular health, indigestion, and slowing the aging process (Heinrich et al., 2011). This plant is highly used for therapeutic treatment due to the high level of antioxidants from the high content of polyphenols. However its pharmacological properties have not yet been characterized, although it has great importance in Brazilian folk medicine. E. oleracea was cited for the treatment of anemia in this study, the roots being used in two forms of preparation, decoction or maceration. Menezes et al. (2005) mention that its juice is used in Northern and Northeastern Brazil in cases of pain, fever, and flu. 4. Croton cajucara has a long history of use in folk medicine (Maciel et al., 2000). It is an aromatic shrub plant and belongs to the Euphorbiaceae family. Maciel et al. (2000) cite that its stem bark is a rich source of clerodan type diterpenes: trans-dehydrocrotonin, trans-crotonina, cis-cajucarin B, cajucarin A, cajucarinolide, while from their leaves were isolated three steroids (β-sitosterol, stigmasterol and sitosterol-3-O- β-glucoside), two flavonoids (kaempferol 3,4’, 7-trimethyl ether-ether and 3,7-dimethyl) and one diterpene (cajucarinolide). The medicinal properties are antidiarrheal, anti-inflammatory, antilytic, antitumor, and antiulcerogenic. According to the data obtained in this study C. cajucara is especially used in cases of headache, malaria and liver problems, by the infusion of its leaves. In a study carried out in Minas state Costa et al. (2010) found its use to treat wounds and ulcers.
+
+5. Baccharis altimontana is a recently described species that belongs to the Asteraceae family. In this study it was found that the leaves are used in the form of decoction for stomachic problems, gastritis, menopause, rheumatism, while its infusion is used for the treatment of liver complications, losing weight and generalized infections. These data agree with Abad et al. (2006) which mentions that plants of this genus are used in the form of decoction in traditional medicine in South America for the treatment of rheumatism and liver disease. The genus Baccharis comprises about 400 species, of which 20% are used for medicinal purposes, and several species of this genus have been investigated chemically and pharmacologically due to their anti- inflammatory property (Abad et al., 2006). Reis et al. (2004) mention that plants belonging to the genera Baccharis, Mikania and Maytenus, are among the leading native medicinal plants in popular use in
+
+Brazil.
+
+6. Psidium densicomum belongs to the Myrtaceae family. This plant was cited in this research for the treatment of diarrhea, using the seedlings in maceration.
+
+7. Piper cavalcantei belongs to the Piperaceae family. Its leaves are used in infusion for the treatment of colic, diarrhea, cramps, whereas for stomach problems and indigestion; leaves can be used in infusion or decoction. There is a lack of botanical, chemical and pharmacological data of P. densicomum and P. cavalcantei in the literature.
+
+The relatively small number of native Amazon species identified can be an outcome of the loss of knowledge about medicinal plants in Amazon due to internal migration, extinction of local indigenous groups, increasing urbanization and consequent globalization of the life styles.
+
+R e g a r d i n g t h e p l a n t p a r t u s e d i n preparations, it is interesting to observe that the greatest concentrations of the active substances usually occur in the leaves. Additionally, the leaves are generally present all year long and can be collected without expressive damages to the plants, ensuring their preservation (Santos et al., 2008). In general, infusion and decoction are the most common form of preparation in traditional medicine, because of the simplicity of these methods (Santos et al., 2008).
+
+In relation to the botanical families, plants of the Asteraceae family are usually used in cases of influenza, infections, and for losing weight. In the Fabaceae family, plant sections are used for influenza, kidney problems and malaria. Souza et al. (2004) studied medicinal plants from Southern Brazil, and highlight the utilization of Fabaceae plants in the urinary tracts. Piperaceae is the family whose plants are the most used for bronchitis, hepatitis, diarrhea and kidney complications. The Amaranthaceae plants are most often used in the cure of infections in general. In total, 49 kinds of therapeutic uses were recorded in this study.
+
+It was observed that the lowest number of citations of therapeutic uses per interviewee occurred among people born in the North region, in spite of the fact that this research was carried out in a Northern state of Brazil and of the great biodiversity of this region, which occurs almost entirely inside the Amazon Forest environment. Moreover, 86.79% of the recorded plants were brought from other regions. These facts suggest that the local ethnobotanic knowledge is being lost. The lack of studies regarding the potential medicinal plants in the region by academic and research institutions is probably one of the reasons for that. Fernandes (2004) evaluated the number of studies from each
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+Brazilian region presented in scientific conferences concerning medicinal plants and concluded that North and West Central regions do not have significant participation in these conferences.
+
+Concerning the number of mentions of medicinal plants in relation to the gender of the informers, the fact that the group of women had significantly more information than the group of men can be explained by the linkage of the medicinal plants practices with cooking procedures. Moreover, many visited homes had small gardens with medicinal plants, which are probably managed by mothers as homemakers. The opposite was observed by Ming & Amaral Júnior (2005) in their study carried out with rubber workers at the “Chico Mendes” ecological reserve, in the Brazilian state of Acre. The authors observed that the men had more information about medicinal plants than the women, and attributed this fact to the closer contact of the men with the forest, resulting in more knowledge about plants of this ecosystem. However, in the present study only a small percentage (13.21%) of the mentioned plants are native to the Amazon Forest.
+
+Pará State (Brazil). Journal of Ethnopharmacology, v.126, p.159-175, 2009.
+
+COSTA, F.G.C.; NUNES, F.C.P.; PERES, V. Mapeamento etnofarmacológico e etnobotânico de espécies de cerrado, na microrregião de Patos de Minas. Perquirere, v.2, n.7, p.93-111, 2010.
+
+COSTA, J.R.; MITJA, D. Uso dos recursos vegetais por agricultores familiares de Manacapuru (AM). Acta Amazonica, v.40, p.49-58, 2010.
+
+COSTA-LOTUFO, L.V. et al. The cytotoxic and embryotoxic effects of kaurenoic acid, a diterpene isolated from Copaifera langsdorffii oleo-resin. Toxicon, v.40, p.1231- 1234, 2002.
+
+CRUZ, G.V.B. et al. Increase of cellular recruitment, phagocytosis ability and nitric oxide production induced by hydroalcoholic extract from Chenopodium ambrosioides leaves. Journal of Ethnopharmacology, v.111, p.148-154, 2007.
+
+ELISABETSKY, E. Etnofarmacologia como ferramenta na busca de substâncias ativas. In: SIMÕES, C.M.O. et al. (Eds.) Farmacognosia: da planta ao medicamento. 3ª ed. Porto Alegre: UFRGS, 2001. p.107-122.
+
+FORZZA, R.C. et al. Introdução – síntese da diversidade brasileira. In: ___. Catálogo de plantas e fungos do Brasil. Rio de Janeiro: Jardim Botânico do Rio de Janeiro, 2010. p.21-42.
+
+The greater knowledge observed in the older groups of informers can be attributed both to the accumulation of information during their lifetimes and to the relative abandonment of medicinal plants practices by younger people.
+
+It is important to emphasize the ethnobotanic surveys in the Amazonian environment as sources for further phytochemical and pharmacological studies that can identify the potential of the Amazonian plants (Santos et al., 2008; Costa & Mitja, 2010).
+
+GIANELLO, J.C.; GIORDANO, O.S. Chemical examination of six species of Baccharis. Revista Latinoamericana de Química, v.15, p.84-86, 1984.
+
+GOONASEKERA, M.M. et al. Pregnancy terminating effect of Jatropha curcas in rats. Journal of Ethnopharmacology, v.47, p.117-123, 1995.
+
+GUPTA, M.P. 270 plantas medicinales iberoamericanas.
+
+Bogotá: CYTED-SECAB, 1995. 324p.
+
+HEINRICH, M. Açai (Euterpe oleracea Mart.) - A phytochemical and pharmacological assessment of the species’ health claims. Phytochemistry Letters, v. 4, p.10-21, 2011.
+
+REFERENCES
+
+JAIN, N. Two flavonol glycosides from Chenopodium ambrosioides. Phytochemistry, v. 29, p.3988-3991, 1990.
+
+ABAD, M.J. et al. Anti-inflammatory activity of four Bolivian Baccharis species (Compositae). Journal of Ethnopharmacology, v.103, p.338-344, 2006.
+
+LIMA, M.R.; SANTOS, M.R.A. Aspectos etnobotânicos da medicina popular no município de Buritis, Rondônia. Revista Fitos, v.2, p.36-41, 2006.
+
+ABREU, I.C. et al. Hypotensive and vasorelaxant effects of ethanolic extract from Jatropha gossypiifolia L. in rats. Fitoterapia, v.74, p.650-657, 2003.
+
+LORENZI, H.; MATOS, F.J.A. Plantas medicinais no Brasil: nativas e exóticas. Nova Odessa: Instituto Plantarum, 2002. 512p.
+
+ADEYEMI, O.O. et al. Inhibition of chemically induced inflammation and pain by orally and topically administered leaf extract of Manihot esculenta Crantz in rodents. Journal of Ethnopharmacology, v.119, p.6-11, 2008. ALAM, S. et al. Antiulcer activity of ethanolic extract of Momordica charantia L. in rats. Journal of Ethnopharmacology, v.123, p.464-469, 2009.
+
+Maciel, M.A.M. et al. Ethnopharmacology, phytochemistry and pharmacology: a successful combination in the study of Croton cajucara. Journal of Ethnopharmacology, v.70, p.41-55, 2000.
+
+MACIEL, M.A.M. et al. Plantas medicinais: a necessidade de estudos multidisciplinares. Química Nova, v.25, p.429-438, 2002.
+
+ALMEIDA, M.M.B. et al. Determinação de nutrientes minerais em plantas medicinais. Ciência e Tecnologia de Alimentos, v.22, p.94-97, 2002.
+
+BUCKERIDGE, M.S. et al. Storage carbohydrate mobilization in seeds of Dimorphandra mollis Benth. (Leguminosae) following germination. Revista Brasileira de Botânica, v.18, p.171-175, 1995.
+
+COELHO-FERREIRA, M. Medicinal knowledge and plant utilization in an Amazonian coastal community of Marudá,
+
+MAIA, E.A.; FRANCISCO, J.; PIRES, T.; MANFREDI- COIMBRA, S. O uso de espécies vegetais para fins medicinais por duas comunidades da Serra Catarinense, Santa Catarina, Brasil. Revista de Biologia e Ciências da Terra, v.11, n.1, p.54-74, 2011.
+
+MARIZ, S.R. et al. Estudo toxicológico agudo do extrato etanólico de partes aéreas de Jatropha gossypiifolia L. em ratos. Revista Brasileira de Farmacognosia, v. 16, p.372-378, 2006.
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.
+
+719
+
+720
+
+MARTINEZ-HERRERA, J. et al. Chemical composition, toxic/antimetabolic constituents, and effects of different treatments on their levels, in four provenances of Jatropha curcas L. from Mexico. Food Chemistry, v.96, p.80-89, 2006.
+
+MCKENNA, D.J. et al. Receptor screening technologies in the evaluation of Amazonian ethnomedicines with potential applications to cognitive deficits. Journal of Ethnopharmacology, v.134, p.475-492, 2011.
+
+v.51, p.728-732, 1999.
+
+REIS, M.D.; MARIOT, A.; STEENBOCK, W. Diversidade e domesticação de plantas medicinais. In: SIMÕES, C.M.O. et al. (Eds.) Farmacognosia: da planta ao medicamento. Porto Alegre: UFRGS, 2004. p.45-74. SABBE, S. Effect of a health claim and personal characteristics on consumer acceptance of fruit juices with different concentrations of açai (Euterpe oleracea Mart.). Appetite, v.53, p.84-92, 2009.
+
+MENEZES, F.S. et al. Chemical and pharmacological s u r v e y o n B r a z i l i a n m e d i c i n a l p l a n t s u s i n g ethnopharmacological information as a tool. Acta Horticulturae, v. 675, p.89-95, 2005.
+
+MING, L.C.; AMARAL JÚNIOR, A. 2005. Aspectos etnobotânicos de plantas medicinais na reserva extrativista “Chico Mendes”. The New York Botanical Garden. Disponível em http://www.nybg.org/bsci/acre/ www1/medicinal.html. Acesso em: 31 mar. 2014.
+
+SANTOS, M.R.A.; et al. Uso de plantas medicinais pela população de Ariquemes, em Rondônia. Horticultura Brasileira, v.26, p.244-250, 2008.
+
+SAWAYA, A. et al. HPLC-ESI-MS/MS of imidazole alkaloids in Pilocarpus microphyllus. Molecules, v.13, p.1518-1529, 2008.
+
+SOUZA, G.C. Ethnopharmacological studies of antimicrobial remedies in the South of Brazil. Journal of Ethnopharmacology, v.90, p.135-143, 2004.
+
+MONTELES, R.; PINHEIRO, C.U.B. Plantas medicinais em um quilombo maranhense: uma perspectiva etnobotânica. Revista de Biologia e Ciências da Terra, v.7, n.2, p.39-48, 2007.
+
+SOUZA, V.C.; LORENZI, H. Botânica sistemática: guia ilustrado para identificação das famílias de angiospermas da flora brasileira, baseado em APG II. Nova Odessa: Instituto Plantarum, 2008. 704p.
+
+MUJUMDAR, A.M.; MISAR, A.V. Anti-inflammatory activity of Jatropha curcas roots in mice and rats. Journal of Ethnopharmacology, v.90, p.11-15, 2004.
+
+OLIVEIRA, M.J.R. et al. Fitoterapia no Sistema de Saúde Pública (SUS) no Estado de São Paulo, Brasil. Revista Brasileira de Plantas Medicinais, v.8, p.39-41, 2006. OLIVEIRA, S.Q. Caracterização dos compostos presentes no extrato n-butanólico de Baccharis articulata (Lam.) Persoon. Caderno de Farmácia, v. 18, p.37-38, 2002. OSONIYI, O.; ONAJOBI, F. Coagulant and anticoagulant activities in Jatropha curcas latex. Journal of Ethnopharmacology, v. 89, n.101-105, 2003.
+
+PATRÍCIO, F.J. et al. Efficacy of the intralesional treatment with Chenopodium ambrosioides in the murine infection by Leishmania amazonensis. Journal of Ethnopharmacology, v.115, p.313-319, 2008.
+
+PIETROBOM, R.C.V.; OLIVEIRA, D.M.T.O. Morfoanatomia e ontogênese do pericarpo de Schizolobium parahyba (Vell.) Blake (Fabaceae, Caesalpinioideae). Revista Brasileira de Botânica, v.27, p.767-779, 2004.
+
+RAFAEL, L. et al. Evaluation of antimicrobial and antiplatelet aggregation effects of Solidago chilensis Meyen. International Journal of Green Pharmacy, v.3, p.35-39, 2009.
+
+RAMSEWAK, R.S. et al. Bioactive N-isobutylamides from the flower buds of Spilanthes acmella. Phytochemistry,
+
+TAMURA, E.K. et al. Inhibitory effects of Solidago chilensis Meyen hydroalcoholic extract on acute inflammation. Journal of Ethnopharmacology, v.122, p.478-485, 2009. TAVEIRA, F.S.N. Seasonal variation in the essential oil of Pilocarpus microphyllus Stapf. Anais da Academia Brasileira de Ciências, v.75, p.27-31, 2003.
+
+VEIGA JÚNIOR, V.F.; PINTO, A.C. Plantas medicinais: cura segura? Química Nova, v.28, p.519-528, 2005. VERDI, L.G. Gênero Baccharis (Asteraceae): Aspectos químicos, econômicos e biológicos. Quimíca Nova, v. 28, p.85-94, 2005.
+
+VIEIRA, M.C. Mathematical modeling of the thermal degradation kinetics of vitamin C in cupuaçu (Theobroma grandiflorum) nectar. Journal of Food Engineering, v.43, p.1-7, 2000.
+
+VIEIRA, R.F. Conservation of medicinal and aromatic plants in Brazil. In: JANICK, J. (Ed.) Perspectives on new crops and new uses. Alexandria: ASHS Press, 1999. p.152-159.
+
+VILA, R. et al. Composition and antifungal activity of the essential oil of Solidago chilensis. Planta Medica, v.68, p.164-167, 2002.
+
+VRIESMANN, L.C.; PETKOWICZ, C.L.O. Polysaccharides from the pulp of cupuassu (Theobroma glandiflorum): Structural characterization of a pectic fraction. Carbohydrate Polymers, v.77, p.72-79, 2009.
+
+Rev. Bras. Pl. Med., Campinas, v.16, n.3, supl. I, p.707-720, 2014.

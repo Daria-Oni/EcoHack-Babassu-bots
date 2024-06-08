@@ -1,0 +1,1543 @@
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Medicinal plants used in the Amazon region: a systematic review
+
+Plantas medicinais utilizadas na região Amazônica: uma revisão sistemática
+
+Plantas medicinales utilizadas en la región amazónica: una revisión sistemática
+
+Received: 28/28/2021 | Reviewed: 09/02/2021 | Accept: 10/27/2021| Published: 10/29/2021
+
+João Galdino de Páscoa Júnior ORCID: https://orcid.org/0000-0001-6516-3626 Universidade Estadual de Roraima, Brazil E-mail: joao.pascoa@hotmail.com Iara Leão Luna de Souza ORCID: https://orcid.org/0000-0002-5309-2979 Universidade Estadual de Roraima, Brazil Centro Universitário Estácio da Amazônia, Brazil E-mail: iaraluna@uerr.edu.br
+
+Abstract The Amazon region’s biodiversity is exploited by the local population, commonly for therapeutic purposes. Given this information, the goal of this study was to perform a systematic review on medicinal plants used in this region, listing the name of the species, location found, and its importance for traditional medicine and for local people. For this, a search was performed in the PubMed/Medline and Lilacs databases, using the descriptors medicinal plants, Amazonia or Amazon region, in Portuguese, English, and Spanish. The main findings demonstrate that different species from different botanical families are used by the local population. The main therapeutic outcomes sought out refer to the search for relief or treatment of gastrointestinal, hepatic alterations, fever, kidney stones, pain, infections, and parasites. Thus, it is concluded that the practice of traditional medicine is very common in the Amazon region and is transmitted orally from generation to generation. In this practice, the use of medicinal plants in the form of tea is highlighted, with the species in the form of powder, dried or natural plants. Therefore, it is recommended that the strengthening of pharmacological studies involving local medicinal plants can provide scientific support for popular knowledge. Keywords: Amazonia; Traditional medicine; Folk knowledge; Ethnopharmacology.
+
+Resumo A região amazônica possui uma grande biodiversidade, esta que é explorada pela população local, comumente, com a finalidade terapêutica. Diante dessas informações, o objetivo deste estudo foi realizar uma revisão sistemática sobre as plantas medicinais utilizadas nessa região, listando os nomes das espécies, o local encontrado e a sua importância para a medicina tradicional e para a população local. Para isso, realizou-se uma busca nos bancos de dados PubMed/Medline e Lilacs, utilizando os descritores plantas medicinais, Amazônia ou região amazônica, nos idiomas português, inglês e espanhol. Os principais achados demonstram que diferentes espécies de variadas famílias botânicas são utilizadas pela população local. Os principais desfechos terapêuticos buscados se referem à busca do alívio ou tratamento de alterações gastrointestinais, hepáticas, febre, cálculos renais, dor, infecções e parasitoses. Diante disso, conclui-se que a prática da medicina tradicional é muito usual na região amazônica e transmitida de forma oral de geração para geração. Nessa prática, destaca-se o uso de plantas medicinais na forma de chá, estando as espécies na forma de pó, plantas secas ou naturais. Logo, recomenda-se o fortalecimento dos estudos farmacológicos envolvendo as plantas medicinais locais pode fornecer respaldo científico para o conhecimento popular. Palavras-chave: Amazônia; Medicina tradicional; Conhecimento popular; Etnofarmacologia.
+
+Resumen La región amazónica tiene una gran biodiversidad, que es comúnmente explorada por la población local con fines terapéuticos. Ante esta información, el objetivo de este estudio fue realizar una revisión sistemática de las plantas medicinales utilizadas en esta región, enumerando el nombre de la especie, la ubicación encontrada y su importancia para la medicina tradicional y para la población local. Para ello, se realizó una búsqueda en las bases de datos PubMed/Medline y Lilacs, utilizando los descriptores plantas medicinales, Amazonia o Región Amazónica, en portugués, inglés y español. Los principales hallazgos demuestran que la población local utiliza diferentes especies de diversas familias botánicas. Los principales resultados terapéuticos buscados se refieren a la búsqueda de alivio o tratamiento de trastornos gastrointestinales y hepáticos, fiebre, cálculos renales, dolores, infecciones y parásitos. Por tanto, se concluye que la práctica de la medicina tradicional es muy común en la región amazónica y se transmite por vía oral de generación en generación. En esta práctica se destaca el uso de plantas medicinales en forma de té, con las
+
+1
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+especies en forma de polvo, plantas secas o naturales. Por lo tanto, se recomienda que el fortalecimiento de los estudios farmacológicos que involucren plantas medicinales locales pueda brindar soporte científico al conocimiento popular. Palabras clave: Amazonia; Medicina tradicional; Saberes populares; Etnofarmacología.
+
+1. Introduction
+
+The Amazon Rainforest is known as the largest forest on Earth and for sheltering the largest river basin in the world.
+
+It is distributed by nine countries in South America, with the largest portion in Brazilian lands (67.8%), where it is called Legal
+
+Amazon and it comprises the states of Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, Roraima and
+
+Tocantins (Penna-Filho, 2013).
+
+In addition to all its territory greatness, the Amazon has nine kinds of vegetation, of which Terra Firme Forest is the
+
+most important, since it covers 90% of the Legal Amazon and presents great variation of plant species that were not or are little
+
+explored (Braga, 1979; Penna-Filho, 2013), having them a great potential for generating resources, such as those related to the
+
+pharmaceutical and medical areas.
+
+The potential of using medicinal plants as a treatment for diseases, called phytotherapy, is a practice of traditional
+
+medicine that has been used since the appearance of the human species (Badke et al., 2011), however, over the years and with
+
+the advance of technology, new ways to treat diseases were being developed and the use of medicinal plants became less
+
+common. Nevertheless, phytotherapy practice in Brazil has not lost its relevance despite the great incentives of the
+
+pharmaceutical industry in the country, due to folk knowledge about medicinal plants (Badke et al., 2011).
+
+Additionally, with the advancement of Brazilian health models until the arrival of the Unified Health System, it can be
+
+understood that medicinal plants and herbal medicines have a lot to add in developing countries, as they are important
+
+instruments of pharmaceutical care, since 67% of medicinal plant species in the world originate from developing countries.
+
+Since the past, several notices and resolutions of the World Health Organization (WHO) express the organization's position
+
+regarding the need to value the use of these drugs, in the health field, being observed as a normative basis for the maintenance
+
+of health (Unesco, 2020).
+
+In 2006, the National Policy on Integrative and Complementary Practices was granted in order to establish guidelines
+
+and institutional responsibilities for the implementation/adaptation of actions and services in traditional Chinese
+
+medicine/acupuncture, homeopathy, medicinal plants and phytotherapy, in addition to establishing health observatories for
+
+social thermalism/crenotherapy and for anthroposophical medicine in the Unified Health System (Brasil, 2012).
+
+In line with the above, in 2012, the Brazilian Ministry of Health launched the Primary Care Booklet 31, which guides
+
+the actions to be performed by the Basic Health Units and their professionals, in addition to making a historical overview of
+
+national policies and informing on the norms, guidelines, services and products related to phytotherapy in the Family Health
+
+Strategy/Primary Care. The objective of this is to implement new programs, improving the population's access to safe and
+
+quality products and services; sensitize and guide managers and health professionals in the formation and implementation of
+
+policies, programs, projects and structures that aim to strengthen phytotherapy, with an emphasis on primary care (Brasil,
+
+2012).
+
+In this context, since the Amazon Rainforest is a rich region with a large number of plants and phytotherapy practice
+
+is relevant in Brazil, the goal of this study was to perform a systematic review on medicinal plants used in this region, listing
+
+the name of the species, location found, and its importance for traditional medicine and for local people.
+
+2. Methodology
+
+The study is a systematic review of scientific articles on medicinal plants found in the Amazon region, which are used
+
+2
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+in folk medicine; and it was made following the recommendation for PRISM reports of systematic reviews and meta-analyses
+
+(Moher et al., 2009).
+
+Eligible studies were identified in searches carried out on July 4, 2019, in the PubMed/Medline (National Library of
+
+Medicine, Bethesda, MD) and Lilacs (Latin American and Caribbean Literature on health sciences) databases. The keyword
+
+combinations used in database searches, covering the Portuguese, Spanish and English languages, used in accomplishment
+
+researches were (“Plantas medicinais”) AND (“Amazonia OR região amazonica”), (“Plants medicinal”) AND (“Amazon OR
+
+amazon region”) and (“Plantas medicinales”) AND (“Amazon OR región amazónica”). In this research, all items were
+
+identified, regardless of study design.
+
+The criteria for inclusion were data about the medicinal plants of the Amazon region, which are used by folk medicine
+
+for the treatment of diseases. Additionally, the exclusion criteria used were divided into three categories. First, data with a
+
+publication period before 2009. Second, review articles, historical documents, theses, and dissertations, considering only
+
+scientific articles. Third, escape from the theme of the present study, as well as data published without location information,
+
+locations outside of the Amazon region, lack of scientific names of medicinal plants and data that does not demonstrate the use
+
+of medicinal plants by population, with based on reading the title and abstract of the article.
+
+The selected articles were evaluated by the reviewers considering the reading and careful analysis of the full text, by
+
+removing those who deliberate the exclusion criteria adopted. Still, the existence of data duplication in the same database and
+
+between databases was checked, and each item was counted only once. The information to be removed from articles included
+
+in the study were the names of plant species, the reason for its use, and how it was used, according to the Amazon region.
+
+The results were described in a table, listing the characteristics of the botanical family, the plant species, the purpose
+
+of the study, the medicinal use, the form of preparation of the medicinal plant, the route of administration, the location found
+
+and the authors and year of the articles (Table 1).
+
+3. Results
+
+After the use of the above descriptors in the databases, 311 published articles were identified between January 1,
+
+2009, and the date of search (July 4, 2019), of which 39 were repeated and were counted only once. After deleting them, there
+
+were 272 remaining items, of which 36 were not scientific articles. Then, reading the titles and summaries of other 236 articles,
+
+to identify which did not fit the criteria for inclusion, data about the medicinal plants of the Amazon region, which are used by
+
+folk medicine for the treatment of diseases. After this analysis, 51 items remained. With the reading of the articles in their
+
+entirety, there were 13 items left which were included in this review, because the others didn't bring the information about the
+
+medicinal plants of the Amazon region, which are used by folk medicine for the treatment of diseases (Figure 1).
+
+The results obtained regarding the botanical family, the main species, the purposes of the studies, the medicinal use,
+
+the form of use and the local application of medicinal plants in the Amazon region are listed in Table 1.
+
+3
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Figure 1 - Flowchart for the systematic process of article selection according to the PRISMA model.
+
+Source: Authors.
+
+4
+
+Botanical family
+
+Fabaceae
+
+Arecaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Table 1 – Characteristics of studies on the use of medicinal plants by the Amazon region population published between the years of 2009 and 2019.
+
+Main species
+
+Purpose of the study
+
+Medicinal use
+
+Preparation
+
+Route of administration
+
+Erythrina fusca Loureiro
+
+Studying, recording and disseminating ethno-knowledge
+
+Tumors, inflammation and cancer
+
+Cooked
+
+Oral
+
+Diplotropis purpurea var. leptophylla (Kleinhoonte) Amshoff
+
+Studying, recording and disseminating ethno-knowledge
+
+Tonsillitis
+
+Infusion
+
+Oral
+
+Capaifera paupera (Herzog) Dwyer
+
+Studying, recording and disseminating ethno-knowledge
+
+Gastritis and inflammation
+
+Direct use
+
+Oral and topic
+
+Campsiandra angustifolia Spruce ex Bentham
+
+Studying, recording and disseminating ethno-knowledge
+
+Diarrhea, “belly” pain, liver and rheumatism
+
+Cooked
+
+Oral
+
+Vigna unguiculata (L.) Walpers
+
+Studying, recording and disseminating ethno-knowledge
+
+Diuretic and laxative
+
+Cooked
+
+Oral
+
+Senna alata (L.) Roxburgh
+
+Studying, recording and disseminating ethno-knowledge
+
+Antibacterial, diarrhea and infections
+
+Infusion
+
+Oral
+
+Anadenanthera peregrina
+
+Seek information from indigenous communities about medicinal plants used as anti-malarials
+
+Malaria
+
+Inhalation
+
+--------
+
+Amburana cearensis (Fr.Allem.) A.C.Sm.
+
+Dalbergia monetária L. f
+
+Attalea bassleriana (Burret)
+
+Describe traditional medicine and analyze plants that can be investigated pharmacologically Select species for the treatment of gastrointestinal disorders Studying, recording and
+
+Diabetes and anemia
+
+Diarrhea
+
+Fractures
+
+Decoction
+
+--------
+
+Direct use
+
+Intern use
+
+--------
+
+Topic
+
+5
+
+Place
+
+Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Fronteira Brasil- Colombia- Perú Fronteira Brasil- Colombia- Perú Fronteira Brasil- Colombia- Perú Santa Isabel do Rio Negro, Brazil
+
+Porvenir, Bolivia
+
+Abaetetub a, Brazil Brazil-
+
+Author, year
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Frausin et al., 2015
+
+Hajdu and Hohmann 2012 Gois et al., 2016 Rengifo-
+
+Euphorbiaceae
+
+Moraceae
+
+Rubiaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Zona
+
+disseminating ethno-knowledge
+
+Iriartea deltoidea R.&P.
+
+Studying, recording and disseminating ethno-knowledge
+
+Stomach
+
+Direct use
+
+Phyllanthus niruri L.
+
+Studying, recording and disseminating ethno-knowledge
+
+Fever, kidney and gallstones
+
+Cooked
+
+Croton lechleri Muell Arg.
+
+Studying, recording and disseminating ethno-knowledge
+
+Healing
+
+Direct use
+
+Jatropha curcas L.
+
+Studying, recording and disseminating ethno-knowledge
+
+Alcoholism, fever, gastritis and wounds
+
+Direct use
+
+Jatropha gossypiifolia L.
+
+Hura crepitans L.
+
+Rescuing traditional knowledge about medicinal plants Collect information on plant ethnomedicine in general
+
+"Athlete's foot" and cold Snake bite and injuries
+
+Decoction and bath Decoction, dye, fresh and infusion
+
+Ficus insipida Wildenow
+
+Studying, recording and disseminating ethno-knowledge
+
+Hernias
+
+Direct use
+
+Brosimum guianense (Aubl) Huber
+
+Studying, recording and disseminating ethno-knowledge
+
+“Womb” cancer
+
+Cooked
+
+Ficus guianensis Desvaus
+
+Studying, recording and disseminating ethno-knowledge
+
+Rheumatism and fractures
+
+Direct use
+
+Genipa americana L.
+
+Studying, recording and disseminating ethno-knowledge
+
+Antiparasitic
+
+Infusion
+
+6
+
+Oral
+
+Oral
+
+Topic
+
+Oral and topic
+
+Internal and external use Internal and external use
+
+Topic
+
+Oral
+
+Topic
+
+Oral
+
+Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Rondônia, Brazil Paranapur a, Peru Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru Border Brazil- Colombia- Peru
+
+Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Santos and Lima 2014 Odonne et al., 2013
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Rengifo- Salgado et al., 2017
+
+Annonaceae
+
+Rhamnaceae
+
+Apocynaceae
+
+Solanaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Faramea anisocalyx Poeppig
+
+Collect information on plant ethnomedicine in general
+
+Anemia
+
+Decoction
+
+Uncaria guianensis (Aublet) Gmelin
+
+Studying, recording and disseminating ethno-knowledge
+
+Gastritis, cancer, prostate, liver and pain
+
+Cooked
+
+Uncaria tomentosa D.C.
+
+Recognize the plants used to treat women's illnesses
+
+Contraceptive
+
+Decoction
+
+Calycophyllum spruceanum (Benth.) K.Schum.
+
+Recognize the plants used to treat women's illnesses
+
+Vaginal pains
+
+Decoction
+
+Unonopsis spectabilis Diels
+
+Studying, recording and disseminating ethno-knowledge
+
+Gastritis
+
+Infusion
+
+Ampelozizyphus amazonicus Ducke
+
+Aspidosperma rigidum Rusby Geissospermum argenteum Woodson
+
+Investigate, rescue and report popular knowledge about medicinal plants Select plants used to treat malaria and fever Select plants used to treat malaria and fever
+
+Malaria, liver and “strengthening the blood” Malaria, liver, fever and migraine Malaria, liver and hepatitis
+
+Maceration
+
+--------
+
+--------
+
+Himatanthus sucuuba (Spr. Ex Müll.Arg.) W.
+
+Select plants used to treat malaria and fever; select species for the treatment of gastrointestinal disorders
+
+Malaria and gastritis
+
+--------
+
+Physalis angulata L.
+
+Document indigenous knowledge about the use of medicinal plants
+
+Fungi on the skin and cholelithiasis
+
+Juice, infusion and decoction
+
+Solanum mammosum L.
+
+Describe traditional medicine and
+
+Skin fungi, infertility
+
+Decoction and
+
+7
+
+Shower
+
+Oral
+
+Intern use
+
+Oral
+
+Oral
+
+Oral
+
+---------
+
+---------
+
+---------
+
+Internal and external use
+
+Internal use
+
+Border
+
+Paranapur a, Peru
+
+Brazil- Colombia- Peru Border Leticia, Colombia and Puerto Nariño, Brazil Leticia, Colombia and Puerto Nariño, Brazil Brazil- Colombia- Peru Border
+
+Manaus, Brazil
+
+Oriximina , Brazil Oriximina , Brazil Oriximina , Brazil and Abaetetub a, Brazil Coronel Portillo, Peru Porvenir,
+
+Odonne et al., 2013
+
+Rengifo- Salgado et al., 2017
+
+Castillo 2015
+
+Castillo 2015
+
+Rengifo- Salgado et al., 2017
+
+Veiga and Scudeller 2015 Oliveira et al., 2015 Oliveira et al., 2015
+
+Oliveira et al., 2015; Gois et al., 2016
+
+Polesna et al., 2011
+
+Hajdu and
+
+Asteraceae
+
+Lamiaceae
+
+Anacardiaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+analyze plants that can be investigated pharmacologically
+
+and skin infections
+
+poultice
+
+Solanum sessiliflorum Dunal
+
+Recognize the plants used to treat women's illnesses
+
+Burns and diabetes
+
+Juice, tincture and decoction
+
+Mikania lindleyana DC.
+
+Pluchea sagittalis (Lam.) Cabrera
+
+Vernonia condensata Baker.
+
+Spilanthes acmella (L.) Murray
+
+Achyrocline satureioides D.C.
+
+Mentha sp.
+
+Hyptis crenata Pohl ex. Benth
+
+Select species for the treatment of gastrointestinal disorders Select species for the treatment of gastrointestinal disorders Select species for the treatment of gastrointestinal disorders Investigate, rescue and report popular knowledge about medicinal plants Investigate, rescue and report popular knowledge about medicinal plants Select species for the treatment of gastrointestinal disorders Select species for the treatment of gastrointestinal disorders Select species for the treatment of gastrointestinal disorders
+
+Stomachache
+
+Stomach pain and gastritis Stomach pain and diarrhea
+
+Liver
+
+Stomach, fever and malaria
+
+Stomach and “belly” pain Bellyache, diarrhea and colic
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+Coleus sp.
+
+Stomachache
+
+---------
+
+Anacardium occidentale L.
+
+Select species for the treatment of gastrointestinal disorders
+
+Diabetes, ringworm, diarrhea, gastritis and inflammation
+
+Cooked Juice
+
+Mangifera indica L.
+
+Check plants used by traditional medicine
+
+Wound cleaning and diarrhea
+
+Juice
+
+Anacardium humile A.St.- Hil.
+
+Check plants used by traditional medicine
+
+Inflammation
+
+Cooked
+
+8
+
+Internal and external use
+
+---------
+
+--------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+Oral and topic
+
+Topic
+
+Oral
+
+Bolivia
+
+Leticia, Colombia and Puerto Nariño, Brazil Abaetetub a, Brazil Abaetetub a, Brazil Abaetetub a, Brazil
+
+Manaus, Brazil
+
+Manaus, Brazil
+
+Abaetetub a, Brazil Abaetetub a, Brazil Abaetetub a, Brazil
+
+Abaetetub a, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Hohmann 2012
+
+Castillo 2015
+
+Gois et al., 2016 Gois et al., 2016 Gois et al., 2016 Veiga and Scudeller 2015 Veiga and Scudeller 2015 Gois et al., 2016 Gois et al., 2016 Gois et al., 2016
+
+Gois et al., 2016
+
+Mesquita and Tavares- Mastins 2018 Mesquita and Tavares- Mastins
+
+Piperaceae
+
+Rutaceae
+
+Myrtaceae
+
+Zingiberaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Peperomia pellucida (L.) Kunth
+
+Check plants used by traditional medicine
+
+"Earthworms"
+
+Cooked
+
+Piper alatipetiolatum Yunck.
+
+Check plants used by traditional medicine
+
+The flu
+
+Juice and maceration
+
+Piper peltatum L.
+
+Pothomorphe umbellata (L.)
+
+Rescuing traditional knowledge about medicinal plants Rescuing traditional knowledge about medicinal plants
+
+Hepatitis, anemia and kidney infection Hepatitis, malaria and headache
+
+Infusion, decoction
+
+Maceration
+
+Ruta graveolens L.
+
+Check plants used by traditional medicine
+
+Headache
+
+Maceration
+
+Citrus reticulata
+
+Citrus sinensis (L.) Osbeck
+
+Citrus cf. aurantium L.
+
+Eucalyptus sp.
+
+Eugenia malaccensis L.
+
+Describe traditional medicine and analyze plants that can be investigated pharmacologically Investigate, rescue and report popular knowledge about medicinal plants Investigate, rescue and report popular knowledge about medicinal plants Investigate, rescue and report popular knowledge about medicinal plants Investigate, rescue and report popular knowledge about medicinal plants
+
+Eyes and stomach pain
+
+Stomach and liver
+
+Anemia
+
+Fever
+
+Anemia
+
+Infusion
+
+---------
+
+---------
+
+---------
+
+---------
+
+Zingiber officinale Roscoe
+
+Check plants used by traditional medicine
+
+Cough
+
+Syrup
+
+9
+
+Oral
+
+Topic
+
+---------
+
+---------
+
+Topic
+
+Intern use
+
+---------
+
+---------
+
+---------
+
+---------
+
+Oral
+
+Ilha do Mosqueir o, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Rondônia, Brazil Rondônia, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Porvenir, Bolivia
+
+Manaus, Brazil
+
+Manaus, Brazil
+
+Manaus, Brazil
+
+Manaus, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+2018 Mesquita and Tavares- Mastins 2018 Mesquita and Tavares- Mastins 2018 Santos and Lima 2014 Santos and Lima 2014 Mesquita and Tavares- Mastins 2018 Hajdu and Hohmann 2012 Veiga and Scudeller 2015 Veiga and Scudeller 2015 Veiga and Scudeller 2015 Veiga and Scudeller 2015 Mesquita and Tavares-
+
+Alligatoridae
+
+Humiriaceae
+
+Burseraceae
+
+Cichlidae
+
+Poaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Alpinia speciosa (Blume) D. Dietr.
+
+Caiman crocodilus
+
+Paleosuchus trigonatus
+
+Investigate, rescue and report popular knowledge about medicinal plants Conduct research with traditional healing experts Conduct research with traditional healing experts
+
+Fever
+
+Psychoactive
+
+Psychoactive
+
+---------
+
+---------
+
+---------
+
+Endopleura uchi (Huber) Cuatrec
+
+Check plants used by traditional medicine
+
+Inflammation and diabetes
+
+Cooked
+
+Schistostemon macrophyllum Protium amazonicum (Cuatrec.) Protium cf. aracouchini (Aubl.) Protium cf. heptaphyllum (Aubl.)
+
+Conduct research with traditional healing experts Conduct research with traditional healing experts Conduct research with traditional healing experts
+
+Conduct research with traditional healing experts
+
+Contraceptive
+
+Analgesic
+
+Analgesic
+
+Analgesic
+
+---------
+
+---------
+
+---------
+
+---------
+
+Acaronia nassa
+
+Crenicichla cincta
+
+Mesonauta insignis
+
+Satanoperca jurupari
+
+Conduct research with traditional healing experts Conduct research with traditional healing experts Conduct research with traditional healing experts Conduct research with traditional healing experts
+
+Respiratory system
+
+Respiratory system
+
+Respiratory system
+
+Respiratory system
+
+---------
+
+---------
+
+---------
+
+---------
+
+Cymbopogon citratus
+
+Check plants used by traditional medicine
+
+Stomach
+
+Cooked, maceration and infusion
+
+Oryza sativa L.
+
+Describe traditional medicine and analyze plants that can be
+
+Stomach
+
+Decoction, toasting and
+
+10
+
+---------
+
+---------
+
+---------
+
+Oral
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+---------
+
+Topic and oral
+
+Intern use
+
+Manaus, Brazil
+
+Barcelos, Brazil Barcelos, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Barcelos, Brazil Barcelos, Brazil Barcelos, Brazil
+
+Barcelos, Brazil
+
+Barcelos, Brazil Barcelos, Brazil Barcelos, Brazil Barcelos, Brazil
+
+Ilha do Mosqueir o, Brazil
+
+Porvenir, Bolivia
+
+Mastins 2018 Veiga and Scudeller 2015 Santos et al., 2012 Santos et al., 2012 Mesquita and Tavares- Mastins 2018 Santos et al., 2012 Santos et al., 2012 Santos et al., 2012 Santos et al., 2012
+
+Santos et al., 2012 Santos et al., 2012 Santos et al., 2012 Santos et al., 2012 Mesquita and Tavares- Mastins 2018 Hajdu and Hohmann
+
+Celastraceae
+
+Amaranthacea e
+
+Malvaceae
+
+Meliaceae
+
+Sapindaceae
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Zea mays L.
+
+Maytenus krukovii
+
+investigated pharmacologically Describe traditional medicine and analyze plants that can be investigated pharmacologically Collect information on plant ethnomedicine in general
+
+Kidneys
+
+Anemia and rheumatism
+
+grinding
+
+Infusion
+
+Decoction
+
+Chenopodium ambrosioides
+
+Select species for the treatment of gastrointestinal disorders; rescue traditional knowledge about medicinal plants
+
+Diarrhea, nausea, stomach pain and tuberculosis
+
+---------
+
+Alternanthera dentata (Moench) Stuchlík ex R.E.Fr.
+
+Rescuing traditional knowledge about medicinal plants
+
+Infections and inflammation
+
+Infusion and decoction
+
+Ceiba pentandra (L.) Gaertn.
+
+Recognize the plants used to treat women's illnesses
+
+Fertility
+
+Maceration
+
+Gossypium herbaceum L.
+
+Recognize the plants used to treat women's illnesses
+
+Fertility and menstrual cramps
+
+Decoction
+
+Hibiscus sabdariffa L.
+
+Recognize the plants used to treat women's illnesses
+
+Regulation of menopause
+
+Infusion
+
+Carapa guianensis Aubl.
+
+Conduct research with traditional healing experts
+
+Anti-inflammatory and dermatological and urinary disorders
+
+Exudato
+
+Melicoccus lepidopetalus Radlk
+
+Describe traditional medicine and analyze plants that can be investigated pharmacologically
+
+Diarrhea and dysentery
+
+Decoction
+
+11
+
+Intern use
+
+---------
+
+---------
+
+---------
+
+Bath and oral
+
+Oral
+
+Oral
+
+---------
+
+Intern use
+
+Porvenir, Bolivia
+
+Paranapur a, Peru Abaetetub a, Brazil and Rondônia, Brazil
+
+Rondônia, Brazil
+
+Leticia, Colombia and Puerto Nariño, Brazil Leticia, Colombia and Puerto Nariño, Brazil Leticia, Colômbia and Puerto Nariño, Brazil
+
+Barcelos, Brazil
+
+Porvenir, Bolivia
+
+2012 Hajdu and Hohmann 2012 Odonne et al., 2013
+
+Gois et al., 2016; Santos and Lima 2014
+
+Santos and Lima 2014
+
+Castillo 2015
+
+Castillo 2015
+
+Castillo 2015
+
+Santos et al., 2012
+
+Hajdu and Hohmann 2012
+
+Cucurbitaceae
+
+Bignoniaceae
+
+Cyperaceae
+
+.
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Scoparia dulcis L.
+
+Recognize the plants used to treat women's illnesses
+
+Hematoma, inflammation and toothache
+
+Infusion
+
+Lagenaria siceraria
+
+Citrullus lanatus
+
+Cucurbita sp.
+
+Describe traditional medicine and analyze plants that can be investigated pharmacologically Describe traditional medicine and analyze plants that can be investigated pharmacologically Describe traditional medicine and analyze plants that can be investigated pharmacologically
+
+Scabies and furuncle
+
+Vomiting
+
+Rapture and remastered
+
+Grinding and rough
+
+Grinding
+
+Grinding and decoction
+
+Crescentia cujete L.
+
+Recognize the plants used to treat women's illnesses
+
+Fertility and healing
+
+Maceration and crude
+
+Tabebuia impetiginosa
+
+Tabebuia aurea
+
+Describe traditional medicine and analyze plants that can be investigated pharmacologically Describe traditional medicine and analyze plants that can be investigated pharmacologically
+
+Rheumatism, malaria, kidneys and cancer
+
+Appendicitis, fever, weakness, liver and kidneys
+
+Decoction
+
+Decoction
+
+Cyperus articulatus L.
+
+Check plants used by traditional medicine
+
+Asthma
+
+Cooked
+
+Cyperus prolixus Kunth
+
+Collect information on plant ethnomedicine in general
+
+Diarrhea
+
+Crushed or chewed
+
+Source: Authors.
+
+12
+
+Intern use
+
+Shower
+
+Intern use
+
+Massage
+
+Internal and external use
+
+Intern use
+
+Intern use
+
+Oral
+
+---------
+
+Leticia, Colombia and Puerto Nariño, Brazil
+
+Porvenir, Bolivia
+
+Porvenir, Bolivia
+
+Porvenir, Bolivia
+
+Leticia, Colombia and Puerto Nariño, Brazil
+
+Porvenir, Bolivia
+
+Porvenir, Bolivia
+
+Ilha do Mosqueir o, Brazil
+
+Paranapur a, Peru
+
+Castillo 2015
+
+Hajdu and Hohmann 2012 Hajdu and Hohmann 2012 Hajdu and Hohmann 2012
+
+Castillo 2015
+
+Hajdu and Hohmann 2012 Hajdu and Hohmann 2012 Mesquita and Tavares- Mastins 2018 Odonne et al., 2013
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+4. Discussion
+
+Ethnobotany is considered an important area of science, as it studies the ecological and cultural influences of plants
+
+from ancient and modern society, with great repercussions in pharmacology. In this context, ethnobotanical research extracts
+
+information about folk knowledge regarding plants so that studies that aim their beneficial use can be carried out. Thus, in
+
+addition to valuing folk knowledge, it can develop technologies to take advantage of these sustainable resources (Cragg;
+
+Newman, 2013).
+
+One of the most important practices related to ethnobotany is called a blessing, which is a healing alternative practiced
+
+by women, usually called folk healers, who aim to heal through the use of plants and religion (Júnior et al., 2013). According
+
+to the evolutionary process, it is observed that women have most of the knowledge of the use of medicinal plants and, thus, the
+
+responsibility to take care of family health falls on them (Vásquez et al., 2014) Therefore, the main source of medicinal plants
+
+are the backyards of the houses, being them cultivated directly from the ground or flower beds, and, in the background, the
+
+forest also ends up serving as a means of access (Carniello et al., 2010).
+
+In the Amazon region, which is home to various indigenous tribes, this practice is widely used by shamans, usually in
+
+rituals associated with supernatural factors. In addition to that, plants are also used as amulets, to scare the evil eye, during
+
+childbirth and religious rituals (Rocha, 2014). In this place, the knowledge related to the use of medicinal plants is orally
+
+transmitted from generation to generation (Freitas, 2014), that is, this knowledge is part of the culture of most people.
+
+In this context, there are studies that indicate a national trend of deficit of scientific knowledge on the part of health
+
+professionals and the general population regarding Integrative and Complementary Practices, and a large part of pre-existing
+
+knowledge is conditioned to knowledge passed on through parental relationships and/or isolated events (Goés; Silva; Castro,
+
+2019).
+
+In this region, the main way of preparing medicinal plants is tea, which can be prepared in four main ways: (1)
+
+infusion, which consists of putting the contents of the plant in boiling water for 15-20 minutes, letting it rest for 5-10 minutes
+
+and then straining it is more used for the soft parts of plants, such as flowers or leaves; (2) decoction, which consists of placing
+
+the material in cold water and cooking it for 5-30 minutes and then straining it, is indicated for the hard parts of the plant, such
+
+as stems, roots, and barks; (3) maceration, which consists of placing the contents in cold water for 10-24 hours and then
+
+straining it is used for different parts of the plant, such as flowers, leaves, seeds, stems, roots, and barks; (4) herbal tea, which
+
+consists of placing the contents in a pan with boiling water for 5 minutes and then straining it, is used for herbs (Who, 2018).
+
+Medicinal plants are often used in powder form, made from the dried plant, since crushing and sifting is necessary.
+
+Then, this powder can be used to prepare infusions, decoctions, or oils. Besides, juices are also widely used, needing only to
+
+have its herbs crushed and then strained. Syrups are prepared with a mixture of 50% juice, decocted or macerated, and 50%
+
+honey. As a form of external use, poultice stands out, a form in which fresh or dried herbs are used, which is placed directly on
+
+the spot you want it. The bath is also an external use form, because despite being prepared from an infusion, instead of
+
+ingesting it, it is used to wash the body (Who, 2018).
+
+Other ways of using medicinal plants involve inhalation, which consists of placing the contents in boiling water and
+
+slowly inhaling the released steam, and tincture intake, prepared as if it were a maceration, but using alcohol, preferably
+
+cereals, being consumed in drops diluted in cold water, ointments, or rubs. The tincture form is the one that most preserves the
+
+active principles of medicinal plants, since most are soluble in alcohol (Who, 2018).
+
+Even with people’s access to traditional medicine, medicinal plants are still widely used for maintaining health in
+
+some communities in the Amazon (Vásquez et al., 2014). In this study, the main botanical families used in this region were
+
+analyzed with Fabaceae being the most frequent, presenting species pointed out by the population as effective in the treatment
+
+13
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+of gastrointestinal alterations, it is usually used in the form of infusing or cooked (in the colloquial language) for cases of
+
+diarrhea and abdominal pain. In addition, they are species used to treat infections, inflammations, liver disorders, and even
+
+cancer (Frausin et al., 2015; Gois et al., 2016; Rengifo-Salgado et al., 2017) (Table 1, columns 1, 2, and 4).
+
+The Euphorbiaceae and Rubiaceae families described in different studies are identified by the population as useful for
+
+liver, gallbladder, stomach, and kidneys’ alterations relief, in addition to pain and fever reducing. These species are mainly
+
+used in the forms of decoction, macerated or infused (Odonne et al., 2013; Santos et al., 2014; Castillo, 2015; Giovannini,
+
+2015) (Table 1, columns 1, 2, and 4).
+
+Species of the Solanaceae Family are listed by the population as effective for treating rheumatic alterations and
+
+reducing fungal infections. The main ways of preparing and using these species are tea, juice, poultice, and tincture (Polesna et
+
+al., 2011; Castillo, 2015; Gois et al., 2016) (Table 1; columns 1, 2, and 4).
+
+Different species belonging to the Asteraceae, Annonaceae, Poaceae and Burseraceae botanical families have been
+
+reported to have analgesic potential, to reduce stomach pain and improve gastritis, being prepared in various forms, such as
+
+infusion or decoction (Veiga et al., 2015; Gois et al., 2016; Rengifo-Salgado et al., 2017; Mesquita et al., 2018) (Table 1;
+
+columns 1, 2, and 4).
+
+The Rhamnaceae and Apocynaceae families present botanical species used by the population for the treatment of
+
+malaria, that represents an endemic disease for the Amazon region which can be explored by parasitic research groups, so that
+
+better therapies against it can be developed (Oliveira et al., 2015; Veiga et al., 2015; Gois et al., 2016) (Table 1; columns 1, 2,
+
+and 4).
+
+Other botanical families were listed by the Amazon region population and were used for intestinal and respiratory
+
+disorders, anemia, headaches, and fever, among others (Table1). This knowledge, full of inaccuracies, especially with regard to
+
+the method of preparation, indications and scope of the use of plants and herbal medicines, can lead to treatment failure,
+
+leading to a future disbelief in the use of this type of treatment by the patient. (Santos; Léda; Oliveira, 2018).
+
+Folk knowledge about medicinal plants has awakened governmental interest, a fact that has supported policies that
+
+aim to highlight the importance of alternative medicine for more effective and humanizing health care (Brazil, 2000).
+
+Furthermore, there is still a lack of scientific studies that prove the pharmacological properties of the various medicinal plants
+
+existing in Brazil, in order to inform the correct dose to be used, the proper method of preparation, the maximum time that it
+
+can be stored, the indications and possible drug interactions that may exist with both pharmacy drugs and other medicinal
+
+plants
+
+In this sense, Práticas Interativas e Complementares em Saúde (PICS) [Integrative and Complementary Health
+
+Practices] were implemented to integrate different medical practices, such as traditional Chinese medicine, homeopathy, and
+
+herbal medicine, among others (Telesi-Júnior, 2016). PICS aim to expand therapeutic options to users of the Sistema Único de
+
+Saúde (SUS) [Unified Health System], while one of its strategies is to provide access to medicinal plants safely and efficiently
+
+(Rodrigues et al., 2006) which was further reinforced by the Programa Nacional de Plantas Medicinais e Fitoterápicos
+
+[National Program for Medicinal Plants and Herbal Medicines].
+
+The demand for PICS has increased due to its power to guide the doctor-patient relationship as an important element
+
+in therapy, it values simple therapeutic forms, it is less dependent on technologies, and increases the patient’s autonomy over
+
+the healing process itself (Levin et al., 2001; Nogales-Gaete, 2004; Santos et al., 2012).
+
+Folk medicine study, especially of herbal medicines, has received greater attention from pharmacological research, as
+
+they have provided science with a greater amount of information regarding active principles (Vale, 2002). In this sense, folk
+
+14
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+knowledge provides the basis for advances in the fields of therapeutics, emphasizing the importance of updates on traditional
+
+medicine.
+
+The limitations of the study involve the difficulty of obtaining more complete information about the plant species used
+
+in the Amazon region in published articles, in the sense of correlation with therapeutic use, the chosen plant parts, forms of
+
+preparation, route of administration, among others.
+
+5. Conclusion
+
+Traditional medicine, practiced through the use of medicinal plants, proves to be of great importance for the Amazon
+
+region population, so much so that it is a factor present in the culture of these people and that is passed on from generation to
+
+generation. This proves how important this practice is for complementing official medicine. In this sense, it is concluded that
+
+the practice of traditional medicine is very common in the Amazon region and is transmitted orally from generation to
+
+generation. In this practice, the use of medicinal plants in the form of tea is highlighted, with the species in the form of powder,
+
+dried or natural plants. Thus, this study serves as a basis for more in-depth pharmacological investigations to be developed
+
+based on the information cited. Therefore, it is suggested that the strengthening of pharmacological studies involving local
+
+medicinal plants can provide scientific support for popular knowledge.
+
+References
+
+Badke, M. R., Budó, M. D., Silva, F. M. & Ressel, L. B. (2011). Plantas medicinais: o saber sustentado na prática do cotidiano popular. Escola Anna Nery. 15, 132-139.
+
+Braga, P. I. (1979). Subdivisão fitogeográfica, tipos de vegetação, conservação e inventário florístico da floresta amazônica. Acta Amazonica. 9, 53-80.
+
+Brasil (2012). Ministério da Saúde. Caderno de Atenção Básica, n. 31. Práticas integrativas e complementares: plantas medicinais e fitoterapia na Atenção Básica. Brasília, DF.
+
+Brasil (2020). Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução RDC nº 17 de 24 de fevereiro de 2000. Aprova o Regulamento técnico visando normatizar o registro de medicamentos fitoterápicos junto ao sistema de vigilância sanitária. Diário Oficial da União 25 Fev 2000; Seção 1: 25.
+
+Carniello, M. A., Silva, R. D., Cruz, M. A. & Guarim-Neto, G. (2010). Quintais urbanos de Mirassol D'Oeste-MT, Brasil: uma abordagem etnobotânica. Acta Amazonica. 40, 451-70.
+
+Castillo, C. (2015). Plantas Medicinales Utilizadas En El Tratamiento De Enfermedades Ginecológicas En Leticia Y Puerto Nariño (Amazonas, Colombia). Etnobiologia.
+
+Cragg, G. M., Newman, D.J. (2013). Natural products: A continuing source of novel drug leads. Biochimica et Biophysica Acta, 1830, 3670-3695.
+
+Frausin, G., Hidalgo, A. F., Lima, R. B. S., Kinupp, V. F., Ming, L. C., Pohlit, A. M. & Milliken, W. (2015). An ethnobotanical study of anti-malarial plants among indigenous people on the upper Negro River in the Brazilian Amazon. Journal of Ethnopharmacology. 174, 238-252.
+
+Freitas, C. L. (2014). Uso terapêutico e religioso das ervas. Revista Caminhos-Revista de Ciências da Religião. 12, 79-92.
+
+Giovannini, P. (2015). Medicinal plants of the Achuar (Jivaro) of Amazonian Ecuador: ethnobotanical survey and comparison with other Amazonian pharmacopoeias. Journal of Ethnopharmacology. 164, 78-88.
+
+Goés, A. C. C., Silva, L. S. L., Castro, N. J. C. (2019). Uso de Plantas Medicinais e Fitoterápacos. Revista de Atenção à Saúde. 17, 53-61.
+
+Gois, M. A. F., Lucas, F. C. A., Costa, J. C. M., Moura, P. H. B. & Lobato, G. J. M. (2016). Etnobotânica de espécies vegetais medicinais no tratamento de transtornos do sistema gastrointestinal. Revista Brasileira de Plantas Medicinais. 18, 547-557.
+
+Hajdu, Z. & Hohmann, J. (2012). An ethnopharmacological survey of the traditional medicine utilized in the community of Porvenir, Bajo Paraguá Indian Reservation, Bolivia. Journal of Ethnopharmacology. 139, 838-57.
+
+Júnior, H. R. & Neves, S. S. (2013). As práticas de benzimento em Parintins: uma abordagem folkcomunicacional. Revista Eletrônica Mutações. 4, 1-12.
+
+Levin, J. S. & Jonas, W. B. (2001). Tratado de medicina complementar e alternativa. Manole, 1-120.
+
+Mesquita, U. O. & Tavares-Martins, A. C. (2018). Etnobotánica de plantas medicinales en la comunidad de Caruarú, Isla del Mosqueiro, Belém-PA, Brasil. Boletín Latinoamericano y del Caribe de Plantas Medicinales y aromáticas. 17, 130-159.
+
+15
+
+Research, Society and Development, v. 10, n. 14, e163101419965, 2021 (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v10i14.19965
+
+Moher, D., Liberati, A., Tetzlaff, J. & Altman, D. G. (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLOS Medicine. 6, e1000097.
+
+Nogales-Gaete, J. (2004). Medicina alternativa y complementaria. Revista Chilena de Neuropsiquiatria. 42, 243-250.
+
+Odonne, G., Valadeau, C., Alban-Castillo, J., Stien, D., Sauvain, M. & Bourdy, G. (2013). Medical ethnobotany of the Chayahuita of the Paranapura basin (Peruvian Amazon). Journal of Ethnopharmacology. 146, 127-153.
+
+Oliveira, D. R., Krettli, A. U., Aguiar, A. C., Leitão, G. G., Vieira, M. N., Martins, K. S., & Leitão, S. G. (2015). Ethnopharmacological evaluation of medicinal plants used against malaria by quilombola communities from Oriximiná, Brazil. Journal of Ethnopharmacology. 173, 424-434.
+
+Penna Filho, P. (2013). Reflexões sobre o Brasil e os desafios Pan-Amazônicos. Revista Brasileira de Política Internacional. 56, 94-111.
+
+Polesna, L., Polesny, Z., Clavo, M. Z., Hansson, A. & Kokoska, L. (2011). Ethnopharmacological inventory of plants used in Coronel Portillo Province of Ucayali Department, Peru. Pharmaceutical Biology. 49, 125-136.
+
+Rengifo-Salgado, E., Rios-Torres, S., Fachín, M. L. & Vargas-Arana, G. (2017). Saberes ancestrales sobre el uso de flora y fauna en la comunidad indígena Tikuna de Cushillo Cocha, zona fronteriza Perú-Colombia-Brasil. Revista Peruana de Biologia. 24, 67-78.
+
+Rocha, T. T. (2014). Levantamento etnobotânico de plantas utilizadas pelas comunidades da Reserva Extrativista Marinha de Soure, Pará, Brasil. Doctoral dissertation, Programa de Pós-graduação em Ciências Ambientais, UEPA, Belém.
+
+Rodrigues, A. G., Santos, M. G. & Amaral, A. C. F. (2006). Políticas públicas em plantas medicinais e fitoterápicos. Ministério da Saúde (BR), Secretaria de Ciência, Tecnologia e Insumos Estratégicos. Departamento de Assistência Farmacêutica. A fitoterapia no SUS e o programa de pesquisas de plantas medicinais da central de medicamentos, 9-28.
+
+Santos, J. F., Pagani, E., Ramos, J. & Rodrigues, E. (2012). Observations on the therapeutic practices of riverine communities of the Unini River, AM, Brazil. Journal of Ethnopharmacology. 142, 503-515.
+
+Santos, M. C. & Tesser, C. D. (2012). Um método para a implantação e promoção de acesso às Práticas Integrativas e Complementares na Atenção Primária à Saúde. Ciência & Saúde Coletiva. 17, 3011-3024.
+
+Santos, M. R. A., Lima, M. R. & Oliveira, C. L. L. G. (2014). Medicinal plants used in Rondônia, Western Amazon, Brazil. Revista Brasileira de Plantas Medicinais. 16, 707-720.
+
+Santos, S. S., Léda, P. H. O., & Oliveira, D. R. (2018). Plantas Medicinais e Fitoterapia em Oriximiná – Pará, Brasil: Percepção e Intenção de Uso pelos Profissionais do Sistema Único de Saúde (SUS). Vittalle. 30, 11-25.
+
+Telesi-Júnior, E. (2016). Práticas integrativas e complementares em saúde, uma nova eficácia para o SUS. Estudos Avançados. 30, 99-112.
+
+Unesco (2020). Culture and Health. Orientation Texts: World Decade for Cultural Development, Document CLT/DEC/PRO, 129 p.
+
+Vale, N. B. (2002). A farmacobotânica, ainda tem lugar na moderna anestesiologia? Revista Brasileira de Anestesiologia. 52, 368-80.
+
+Vásquez, S. P., Mendonça, M. S. & Noda, S. D. (2014). Etnobotânica de plantas medicinais em comunidades ribeirinhas do Município de Manacapuru, Amazonas, Brasil. Acta Amazonica. 44, 457-472.
+
+Veiga, J. B. & Scudeller, V. V. (2015). Etnobotânica e medicina popular no tratamento de malária e males associados na comunidade ribeirinha Julião – baixo Rio Negro (Amazônia Central). Revista Brasileira de Plantas Medicinais. 17, 737-747.
+
+Who. (2018). Guidelines on Good Herbal Processing Practices for Herbal Medicines. WHO Technical Report Series, No. 1010, Annex 1.
+
+16
